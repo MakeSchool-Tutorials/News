@@ -1,0 +1,1 @@
+“Under a new agreement we just signed, Facebook will actively look for new recruits within Make School’s student body, and Facebook will host events at the main Facebook campus for Make School students.“
