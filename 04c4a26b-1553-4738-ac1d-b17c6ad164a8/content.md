@@ -25,4 +25,4 @@ Nicholas Swift, from last year’s class has been working as full time iOS Devel
 
 Our innovative approach to computer science education has led to recruiting partnerships with Lyft, LinkedIn, and over twenty other Silicon Valley companies. We have also attracted transfer students from top universities, including MIT.
 
-Learn more about Make School’s Product College by visiting our website, here (https://www.makeschool.com/product-college).
+Learn more about Make School’s Product College by visiting our website, [here] (https://www.makeschool.com/product-college).
