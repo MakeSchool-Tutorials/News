@@ -1,0 +1,1 @@
+Fred Luskin and I discuss the whole process of forgiveness and getting over the past. I really trust his opinion – he’s a Professor at Stanford and has led forgiveness work for 9/11 victims, employees at major tech companies, and survivors of genocide. 
