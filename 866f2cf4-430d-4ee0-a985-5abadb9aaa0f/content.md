@@ -43,4 +43,6 @@ Want more?
 
 You may like our episodes on [Deliberate Practice](https://soundcloud.com/positivity-dan/deliberate-practice-rapid) and [Talent](https://soundcloud.com/positivity-dan/talent-daniel-coyle-on-badass) if you want to improve your skills. 
 
-[Click to listen on iTunes](https://itunes.apple.com/us/podcast/positivity-podcast-with-make-school/id1090239384?mt=2).
+[Click to listen on iTunes](https://itunes.apple.com/us/podcast/positivity-podcast-with-make-school/id1090239384?mt=2). 
+
+[Click to listen on Soundcloud](https://soundcloud.com/positivity-dan).
