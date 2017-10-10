@@ -42,4 +42,4 @@ If you want to apply these insights to your own life here are some exercises to 
 Want more?
 
 
-You may like our episodes on [Deliberate Practice](https://soundcloud.com/positivity-dan/deliberate-practice-rapid) and [Talent](https://soundcloud.com/positivity-dan/talent-daniel-coyle-on-badass) if you want to improve your skills. Check out more episodes on [].
+You may like our episodes on [Deliberate Practice](https://soundcloud.com/positivity-dan/deliberate-practice-rapid) and [Talent](https://soundcloud.com/positivity-dan/talent-daniel-coyle-on-badass) if you want to improve your skills. 
