@@ -1,3 +1,1 @@
 Willpower. Self-control. How to get more of it? Sometimes I feel like I hold the leash of the dog of life and sometimes I feel like life is walking me. So how do we reconcile the push and pull? 
-
-<iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/5725889/height/360/width/640/theme/legacy/autonext/no/thumbnail/yes/autoplay/no/preload/no/no_addthis/no/direction/backward/" height="360" width="640" scrolling="no" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
