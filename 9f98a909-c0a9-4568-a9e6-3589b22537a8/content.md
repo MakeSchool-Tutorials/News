@@ -9,7 +9,7 @@ release_date: !ruby/object:ActiveSupport::TimeWithZone
   zone: !ruby/object:ActiveSupport::TimeZone
     name: Etc/UTC
   time: *1
-cover_photo_path: https://cdn.rawgit.com/MakeSchool-Tutorials/News/bb6f1a7e9bdd1184fe2edb7d14ff234c40c6086d//9f98a909-c0a9-4568-a9e6-3589b22537a8/cover_photo.jpeg
+cover_photo_path: https://cdn.rawgit.com/MakeSchool-Tutorials/News/a6d97955200d8005c0bf6b8ea7d2933d4ad9769e//9f98a909-c0a9-4568-a9e6-3589b22537a8/cover_photo.png
 
 ---
 Willpower. Self-control. How to get more of it? Sometimes I feel like I hold the leash of the dog of life and sometimes I feel like life is walking me. So how do we reconcile the push and pull? 
