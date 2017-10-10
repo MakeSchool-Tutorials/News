@@ -13,8 +13,6 @@ cover_photo_path:
 ---
 Willpower. Self-control. How to get more of it? Sometimes I feel like I hold the leash of the dog of life and sometimes I feel like life is walking me. So how do we reconcile the push and pull? 
 
-https://soundcloud.com/positivity-dan/john-tierney
-
 <iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/5725889/height/360/width/640/theme/legacy/autonext/no/thumbnail/yes/autoplay/no/preload/no/no_addthis/no/direction/backward/" height="360" width="640" scrolling="no" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
 John Tierney, NYT bestselling author partnered with Roy Baumiester, leading researcher on the topic of willpower to dissect the 7 tactics you can use to strengthen your willpower; the book hit the top of the charts and hit them on a circuit to help businesses, politicians, and organizations around the world develop what they call – the most important virtue.
