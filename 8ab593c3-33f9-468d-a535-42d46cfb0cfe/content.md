@@ -20,7 +20,7 @@ Here are a few of the main reasons that a computer science student might conside
 - **Job Prospects.** Do the graduates of your school go on to start careers at the companies that interest you? Will you even be _considered _for the job you want with the education that you’re getting? If your school can’t help you meet your goals, it’s time to move on.
 - **Cost.** Maybe the mounting cost of books, tuition, and room & board is getting overwhelming. This problem is even more troubling if your job prospects aren’t coming together. You need to find a program that will give you the education you deserve without ruining you financially.
 
-**Top Advice for Computer Science College Transfers**
+<h2>Top Advice for Computer Science College Transfers</h2>
 
 Transferring to a new school can feel like an overwhelming challenge, but it doesn’t have to be. Keep these tips in mind, and you should have no problem navigating the computer science transfer process.
 
