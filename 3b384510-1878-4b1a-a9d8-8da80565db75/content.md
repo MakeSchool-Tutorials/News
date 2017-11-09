@@ -21,8 +21,6 @@ I started by asking Greg for advice on my own challenges...
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/351682585&amp;color=%23317cb3&amp;auto_play=false&amp;hide_related=true&amp;show_comments=false&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
-[Click to 
-
-listen on iTunes](https://itunes.apple.com/us/podcast/positivity-podcast-with-make-school/id1090239384?mt=2).
+[Click to listen on iTunes](https://itunes.apple.com/us/podcast/positivity-podcast-with-make-school/id1090239384?mt=2).
 
 [Click to listen on Soundcloud](https://soundcloud.com/positivity-dan).
