@@ -1,7 +1,7 @@
 ---
 title: Therapy - Bea Arthur on practices of self understanding and wellness
 custom_slug: therapy-bea-arthur-on-practices-of-self-understanding-and-wellness
-category: gap_year
+category: podcast
 listed: true
 release_date: !ruby/object:ActiveSupport::TimeWithZone
   utc: &1 2017-10-25 00:00:00.000000000 Z
