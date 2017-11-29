@@ -4,7 +4,7 @@ custom_slug: student-spotlight-getting-the-most-out-of-a-gap-year-with-samdrozdo
 category: gap_year
 listed: true
 release_date: !ruby/object:ActiveSupport::TimeWithZone
-  utc: &1 2017-11-29 00:00:00.000000000 Z
+  utc: &1 2017-11-27 00:00:00.000000000 Z
   zone: !ruby/object:ActiveSupport::TimeZone
     name: Etc/UTC
   time: *1
