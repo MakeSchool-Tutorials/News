@@ -1,0 +1,1 @@
+Sam Drozdov talks about his experience during the first iteration of the Product College.
