@@ -1,0 +1,1 @@
+Leslie Kim discusses her interesting route to programming and her time at the Product College
