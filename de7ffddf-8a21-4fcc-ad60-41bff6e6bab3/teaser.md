@@ -1,0 +1,1 @@
+Adjunct professor Scott Tyler on his unique experience as a student at the Summer Academy
