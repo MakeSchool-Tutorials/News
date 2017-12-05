@@ -1,7 +1,7 @@
 ---
 title: 'Student Spotlight: Learning About Learning with Scott Tyler'
 custom_slug: student-spotlight-learning-about-learning-with-scotttyler
-category: gap_year
+category: summer_academy
 listed: true
 release_date: !ruby/object:ActiveSupport::TimeWithZone
   utc: &1 2017-12-05 00:00:00.000000000 Z
