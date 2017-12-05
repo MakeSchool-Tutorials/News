@@ -1,0 +1,1 @@
+Alex Reilly speaks about the benefits of the practical, collaborative learning environment at the Product College.
