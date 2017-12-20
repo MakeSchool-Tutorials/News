@@ -1,0 +1,1 @@
+Daniel Coyle studies talent, particularly the communities that launch a disproportionate number of success stories. Places like a ramshackle tennis court in Moscow, a music academy in New York’s Adirondacks, and a baseball-mad island in the Caribbean. We discuss the environments and coaching strategies that enable talent to thrive.
