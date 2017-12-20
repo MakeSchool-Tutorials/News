@@ -1,0 +1,1 @@
+Ted Dintersmith is on the forefront of innovation in K-12 education. He has a unique background that’s part venture capitalist, part author, part educator, and part filmmaker. So, he thinks a lot about the future of technology, future of employment, how we prepare students for that future, and how to get the word out.
