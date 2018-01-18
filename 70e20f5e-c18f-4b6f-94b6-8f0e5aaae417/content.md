@@ -1,7 +1,7 @@
 ---
 title: Teaching - Tom Vander Ark on agency, self-directed learning, and inspiration
 custom_slug: teaching-tom-vander-ark-on-agency-selfdirected-learning-and-inspiration
-category: gap_year
+category: podcast
 listed: true
 release_date: !ruby/object:ActiveSupport::TimeWithZone
   utc: &1 2018-01-15 00:00:00.000000000 Z
