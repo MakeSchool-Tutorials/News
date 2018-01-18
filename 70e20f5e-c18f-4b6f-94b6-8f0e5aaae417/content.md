@@ -14,6 +14,7 @@ cover_photo_path:
 Tom Vander Ark is a titan in the world of education technology. Few have experience as wide and deep as he.
 
 His career journey ...
+
 *  Superintendent of Federal Way Public schools.
 * Managed $3.5 billion dollars and one-on-one with Bill Gates as the Executive Director of Education for the Gates Foundation.
 *  President of X Prize, an organization that runs multimillion dollar contests for innovation in learning, exploration, energy & environment, global development, and life sciences. 
