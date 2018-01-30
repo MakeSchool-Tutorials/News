@@ -37,22 +37,22 @@ Sarah: We’re a diverse group — we have people here from Fortune 500 comp
 
 **If you’re passionate about shaping the future of computer science education**, we’re interested in hearing from you. We’re interviewing candidates for the following positions:
 
-*City Manager — Los Angeles
+- City Manager — Los Angeles
 
-*City Manager — New York City
+- City Manager — New York City
 
-*Full Stack Web Instructor and Curriculum Engineer
+- Full Stack Web Instructor and Curriculum Engineer
 
-*Growth Hacker
+- Growth Hacker
 
-*Head of Admissions
+- Head of Admissions
 
-*iOS Summer Academy Instructor
+- iOS Summer Academy Instructor
 
-*Ruby on Rails Engineer
+- Ruby on Rails Engineer
 
-*Student Experience Lead
+- Student Experience Lead
 
-*Web and Marketing Designer
+- Web and Marketing Designer
 
 **Check out our [jobs page] (https://www.makeschool.com/jobs) to learn more and apply. We’re excited to meet you!**
