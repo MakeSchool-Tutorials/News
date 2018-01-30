@@ -17,7 +17,7 @@ Here are a few of the main reasons that a computer science student might conside
 
 - **Size.** Perhaps you were drawn to the prestige of a large school only to realize that 400 students per computer science class is way too many for you. If you can’t easily get personal attention or make connections with your fellow students, you may want to look at smaller programs.
 - **Curriculum.** Maybe you’re at a college with brilliant professors, but they only talk about theory. Or maybe the teachers haven’t learned a new programming language in the last decade. You’ll need practical experience with the latest technologies to get a good job when you graduate, so you may want to find a program with more hands-on opportunities.
-- **Job Prospects.** Do the graduates of your school go on to start careers at the companies that interest you? Will you even be _considered _for the job you want with the education that you’re getting? If your school can’t help you meet your goals, it’s time to move on.
+- **Job Prospects.** Do the graduates of your school go on to start careers at the companies that interest you? Will you even be _considered_ for the job you want with the education that you’re getting? If your school can’t help you meet your goals, it’s time to move on.
 - **Cost.** Maybe the mounting cost of books, tuition, and room & board is getting overwhelming. This problem is even more troubling if your job prospects aren’t coming together. You need to find a program that will give you the education you deserve without ruining you financially.
 
 <h2>Top Advice for Computer Science College Transfers</h2>
