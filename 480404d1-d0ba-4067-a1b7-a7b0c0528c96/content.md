@@ -3,8 +3,12 @@ title: Building Company and Culture
 custom_slug: building-company-andculture
 category: other
 listed: true
-release_date: 2016-11-04 00:00:00.000000000 Z
-cover_photo_path: https://git.makeschool.com/MakeSchool-Tutorials/News/027f80668ccbafc5da23d6e5cfd251a00809251f//480404d1-d0ba-4067-a1b7-a7b0c0528c96/cover_photo.jpeg
+release_date: !ruby/object:ActiveSupport::TimeWithZone
+  utc: &1 2016-11-04 00:00:00.000000000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: Etc/UTC
+  time: *1
+cover_photo_path: https://cdn.rawgit.com/MakeSchool-Tutorials/News/027f80668ccbafc5da23d6e5cfd251a00809251f//480404d1-d0ba-4067-a1b7-a7b0c0528c96/cover_photo.jpeg
 
 ---
 ---
@@ -33,22 +37,22 @@ Sarah: We’re a diverse group — we have people here from Fortune 500 comp
 
 **If you’re passionate about shaping the future of computer science education**, we’re interested in hearing from you. We’re interviewing candidates for the following positions:
 
-* City Manager — Los Angeles
+*City Manager — Los Angeles
 
-* City Manager — New York City
+*City Manager — New York City
 
-* Full Stack Web Instructor and Curriculum Engineer
+*Full Stack Web Instructor and Curriculum Engineer
 
-* Growth Hacker
+*Growth Hacker
 
-* Head of Admissions
+*Head of Admissions
 
-* iOS Summer Academy Instructor
+*iOS Summer Academy Instructor
 
-* Ruby on Rails Engineer
+*Ruby on Rails Engineer
 
-* Student Experience Lead
+*Student Experience Lead
 
-* Web and Marketing Designer
+*Web and Marketing Designer
 
 **Check out our [jobs page] (https://www.makeschool.com/jobs) to learn more and apply. We’re excited to meet you!**
