@@ -8,7 +8,7 @@ release_date: !ruby/object:ActiveSupport::TimeWithZone
   zone: !ruby/object:ActiveSupport::TimeZone
     name: Etc/UTC
   time: *1
-cover_photo_path: https://cdn.rawgit.com/MakeSchool-Tutorials/News/8575473edc6cc3a1cbb22302025623f938ad494a//6f2c5e1a-d033-4b51-93fc-764eba3d2585/cover_photo.jpeg
+cover_photo_path: https://cdn.rawgit.com/MakeSchool-Tutorials/News/44be68f5838ef4597c12d78e7e769b748ad17120//6f2c5e1a-d033-4b51-93fc-764eba3d2585/cover_photo.jpeg
 
 ---
 Our school systems have drilled the idea into our heads that grades are the most important indicator of success. Without good grades, you’ll spend the rest of your days living in your parent’s basement. Or so your parents and teachers would have you believe. 
