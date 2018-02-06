@@ -1,0 +1,1 @@
+Product College alum Carlos Diez on staying positive and continuing to learn.
