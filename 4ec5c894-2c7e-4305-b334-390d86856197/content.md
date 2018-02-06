@@ -4,7 +4,7 @@ custom_slug: student-spotlight-bringing-a-growth-mindset-back-home-with-carlos-d
 category: product_college
 listed: true
 release_date: !ruby/object:ActiveSupport::TimeWithZone
-  utc: &1 2018-02-07 00:00:00.000000000 Z
+  utc: &1 2018-02-06 00:00:00.000000000 Z
   zone: !ruby/object:ActiveSupport::TimeZone
     name: Etc/UTC
   time: *1
@@ -19,7 +19,9 @@ After high school Carlos enrolled at Universidad Ibero, one of the best universi
 
 Carlos decided to drop out and focus on learning mobile development on his own. One day he came across a video of Make School co-founder Jeremy Rossmann explaining why he created Make School. “I had just dropped out of college and knew I didn't want to go through the conventional education system. I really identified with the reasons Jeremy gave for why he dropped out of MIT. The Product College sounded like a perfect fit for me.”
 
+
 ##An unconventional computer science education
+
 
 Happening across that video led Carlos “to one of the best experiences of my life.”
 
