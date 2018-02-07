@@ -1,0 +1,1 @@
+In the tech industry, experience building viable products trumps credentials.
