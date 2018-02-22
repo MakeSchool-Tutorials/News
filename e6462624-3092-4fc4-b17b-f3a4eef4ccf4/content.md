@@ -1,7 +1,7 @@
 ---
-title: 'Student Spotlight: Making What People Want with Alex Reilly'
-custom_slug: student-spotlight-making-what-people-want-with-alexreilly
-category: gap_year
+title: Making What People Want with Alex Reilly
+custom_slug: making-what-people-want-with-alexreilly
+category: student_spotlight
 listed: true
 release_date: !ruby/object:ActiveSupport::TimeWithZone
   utc: &1 2017-12-06 00:00:00.000000000 Z
