@@ -1,7 +1,7 @@
 ---
-title: 'Student Spotlight: Building Something for the World with Josh Archer'
-custom_slug: student-spotlight-building-something-for-the-world-with-josh-archer
-category: gap_year
+title: Building Something for the World with Josh Archer
+custom_slug: building-something-for-the-world-with-josh-archer
+category: student_spotlight
 listed: true
 release_date: !ruby/object:ActiveSupport::TimeWithZone
   utc: &1 2018-01-22 00:00:00.000000000 Z
