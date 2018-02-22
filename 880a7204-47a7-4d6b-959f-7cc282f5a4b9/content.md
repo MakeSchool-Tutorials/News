@@ -1,7 +1,7 @@
 ---
-title: 'Student Spotlight: Following Up and Following Through with Trevin Wisaksana'
-custom_slug: student-spotlight-following-up-and-following-through-with-trevin-wisaksana
-category: product_college
+title: Following Up and Following Through with Trevin Wisaksana
+custom_slug: following-up-and-following-through-with-trevin-wisaksana
+category: student_spotlight
 listed: true
 release_date: !ruby/object:ActiveSupport::TimeWithZone
   utc: &1 2018-02-04 00:00:00.000000000 Z
