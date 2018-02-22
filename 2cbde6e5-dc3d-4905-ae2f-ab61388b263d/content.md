@@ -2,7 +2,7 @@
 title: How to Land Your First Tech Internship and Become a Software Engineer
 custom_slug: how-to-land-your-first-tech-internship-and-become-a-software-engineer
 category: product_college
-listed: false
+listed: true
 release_date: !ruby/object:ActiveSupport::TimeWithZone
   utc: &1 2018-02-21 00:00:00.000000000 Z
   zone: !ruby/object:ActiveSupport::TimeZone
