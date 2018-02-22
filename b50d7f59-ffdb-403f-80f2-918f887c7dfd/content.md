@@ -1,7 +1,7 @@
 ---
-title: 'Student Spotlight: Solving Actual Problems with Leslie Kim'
-custom_slug: student-spotlight-solving-actual-problems-with-leslie-kim
-category: gap_year
+title: Solving Actual Problems with Leslie Kim
+custom_slug: solving-actual-problems-with-leslie-kim
+category: student_spotlight
 listed: true
 release_date: !ruby/object:ActiveSupport::TimeWithZone
   utc: &1 2017-12-04 00:00:00.000000000 Z
