@@ -8,7 +8,7 @@ release_date: !ruby/object:ActiveSupport::TimeWithZone
   zone: !ruby/object:ActiveSupport::TimeZone
     name: Etc/UTC
   time: *1
-cover_photo_path: 
+cover_photo_path: https://cdn.rawgit.com/MakeSchool-Tutorials/News/99dc3f428fbed025229a2c96a46a0809793c3160//2cbde6e5-dc3d-4905-ae2f-ab61388b263d/cover_photo.jpeg
 
 ---
 This article is a written version of a popular talk we give at hackathons across the country. It comes from what we've learned working with hundreds of students as they were applying for their very first tech internships. Over the years, we've developed a core set of strategies that greatly improve an applicant's chances of landing their dream internship.
