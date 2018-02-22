@@ -1,7 +1,7 @@
 ---
-title: 'Student Spotlight: Learning About Learning with Scott Tyler'
-custom_slug: student-spotlight-learning-about-learning-with-scotttyler
-category: summer_academy
+title: Learning About Learning with Scott Tyler
+custom_slug: learning-about-learning-with-scotttyler
+category: student_spotlight
 listed: true
 release_date: !ruby/object:ActiveSupport::TimeWithZone
   utc: &1 2017-12-05 00:00:00.000000000 Z
