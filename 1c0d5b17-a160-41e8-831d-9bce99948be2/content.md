@@ -1,7 +1,7 @@
 ---
-title: 'Student Spotlight: Creating Your Own Destiny with Kenny Batista'
-custom_slug: student-spotlight-creating-your-own-destiny-with-kennybatista
-category: gap_year
+title: Creating Your Own Destiny with Kenny Batista
+custom_slug: creating-your-own-destiny-with-kennybatista
+category: student_spotlight
 listed: true
 release_date: !ruby/object:ActiveSupport::TimeWithZone
   utc: &1 2018-01-16 00:00:00.000000000 Z
