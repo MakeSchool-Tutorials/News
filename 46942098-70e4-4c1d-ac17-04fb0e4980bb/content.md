@@ -1,7 +1,7 @@
 ---
-title: 'Student Spotlight: Making Music Easier to Love with Brian Sakhuja'
-custom_slug: student-spotlight-making-music-easier-to-love-with-briansakhuja
-category: summer_academy
+title: Making Music Easier to Love with Brian Sakhuja
+custom_slug: making-music-easier-to-love-with-briansakhuja
+category: student_spotlight
 listed: true
 release_date: !ruby/object:ActiveSupport::TimeWithZone
   utc: &1 2017-11-28 00:00:00.000000000 Z
