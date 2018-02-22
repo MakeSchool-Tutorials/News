@@ -1,7 +1,7 @@
 ---
 title: Taking VR to the Next Level
 custom_slug: taking-vr-to-the-nextlevel
-category: summer_academy
+category: student_spotlight
 listed: true
 release_date: !ruby/object:ActiveSupport::TimeWithZone
   utc: &1 2017-10-16 00:00:00.000000000 Z
