@@ -1,7 +1,7 @@
 ---
-title: 'Student Spotlight: Getting the Most Out of a Gap Year with Sam Drozdov'
-custom_slug: student-spotlight-getting-the-most-out-of-a-gap-year-with-samdrozdov
-category: gap_year
+title: Getting the Most Out of a Gap Year with Sam Drozdov
+custom_slug: getting-the-most-out-of-a-gap-year-with-samdrozdov
+category: student_spotlight
 listed: true
 release_date: !ruby/object:ActiveSupport::TimeWithZone
   utc: &1 2017-11-27 00:00:00.000000000 Z
