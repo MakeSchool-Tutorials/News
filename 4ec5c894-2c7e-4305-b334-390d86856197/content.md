@@ -1,7 +1,7 @@
 ---
-title: 'Student Spotlight: Bringing a Growth Mindset Back Home with Carlos Diez'
-custom_slug: student-spotlight-bringing-a-growth-mindset-back-home-with-carlos-diez
-category: product_college
+title: Bringing a Growth Mindset Back Home with Carlos Diez
+custom_slug: bringing-a-growth-mindset-back-home-with-carlos-diez
+category: student_spotlight
 listed: true
 release_date: !ruby/object:ActiveSupport::TimeWithZone
   utc: &1 2018-02-06 00:00:00.000000000 Z
