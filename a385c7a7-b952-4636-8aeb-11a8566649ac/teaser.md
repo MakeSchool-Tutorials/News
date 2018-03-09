@@ -1,0 +1,1 @@
+Our country is facing a huge student debt crisis. Over the last thirty years, the cost of a college degree has risen 1,120%. So is a no-debt, income share agreement a better tuition financing option? And does it make financial sense?
