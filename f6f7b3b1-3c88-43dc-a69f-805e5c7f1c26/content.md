@@ -1,10 +1,14 @@
 ---
 title: 'Transforming Computer Science Education: One Instructor At A Time'
 custom_slug: transforming-computer-science-education-one-instructor-at-a-time
-category: other
+category: news
 listed: true
-release_date: 2016-04-13 00:00:00.000000000 Z
-cover_photo_path: https://git.makeschool.com/MakeSchool-Tutorials/News/672a3ae189939bdfb094a6831280ad7079f1234d//f6f7b3b1-3c88-43dc-a69f-805e5c7f1c26/cover_photo.jpeg
+release_date: !ruby/object:ActiveSupport::TimeWithZone
+  utc: &1 2016-04-13 00:00:00.000000000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: Etc/UTC
+  time: *1
+cover_photo_path: https://cdn.rawgit.com/MakeSchool-Tutorials/News/672a3ae189939bdfb094a6831280ad7079f1234d//f6f7b3b1-3c88-43dc-a69f-805e5c7f1c26/cover_photo.jpeg
 
 ---
 It was a bright June day in San Francisco, a couple weeks before the Make School Summer Academy for iOS development. In Make School’s main classroom, an excited group of talented individuals nervously talked amongst themselves as they awaited their first day of training. The new colleagues came from different walks of life — among them were professionals who’d worked at Apple and Facebook, as well as college students who had come from different countries to study in America. They all exhibited, however, a commitment to delivering effective computer science education — a commitment that brought them to Make School.
