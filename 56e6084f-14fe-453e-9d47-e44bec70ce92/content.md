@@ -1,10 +1,14 @@
 ---
 title: MakeSchool Team and Students Volunteer at MSC Homeless Shelter
 custom_slug: makeschool-team-and-students-volunteer-at-msc-homeless-shelter
-category: gap_year
+category: product_college
 listed: true
-release_date: 2014-12-17 00:00:00.000000000 Z
-cover_photo_path: https://git.makeschool.com/MakeSchool-Tutorials/News/52981feaafbe7ca2de4afdc511268fdc5e660ec2//56e6084f-14fe-453e-9d47-e44bec70ce92/cover_photo.jpeg
+release_date: !ruby/object:ActiveSupport::TimeWithZone
+  utc: &1 2014-12-17 00:00:00.000000000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: Etc/UTC
+  time: *1
+cover_photo_path: https://cdn.rawgit.com/MakeSchool-Tutorials/News/52981feaafbe7ca2de4afdc511268fdc5e660ec2//56e6084f-14fe-453e-9d47-e44bec70ce92/cover_photo.jpeg
 
 ---
 The MakeSchool team and Gap Year students paired up to help give back to the community and spread holiday cheer at the MSC Homeless Shelter near our office. Everyone worked together to help make garlands and paint decorations. 
