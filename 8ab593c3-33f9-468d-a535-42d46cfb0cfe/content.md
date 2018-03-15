@@ -1,7 +1,7 @@
 ---
 title: Is your college Computer Science program right for you?
 custom_slug: is-your-college-computer-science-program-right-foryou
-category: gap_year
+category: product_college
 listed: true
 release_date: !ruby/object:ActiveSupport::TimeWithZone
   utc: &1 2017-10-23 00:00:00.000000000 Z
