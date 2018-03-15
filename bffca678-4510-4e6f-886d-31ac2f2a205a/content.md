@@ -1,9 +1,13 @@
 ---
 title: MakeSchool at TeenHacks!
 custom_slug: makeschool-at-teenhacks
-category: other
+category: news
 listed: true
-release_date: 2014-10-28 00:00:00.000000000 Z
+release_date: !ruby/object:ActiveSupport::TimeWithZone
+  utc: &1 2014-10-28 00:00:00.000000000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: Etc/UTC
+  time: *1
 cover_photo_path: https://cdn.rawgit.com/MakeSchool-Tutorials/News/7a7d136f6686aff28e90a7bb93202d6bacfceacc/bffca678-4510-4e6f-886d-31ac2f2a205a/cover_photo.jpeg
 
 ---
