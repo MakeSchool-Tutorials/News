@@ -3,8 +3,12 @@ title: Summer Academy Demo Day
 custom_slug: summer-academy-demo-day
 category: summer_academy
 listed: true
-release_date: 2014-08-18 00:00:00.000000000 Z
-cover_photo_path: https://git.makeschool.com/MakeSchool-Tutorials/News/acfcc568f06e41e0e0c2d6419f5ac4a83fcb98f5//fbe75c43-5644-41ca-863d-d21b19afd1d5/cover_photo.jpeg
+release_date: !ruby/object:ActiveSupport::TimeWithZone
+  utc: &1 2014-08-18 00:00:00.000000000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: Etc/UTC
+  time: *1
+cover_photo_path: https://cdn.rawgit.com/MakeSchool-Tutorials/News/acfcc568f06e41e0e0c2d6419f5ac4a83fcb98f5//fbe75c43-5644-41ca-863d-d21b19afd1d5/cover_photo.jpeg
 
 ---
 MakeSchool students spent their Saturday demonstrating the games they built at the Summer Academy. One hundred twenty students in Silicon Valley and New York City gathered to show their games to recruiters and guests at the MakeSchool Demo Day.
