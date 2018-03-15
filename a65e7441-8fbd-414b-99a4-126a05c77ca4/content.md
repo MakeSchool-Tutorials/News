@@ -1,10 +1,14 @@
 ---
 title: A Night to Remember
 custom_slug: a-night-to-remember
-category: other
+category: news
 listed: true
-release_date: 2016-02-05 00:00:00.000000000 Z
-cover_photo_path: https://git.makeschool.com/MakeSchool-Tutorials/News/9bf52d08da0cad04a24a4dc34385f95ccb39d3cd//a65e7441-8fbd-414b-99a4-126a05c77ca4/cover_photo.jpeg
+release_date: !ruby/object:ActiveSupport::TimeWithZone
+  utc: &1 2016-02-05 00:00:00.000000000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: Etc/UTC
+  time: *1
+cover_photo_path: https://cdn.rawgit.com/MakeSchool-Tutorials/News/9bf52d08da0cad04a24a4dc34385f95ccb39d3cd//a65e7441-8fbd-414b-99a4-126a05c77ca4/cover_photo.jpeg
 
 ---
 Wow — Demo Night was beyond exhilarating!
