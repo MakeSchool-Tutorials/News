@@ -1,7 +1,7 @@
 ---
 title: Building Company and Culture
 custom_slug: building-company-andculture
-category: other
+category: news
 listed: true
 release_date: !ruby/object:ActiveSupport::TimeWithZone
   utc: &1 2016-11-04 00:00:00.000000000 Z
