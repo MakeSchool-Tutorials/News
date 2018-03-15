@@ -1,10 +1,14 @@
 ---
 title: 'Thanks for coming to Make Hacks! '
 custom_slug: thanks-for-coming-to-make-hacks-
-category: other
+category: news
 listed: true
-release_date: 2015-05-01 00:00:00.000000000 Z
-cover_photo_path: https://git.makeschool.com/MakeSchool-Tutorials/News/a2ac1efe3b149411d2dac6d65172899af92d70ff//1860e647-84fd-4c4f-9259-a71d2f586e61/cover_photo.jpeg
+release_date: !ruby/object:ActiveSupport::TimeWithZone
+  utc: &1 2015-05-01 00:00:00.000000000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: Etc/UTC
+  time: *1
+cover_photo_path: https://cdn.rawgit.com/MakeSchool-Tutorials/News/a2ac1efe3b149411d2dac6d65172899af92d70ff//1860e647-84fd-4c4f-9259-a71d2f586e61/cover_photo.jpeg
 
 ---
 We had a blast at Make Hacks -- and we hope you did too! Thanks to all the participants and sponsors for coming out and making the first Make Hacks such a success. It was amazing to see so many people -- young and old, newbies and pros -- come together to hack at the Computer History Museum.  And of course, congratulations to the winning teams! 
