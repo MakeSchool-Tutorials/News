@@ -1,9 +1,13 @@
 ---
 title: Online Academy fall session begins with over 9,000 students!
 custom_slug: online-academy-fall-session-begins-with-over-9000-students
-category: other
+category: news
 listed: true
-release_date: 2014-10-20 00:00:00.000000000 Z
+release_date: !ruby/object:ActiveSupport::TimeWithZone
+  utc: &1 2014-10-20 00:00:00.000000000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: Etc/UTC
+  time: *1
 cover_photo_path: https://cdn.rawgit.com/MakeSchool-Tutorials/News/f43694c4826f95f6e00507306eefcd4bc6471e08/1967a82b-91a5-493c-8b62-12ecf27388fb/cover_photo.png
 
 ---
