@@ -1,10 +1,14 @@
 ---
 title: The White House and Make School are Tackling the Digital Divide
 custom_slug: the-white-house-and-make-school-are-tackling-the-digital-divide
-category: other
+category: news
 listed: true
-release_date: 2016-03-25 00:00:00.000000000 Z
-cover_photo_path: https://git.makeschool.com/MakeSchool-Tutorials/News/f4f9efe208b392a034bff8c931b77c9b66afa91d//fbc1bc02-210f-4387-ae1c-2fbb7e28997f/cover_photo.jpeg
+release_date: !ruby/object:ActiveSupport::TimeWithZone
+  utc: &1 2016-03-25 00:00:00.000000000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: Etc/UTC
+  time: *1
+cover_photo_path: https://cdn.rawgit.com/MakeSchool-Tutorials/News/f4f9efe208b392a034bff8c931b77c9b66afa91d//fbc1bc02-210f-4387-ae1c-2fbb7e28997f/cover_photo.jpeg
 
 ---
 President Obama recently unveiled the national service initiative ConnectALL, which aims to provide low-income Americans with greater access to broadband — along with the training and tools required to utilize this access and become digitally literate.
