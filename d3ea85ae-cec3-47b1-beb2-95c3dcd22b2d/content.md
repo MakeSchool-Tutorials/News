@@ -1,10 +1,14 @@
 ---
 title: Promoting Non-Traditional Backgrounds in Tech
 custom_slug: promoting-nontraditional-backgrounds-intech
-category: other
+category: news
 listed: true
-release_date: 2017-04-17 00:00:00.000000000 Z
-cover_photo_path: https://git.makeschool.com/MakeSchool-Tutorials/News/e9ea25349fc225fa6def2ff5f2ed6a3ee39995e6//d3ea85ae-cec3-47b1-beb2-95c3dcd22b2d/cover_photo.jpeg
+release_date: !ruby/object:ActiveSupport::TimeWithZone
+  utc: &1 2017-04-17 00:00:00.000000000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: Etc/UTC
+  time: *1
+cover_photo_path: https://cdn.rawgit.com/MakeSchool-Tutorials/News/e9ea25349fc225fa6def2ff5f2ed6a3ee39995e6//d3ea85ae-cec3-47b1-beb2-95c3dcd22b2d/cover_photo.jpeg
 
 ---
 Make School and Lever are extremely proud to introduce today a partnership that aligns both companies towards the same goals — to help empower Make School students with non-traditional backgrounds to have a fair chance at participating and being hired into the tech industry at large. Lever is the latest partner in Make School’s partnership program that relies on companies to provide support to the Product College — a two-year program that equips students with the technical skills to succeed as developers. Make School addresses a fundamental skills gap that Lever sees too often with companies using its hiring platform. It is the recognition of Make School’s intrinsic value to the industry and its commitment to diversity and inclusion initiatives, that have made Lever incredibly committed to providing value and mentorship to Make School students.
