@@ -1,10 +1,14 @@
 ---
 title: Make School Students are Building Software to Drive Progress
 custom_slug: make-school-students-are-building-software-to-drive-progress
-category: other
+category: news
 listed: true
-release_date: 2016-04-26 00:00:00.000000000 Z
-cover_photo_path: https://git.makeschool.com/MakeSchool-Tutorials/News/3312ca878c0549b04f5964828cfcc8436b81d85c//9ce655c3-26be-465b-acb0-45db12385c5d/cover_photo.jpeg
+release_date: !ruby/object:ActiveSupport::TimeWithZone
+  utc: &1 2016-04-26 00:00:00.000000000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: Etc/UTC
+  time: *1
+cover_photo_path: https://cdn.rawgit.com/MakeSchool-Tutorials/News/3312ca878c0549b04f5964828cfcc8436b81d85c//9ce655c3-26be-465b-acb0-45db12385c5d/cover_photo.jpeg
 
 ---
 At Make School, the educational experience is driven by one commandment — to design and ship products that can make the world a better place. In the last three months, the students in our two-year Product Academy have been collaborating on projects that do just that. And this Thursday at 6pm, during the <a href="http://bit.ly/1VSKK77">Make School Demo Night & Intern Fair</a>, our students will present the work they’ve been doing. The five products highlight the different tastes, sensibilities, and backgrounds of their creators — ultimately, though, the products all contain a thread of civic responsibility. Here’s a sneak preview of this semester’s projects.
