@@ -3,8 +3,12 @@ title: 'Alumnus Spotlight: Teresa Ibarra'
 custom_slug: alumnus-spotlight
 category: summer_academy
 listed: true
-release_date: 2015-02-17 00:00:00.000000000 Z
-cover_photo_path: https://git.makeschool.com/MakeSchool-Tutorials/News/7e67f67dbc8780adf87e76eccbe1500bcef0635e//881a8812-6ae0-427e-b363-cca223527c70/cover_photo.jpeg
+release_date: !ruby/object:ActiveSupport::TimeWithZone
+  utc: &1 2015-02-17 00:00:00.000000000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: Etc/UTC
+  time: *1
+cover_photo_path: https://cdn.rawgit.com/MakeSchool-Tutorials/News/7e67f67dbc8780adf87e76eccbe1500bcef0635e//881a8812-6ae0-427e-b363-cca223527c70/cover_photo.jpeg
 
 ---
 ####Teresa Ibarra
