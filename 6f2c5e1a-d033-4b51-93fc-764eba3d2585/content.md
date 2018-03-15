@@ -1,7 +1,7 @@
 ---
 title: Grades Aren’t Enough―Why You Need to Be on GitHub
 custom_slug: grades-arent-enoughwhy-you-need-to-be-on-github
-category: gap_year
+category: product_college
 listed: true
 release_date: !ruby/object:ActiveSupport::TimeWithZone
   utc: &1 2018-02-01 00:00:00.000000000 Z
