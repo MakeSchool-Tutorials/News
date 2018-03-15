@@ -1,10 +1,14 @@
 ---
 title: 'Why Hour of Code Matters: Encouraging Computer Science Education'
 custom_slug: why-hour-of-code-matters-encouraging-computer-science-education
-category: other
+category: news
 listed: true
-release_date: 2015-12-08 00:00:00.000000000 Z
-cover_photo_path: https://git.makeschool.com/MakeSchool-Tutorials/News/e3ae1bc98723e6467bb3563555996fcfc676e1b1//df58e429-3d2a-43cc-8b1d-48dc188a5798/cover_photo.jpeg
+release_date: !ruby/object:ActiveSupport::TimeWithZone
+  utc: &1 2015-12-08 00:00:00.000000000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: Etc/UTC
+  time: *1
+cover_photo_path: https://cdn.rawgit.com/MakeSchool-Tutorials/News/e3ae1bc98723e6467bb3563555996fcfc676e1b1//df58e429-3d2a-43cc-8b1d-48dc188a5798/cover_photo.jpeg
 
 ---
 This week (Dec. 7th - 13th), Make School is celebrating [Computer Science Education Week](https://hourofcode.com/), joining a global movement that reaches tens of millions of students in over 180 countries around the world. The annual campaign spearheads a commitment to getting schools and students excited about computer science by participating in Hour of Code events that pique interest in programming.
