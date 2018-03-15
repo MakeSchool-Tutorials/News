@@ -1,10 +1,14 @@
 ---
 title: Gap Year pilot kicks off with 11 students
 custom_slug: gap-year-pilot-kicks-off-with-11-students
-category: gap_year
+category: product_college
 listed: true
-release_date: 2014-11-10 00:00:00.000000000 Z
-cover_photo_path: https://git.makeschool.com/MakeSchool-Tutorials/News/e1f6e9d1da304821db2c83037b0a827a598aaefa//81cdd79a-f10c-416f-a3e4-28c185457bec/cover_photo.jpeg
+release_date: !ruby/object:ActiveSupport::TimeWithZone
+  utc: &1 2014-11-10 00:00:00.000000000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: Etc/UTC
+  time: *1
+cover_photo_path: https://cdn.rawgit.com/MakeSchool-Tutorials/News/e1f6e9d1da304821db2c83037b0a827a598aaefa//81cdd79a-f10c-416f-a3e4-28c185457bec/cover_photo.jpeg
 
 ---
 After a wildly successful Summer Academy, we asked our top students to join us in San Francisco and pilot our Gap Year program. Over the past two months, our founding class has helped us shape the program’s curriculum and experience. They even teach each other new programming concepts during our weekly “lightning talks.”
