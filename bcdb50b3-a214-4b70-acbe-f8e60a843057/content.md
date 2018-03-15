@@ -1,10 +1,14 @@
 ---
 title: MakeSchool Alumni Run College Hackathons Around the Country
 custom_slug: makeschool-alumni-run-college-hackathons-around-the-country
-category: other
+category: news
 listed: true
-release_date: 2014-12-08 00:00:00.000000000 Z
-cover_photo_path: https://git.makeschool.com/MakeSchool-Tutorials/News/958a6bc5be950bdc23b3f637e9352b8c9408de85//bcdb50b3-a214-4b70-acbe-f8e60a843057/cover_photo.png
+release_date: !ruby/object:ActiveSupport::TimeWithZone
+  utc: &1 2014-12-08 00:00:00.000000000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: Etc/UTC
+  time: *1
+cover_photo_path: https://cdn.rawgit.com/MakeSchool-Tutorials/News/958a6bc5be950bdc23b3f637e9352b8c9408de85//bcdb50b3-a214-4b70-acbe-f8e60a843057/cover_photo.png
 
 ---
 For some MakeSchool alumni, the end of the fall season of collegiate hackathons means the chance to finally catch a breath of air. Three of the top college hackathons were organized by MakeSchool alums: Katie Siegel, Carole Touma, and Scotty Shaw. 
