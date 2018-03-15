@@ -3,8 +3,12 @@ title: Summer Academy Video
 custom_slug: summer-academy-video
 category: summer_academy
 listed: true
-release_date: 2015-02-05 00:00:00.000000000 Z
-cover_photo_path: https://git.makeschool.com/MakeSchool-Tutorials/News/f744d331484d043a373ee2a33d63626c352255d4//663032db-cf16-441b-9103-c518947c70e1/cover_photo.jpeg
+release_date: !ruby/object:ActiveSupport::TimeWithZone
+  utc: &1 2015-02-05 00:00:00.000000000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: Etc/UTC
+  time: *1
+cover_photo_path: https://cdn.rawgit.com/MakeSchool-Tutorials/News/f744d331484d043a373ee2a33d63626c352255d4//663032db-cf16-441b-9103-c518947c70e1/cover_photo.jpeg
 
 ---
 **Make School launches its first Summer Academy video!**
