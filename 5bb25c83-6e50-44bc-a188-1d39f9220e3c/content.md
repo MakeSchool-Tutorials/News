@@ -1,10 +1,14 @@
 ---
 title: The Product University
 custom_slug: the-product-university
-category: gap_year
+category: product_college
 listed: true
-release_date: 2015-09-17 00:00:00.000000000 Z
-cover_photo_path: https://git.makeschool.com/MakeSchool-Tutorials/News/b131077537a3744820abb5870508094fe91c5724//5bb25c83-6e50-44bc-a188-1d39f9220e3c/cover_photo.jpeg
+release_date: !ruby/object:ActiveSupport::TimeWithZone
+  utc: &1 2015-09-17 00:00:00.000000000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: Etc/UTC
+  time: *1
+cover_photo_path: https://cdn.rawgit.com/MakeSchool-Tutorials/News/b131077537a3744820abb5870508094fe91c5724//5bb25c83-6e50-44bc-a188-1d39f9220e3c/cover_photo.jpeg
 
 ---
 The Product University
