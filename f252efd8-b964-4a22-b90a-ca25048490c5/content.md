@@ -1,10 +1,14 @@
 ---
 title: Fun at HackGenY
 custom_slug: fun-at-hackgeny
-category: other
+category: news
 listed: true
-release_date: 2015-02-17 00:00:00.000000000 Z
-cover_photo_path: https://git.makeschool.com/MakeSchool-Tutorials/News/9bbee5c965466fb0ebb592f294144102c3fd5a9d//f252efd8-b964-4a22-b90a-ca25048490c5/cover_photo.jpeg
+release_date: !ruby/object:ActiveSupport::TimeWithZone
+  utc: &1 2015-02-17 00:00:00.000000000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: Etc/UTC
+  time: *1
+cover_photo_path: https://cdn.rawgit.com/MakeSchool-Tutorials/News/9bbee5c965466fb0ebb592f294144102c3fd5a9d//f252efd8-b964-4a22-b90a-ca25048490c5/cover_photo.jpeg
 
 ---
 #####Make School rocked HackGenY with a stellar opening talk, packed workshops, and a Summer Academy alumnus taking 1st place!! 
