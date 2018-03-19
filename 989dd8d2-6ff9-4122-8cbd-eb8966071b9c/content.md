@@ -50,4 +50,4 @@ Learn more about Nashville's own Uchenna Aguocha on his [portfolio page](https:/
 
 *Make School is based in San Francisco. The school offers a two-year Product College as well as a six-week Summer Academy. The focus of Make School is product-based learning that prepares students for real-world careers in software development.*
 
-***Learn more about Make School's philosophy, courses, and income share financing options at* **[***makeschool.com***](https://www.makeschool.com/?utm_source=medium&utm_medium=social&utm_campaign=medium-student-spotlight-uchenna-aguocha&utm_content=)***.***
+Learn more about Make School's philosophy, courses, and income share financing options at [makeschool.com](https://www.makeschool.com/?utm_source=medium&utm_medium=social&utm_campaign=medium-student-spotlight-uchenna-aguocha&utm_content=).
