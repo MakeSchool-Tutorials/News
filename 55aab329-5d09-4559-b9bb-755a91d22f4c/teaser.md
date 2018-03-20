@@ -1,0 +1,1 @@
+Make School and #YesWeCode are partnering for the second year in a row to get more Oakland-based students prepared with 21st century skills for a career in the tech industry. 
