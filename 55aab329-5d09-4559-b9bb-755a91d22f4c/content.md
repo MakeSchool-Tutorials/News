@@ -11,7 +11,7 @@ release_date: !ruby/object:ActiveSupport::TimeWithZone
 cover_photo_path: https://cdn.rawgit.com/MakeSchool-Tutorials/News/a52c1e5ac9683f828bb3990d01dc2bc38449423b//55aab329-5d09-4559-b9bb-755a91d22f4c/cover_photo.jpeg
 
 ---
-**Make School and #YesWeCode are partnering for the second year in a row to get more Oakland-based students prepared with 21st century skills for a career in the tech industry. **
+**Make School and #YesWeCode are partnering for the second year in a row to get more Oakland-based students prepared with 21st century skills for a career in the tech industry.**
 
 Together we’re providing [25 scholarships to the Summer Academy](https://www.makeschool.com/summer-academy/san-francisco/?code=Yeswecode2018), which includes:
 
