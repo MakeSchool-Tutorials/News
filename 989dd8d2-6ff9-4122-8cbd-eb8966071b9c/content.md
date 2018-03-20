@@ -40,7 +40,7 @@ Looking back, Uchenna has no regrets about his decision to come to Make School. 
 ### When Uchenna finishes his two-year program, he's eager to make a difference.
 "I'd love to work somewhere like this company called Copia ([gocopia.com](http://gocopia.com)), which does food waste management. Food waste is a huge problem, and they're trying to address it by taking donations from companies and then delivering food to people who need it. That's where my passion is at--I want to help people, but also add value to their lives."
 
-Uchenna is also eager to get back to Nashville. He said, "Nashville is super cool, plus my family and friends are there. Being in San francisco has been great--seeing technology change right in front of you--but coming back home... I'm looking forward to that."
+Uchenna is also eager to get back to Nashville. He said, "Nashville is super cool, plus my family and friends are there. Being in San Francisco has been great--seeing technology change right in front of you--but coming back home... I'm looking forward to that."
 
 He added: "Right now in Nashville, there's so much development, condos being built left and right, so many young people moving in, the cost of living is low, there are great jobs... Nashville on the whole is becoming the new 'it' city. I'm excited to come home and start my career."
 
