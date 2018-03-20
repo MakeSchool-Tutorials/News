@@ -1,6 +1,6 @@
 ---
-title: Style Guide
-custom_slug: style-guide
+title: Example Article
+custom_slug: example-article
 category: product_college
 listed: false
 release_date: !ruby/object:ActiveSupport::TimeWithZone
