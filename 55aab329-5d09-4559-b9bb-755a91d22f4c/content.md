@@ -2,7 +2,7 @@
 title: 25 Full Scholarships to the Summer Academy for Oakland-based Students
 custom_slug: 25-full-scholarships-to-the-summer-academy-for-oaklandbased-students
 category: news
-listed: false
+listed: true
 release_date: !ruby/object:ActiveSupport::TimeWithZone
   utc: &1 2018-03-20 00:00:00.000000000 Z
   zone: !ruby/object:ActiveSupport::TimeZone
