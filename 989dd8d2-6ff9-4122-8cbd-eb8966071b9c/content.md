@@ -37,7 +37,7 @@ One of Uchenna's current projects is an app called Namify which he is working on
 
 Looking back, Uchenna has no regrets about his decision to come to Make School. "The thing that's stood out the most, aside from the technical things we've learned," he notes, "is the soft skills we've gained. How to empathize and work with other people and communicate ideas clearly. I know when I came to Make School, I wasn't very good at public speaking, so we do these things called Lightning Talks every Friday, and the students get up in front of the entire school and talk about their projects. That kind of ongoing experience is really valuable."
 
-### When Uchenna finishes his two-year program, he's eager to make a difference.\
+### When Uchenna finishes his two-year program, he's eager to make a difference.
 "I'd love to work somewhere like this company called Copia ([gocopia.com](http://gocopia.com)), which does food waste management. Food waste is a huge problem, and they're trying to address it by taking donations from companies and then delivering food to people who need it. That's where my passion is at--I want to help people, but also add value to their lives."
 
 Uchenna is also eager to get back to Nashville. He said, "Nashville is super cool, plus my family and friends are there. Being in San francisco has been great--seeing technology change right in front of you--but coming back home... I'm looking forward to that."
