@@ -1,6 +1,6 @@
 ---
-title: 25 Full Scholarships to the Summer Academy for Oakland-based Students
-custom_slug: 25-full-scholarships-to-the-summer-academy-for-oaklandbased-students
+title: 25 Scholarships to the Summer Academy for Oakland-based Students
+custom_slug: 25-scholarships-to-the-summer-academy-for-oaklandbased-students
 category: news
 listed: true
 release_date: !ruby/object:ActiveSupport::TimeWithZone
@@ -13,13 +13,7 @@ cover_photo_path: https://cdn.rawgit.com/MakeSchool-Tutorials/News/a52c1e5ac9683
 ---
 **Make School and #YesWeCode are partnering for the second year in a row to get more Oakland-based students prepared with 21st century skills for a career in the tech industry.**
 
-Together we’re providing [25 scholarships to the Summer Academy](https://www.makeschool.com/summer-academy/san-francisco/?code=Yeswecode2018), which includes:
-
-- Full tuition 
-- Macbook 
-- Housing in San Francisco 
-- Transportation stipend 
-  
+Together we’re providing [25 full tuition scholarships with a transportation stipend](https://www.makeschool.com/summer-academy/san-francisco/?code=Yeswecode2018). We will also cover housing and Macbooks for a select few.  
 
 The 25 Oakland-based students will be part of a cohort of 150 students from around the world.  Students will learn iOS or web development and they will have launched their own iPhone App or website by the end of the 6-week program. Students will represent the local Oakland community and culture while making a global, lifelong network. Apply for a scholarship to the Summer Academy [here](https://www.makeschool.com/apply?code=Yeswecode2018).
 
