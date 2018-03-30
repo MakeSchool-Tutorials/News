@@ -1,7 +1,7 @@
 ---
 title: 6 Resources for Women in Tech
 custom_slug: 6-resources-for-women-in-tech
-category: news
+category: product_college
 listed: true
 release_date: !ruby/object:ActiveSupport::TimeWithZone
   utc: &1 2018-03-22 00:00:00.000000000 Z
