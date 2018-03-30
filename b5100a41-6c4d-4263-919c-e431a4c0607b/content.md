@@ -2,9 +2,9 @@
 title: 6 Resources for Women in Tech
 custom_slug: 6-resources-for-women-in-tech
 category: news
-listed: false
+listed: true
 release_date: !ruby/object:ActiveSupport::TimeWithZone
-  utc: &1 2018-03-30 00:00:00.000000000 Z
+  utc: &1 2018-03-22 00:00:00.000000000 Z
   zone: !ruby/object:ActiveSupport::TimeZone
     name: Etc/UTC
   time: *1
@@ -57,5 +57,7 @@ Other venture capital funds focused on women-led startups include [Golden Seeds]
 
 This list is just a jumping off point. There are a ton of awesome organizations and spaces for women to take part in, meet with each other, and create stronger networks. Another great article to check out is one over at Envato's blog - [Coding Like a Girl: Resources for Women in Tech and Developer Roles](https://envato.com/blog/coding-like-girl-resources-women-tech-developer-roles/).
 
+
 ----
+
 What are your favorite resources for women in tech? [Send us an email](mailto:hello@makeschool.com) with your suggestions, and we may include your thoughts in a future post!
