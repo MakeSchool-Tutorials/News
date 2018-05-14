@@ -31,7 +31,7 @@ The tech industry is predominantly male. [Women Who Tech found](http://www.recru
 
 The good news is there have been more diversity and inclusion leaders over the past year. Check out our list to learn about the leaders you should follow in 2018.
 
-__1.  Emma Mayerson__
+## 1.  Emma Mayerson
 
 ![](https://lh4.googleusercontent.com/-pMGZy2TVcQy5KmxhwhzSwA1OQzfVRgjJoi3i_C0KRz4tTqo_r3SzO2AS7ROpl08tN7KUAUw4Jn56gy9oMDJPXH2TNCE7SRC5Qs93l6zAPn9Qcx-mnKcEsCUYRp4FracjNJVC0YoiLMTu8ydPQ)
 
