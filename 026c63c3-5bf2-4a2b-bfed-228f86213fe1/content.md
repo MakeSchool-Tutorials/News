@@ -34,6 +34,7 @@ The good news is there have been more diversity and inclusion leaders over the p
 ## 1. Emma Mayerson
 
 ![](https://lh4.googleusercontent.com/-pMGZy2TVcQy5KmxhwhzSwA1OQzfVRgjJoi3i_C0KRz4tTqo_r3SzO2AS7ROpl08tN7KUAUw4Jn56gy9oMDJPXH2TNCE7SRC5Qs93l6zAPn9Qcx-mnKcEsCUYRp4FracjNJVC0YoiLMTu8ydPQ)
+
 Source: [Alliance for Girls](http://www.alliance4girls.org/staff-and-leadership)
 
 Emma is the founding director of Alliance for Girls (AFG).
