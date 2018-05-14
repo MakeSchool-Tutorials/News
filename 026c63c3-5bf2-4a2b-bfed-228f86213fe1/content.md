@@ -4,7 +4,7 @@ custom_slug: 20-diversity-and-inclusion-leaders-to-follow-in-2018
 category: product_college
 listed: false
 release_date: !ruby/object:ActiveSupport::TimeWithZone
-  utc: &1 2016-05-22 00:00:00.000000000 Z
+  utc: &1 2018-05-14 00:00:00.000000000 Z
   zone: !ruby/object:ActiveSupport::TimeZone
     name: Etc/UTC
   time: *1
@@ -31,7 +31,7 @@ The tech industry is predominantly male. [Women Who Tech found](http://www.recru
 
 The good news is there have been more diversity and inclusion leaders over the past year. Check out our list to learn about the leaders you should follow in 2018.
 
-## 1.  Emma Mayerson
+## 1. Emma Mayerson
 
 ![](https://lh4.googleusercontent.com/-pMGZy2TVcQy5KmxhwhzSwA1OQzfVRgjJoi3i_C0KRz4tTqo_r3SzO2AS7ROpl08tN7KUAUw4Jn56gy9oMDJPXH2TNCE7SRC5Qs93l6zAPn9Qcx-mnKcEsCUYRp4FracjNJVC0YoiLMTu8ydPQ)
 
@@ -43,3 +43,249 @@ She manages an association with more than 150 organizations that serve more than
 
 You can check it out at [www.alliance4girls.org](http://www.alliance4girls.org).
 
+## 2. Kimberly Bryant
+
+![](https://lh4.googleusercontent.com/uww95NDYJrZQvi_LgkJ-xht_fzQvsFSL4ZtMilxZhcVad7zW9rXKIBd-ZFFmqSoEhZOaq8oMOytmWkHm9sH-L5-HdVZeCoGoBh32-spbxGYJCKg3dGXrPZmhLIPRT2xCusQvCij99UQNmsrp5g)
+
+Source: [Black Girls Code](http://www.blackgirlscode.com/about-bgc.html)
+
+Some say it's hard to find female leaders in the STEM industry, but it may be even harder to find African American women in science, technology, engineering, and math. Kimberly Bryant was familiar with this trend. She felt culturally isolated because while she pursued her studies she rarely met people with the same cultural background.
+
+As founder of Black Girls Code, Kimberly hopes to change this trend. Her organization aims to provide opportunities in IT and computer programming to young and pre-teen girls of color.
+
+If you want to check out her organization, visit their [website](http://www.blackgirlscode.com/).
+
+## 3. Leanne Pittsford
+
+![](https://lh6.googleusercontent.com/kBCY86wZLWYxvq9-Fzf6pit3BTild7ZVavFRjsUHvwDsMjqAbSShXeVBqn7A8ptWFBHVxaavKWOcf0khJe1MyN-zxk2CayZJaVbgBV5d4zjm6L3-urMGrfr1qxbD2NSeT8PB1YHTXrubfxuJ6g)
+
+Source: [Twitter](https://twitter.com/lepitts)
+
+Leanne Pittsford is an entrepreneur, investor, and queer and women's rights activist.
+
+She used her experience as senior director at Equality California, the largest statewide LGBTQ organization in the US, to create Lesbians Who Tech. As CEO and founder, she launched the project Social Good Tech Week, which helped connect technology to social good organizations.
+
+Leanne founded Lean Impact, which helps social good communities use Lean Startup principles. She also founded Start Somewhere, a design and technology consulting firm and served as a co-creator of When You Work, a nonprofit Tumblr blog.
+
+You can get in touch with her on Twitter [@lepitts](https://twitter.com/lepitts).
+
+## 4. Tariq Meyers
+
+![](https://lh5.googleusercontent.com/NMbxWUjxBiKfSpagcJvBHWS8Ujwf1mFHSABCoe5trRicbeq76h6NvI712Aev_8PCJVuLI5L3_vT-Fc1rCoLQ0QM6liPeH_FQ-whUEcwIf6SrMaw5fkWgv3-7cidFJVB4mQLiotEzDM1RsIBCXw)
+
+Source: [Forbes](https://www.forbes.com/profile/tariq-meyers/)
+
+Tariq Meyers is the first head of inclusion and diversity at Lyft.
+
+Under his leadership, the company has held unconscious bias trainings and conscious action trainings so that employees could recognize and take action against their biases. He was integral in the company's implementation of their Gender Inclusion & Affirmation policy, which ensures transgender people enjoy an inclusive workplace. He was involved in fundraising campaigns for nonprofit organizations like Lyft's Round Up & Donate program, wherein 75,000 passengers donated $380,000 to the Human Rights Campaign (HRC).
+
+In the hiring process, Tariq implemented the Rooney Rule, which requires at least one minority and one woman to take part in the final interview process for positions that are director level or above.
+
+## 5. Allison Esposito
+
+![](https://lh3.googleusercontent.com/JIVCeHcCHvVORTefT9AS_Cks6U4KrubXyJAtwe54cVMkqoKwuV5XaXFc1o_LSEyBuDWBD83FjI0KgFBgsBqIuCUKuUain0e1ikx_2lSfrRxVsmUOR43oejN0rzShjoWBLbPB4vceEq3CFmElpQ)
+
+Source: [Medium](https://medium.com/@allisonesposito)
+
+As the founder of Tech Ladies, Allison has become one of the most influential women in the tech industry.
+
+The vision of Tech Ladies is to help women land their dream roles in all technology fields. The organization connects women online by creating a space where they can ask and offer career advice and offline through meetups in New York, San Francisco, Los Angeles, DC, and Vancouver. In 2016, Tech Ladies boasted a network of 5,000+ women in technology worldwide.
+
+Their job board, [www.hiretechladies.com](http://www.hiretechladies.com/), includes positions for prominent tech companies like Kickstarter, Evernote, Warby Parker, Buffer, Etsy, GIPHY, Yahoo!, and more.
+
+Allison's organization was accepted into [Women@Forbes](http://www.forbes.com/women-at-forbes) and the [Impact Hub](https://www.impacthub.net/) Female Founder Entrepreneur Program.
+
+## 6. Cadran Cowansage
+
+![](https://lh6.googleusercontent.com/KMKMwbMZnIgiuTwZ5De1ZP6-MxFxEoVI3GgYWn0JpdEujQXSHXogCyJWELHqmHgMVNamfHxjnuRaJyCLBViL0y_PqaBgj5PMhynR32-jCm7VshmbMLYqsYk_2xh_e9DSzCUj41l9mjbrb7a7bA)
+
+Source: [Twitter](https://twitter.com/cadran_c)
+
+Cadran is a Y Combinator (YC) software engineer and founder of Leap, an online community for women. Its mission is to create an online space where women can talk openly.
+
+Leap's objective is to create an online community where the core culture, software, and product decisions are defined by women. This initiative is significant given that social media giants like Facebook, Snapchat, and LinkedIn---among many others---were all founded by men.
+
+Leap has amassed 1,500 members in its beta stage. The platform is for female designers, marketers, VCs, and engineers in the tech industry who want to discuss job and network opportunities, sexual harassment issues, parenting issues, tech articles, and startup questions.
+
+You can [sign up here](https://leap.ycombinator.com/) to join Leap.
+
+## 7. Maxine Williams
+
+![](https://lh6.googleusercontent.com/ICqXPYXrR-85pOrYLdnzXrU1b9SKv06EK2Su0fq_qowZ45RtjHD0RMMXv2tZS04XGrXrmP1QlM36LJQ-3NuZwxXSi-EJSDcZWxFJXoZJBGEW_YvQS3MxxyF_NJPRXnvdwCQdi5z8mhut0fiqCw)
+
+Source: [Atlanta Black Star](http://atlantablackstar.com/maxine-williams/)
+
+Maxine earned her law degree and graduated with first-class honors from Oxford University as a Rhodes Scholar. She went to work as an attorney in the UK and has worked in multiple international organizations on development and human rights issues.
+
+She is currently Facebook's Global Chief Diversity Officer, where she develops strategies to attract and support underrepresented people in all teams on Facebook. Under Maxine's leadership, the number of women in the social media giant increased up to 35 percent, as well as Hispanics (5 percent), and African Americans (3 percent).
+
+She also spearheaded three programs on Facebook---Diverse Slate Approach, Managing Unconscious Bias, and Facebook University---which aims to increase diversity and opportunities for underrepresented backgrounds.
+
+You can follow or reach out to Maxine via her[ Facebook account](https://www.facebook.com/maxine.williams.5205?ref=br_rs).
+
+## 8. Ciara Trinidad
+
+![](https://lh3.googleusercontent.com/uoOXdmk6zrHHi4Aqb3IOmnIsQ44l_zsLjPo1kCW1Hes1TA4t3q2fEfIDwcJPo0M_EjpF5ioOhgG33dF_uVA68Gj-0YxmYyZ1CzW2d7ofje3rGkcf-QXXhABvKVnWPH4jLIBG6u67lRKu5hsQQw)
+
+Source: [LinkedIn](https://www.linkedin.com/in/ciaratrinidad/)
+
+Ciara is a self-proclaimed "triple threat" since she is black, female, and queer. She serves as the head of Diversity, Inclusion & Belonging at Blend. Previously, she was the head of Inclusion and Diversity at Lever, where she helped created a 50/50 gender split.
+
+Ciara says her focus is to build a culture where people can be their authentic selves, bring their best ideas to work, and get the best people at their company. She also serves as a D&I advisor for companies like HotelTonight and [lob.com](http://lob.com).
+
+You can get in touch with her on LinkedIn and Twitter---@ciaratrinidad.
+
+## 9. David King
+
+![](https://lh4.googleusercontent.com/_iduXwXYRIES4UsCIREtSF0YTj3-ICWjD04uiTFZoJsTXcs-rNPBgBDqdiwOxcyXi7SFb-D50BA_xiGqyK5YPN7cKd921iSwD3XD-4H2TCwUyyEa1YT01IePFJxdTmL3MtgLPi2ciMVJKmd-CA)
+
+Source: [New York Times](https://www.nytimes.com/2016/03/05/technology/airbnb-hires-first-director-of-diversity.html)
+
+David King has more than 10 years of experience as a leader, visionary, and promoter of diversity and inclusion at top global organizations. He served as the chief of diversity management and outreach at the US Department of State. He advised Secretary of State Hillary Clinton on issues such as same-sex domestic partner benefits and the recruitment and retention of diverse Foreign Service Officers. He also served as the director of the Office of Civil Rights and Diversity for the Peace Corps.
+
+At present, David King is the head of Diversity and Belonging at Airbnb. Under his leadership, Airbnb has 41 percent females and 59 percent males. While ethnicity of employees isn't as diverse, Airbnb has managed to gain 41 percent whites, 36 percent Asians, 7.5 percent Hispanics and 3 percent blacks.
+
+You may get in touch with David via his [LinkedIn profile](https://www.linkedin.com/in/david-julius-king-iii-93a87334/).
+
+## 10. Laura Weidman Powers
+
+![](https://lh5.googleusercontent.com/I-aULjjbotqg_VVzkjBkRr83Zzh7S0Wf9Ro-6UfShRUF0LOA6UXjbgTKgAzy3bfaT6tZs-sECgDxCKNDLM_YYaVwiApPkfQbSgv58zgJv3sApPnZcXT5eNHLUUC3cOtfqNsUD9ZdxlKLusbKjQ)
+
+Source: [Code2040](http://www.code2040.org/laura-weidman-powers/)
+
+Laura Weidman Powers is co-founder and CEO of Code2040, which is a nonprofit organization that creates opportunities in technology for underrepresented backgrounds, especially for blacks and Latinas. The organization envisions that by the year 2040, people of color will be equally represented in America's economy as tech leaders, investors, and entrepreneurs.
+
+Previously, Laura was the senior advisor to U.S. Chief Technology Officer Megan Smith. There, she worked on diversity and inclusion issues related to hiring practices, entrepreneurial ecosystems, and tech platforms. She also co-founded two nonprofit arts education organizations in West Philadelphia.
+
+Fortune named Laura as one of the top ten female executives on the rise in 2016. Goldman Sachs recognized her as one of the 100 Most Intriguing Entrepreneurs in 2013.
+
+Follow her on Twitter---@laurawp.
+
+## 11. Reshma Saujani
+
+![](https://lh3.googleusercontent.com/559DUW8rCg1C7NEKRc40mIRHN7ewhdcX2gkuibb0MgnIdE-VvOFEerBlpoMjpiu0ki2oBcDO8sBgdMS_a_8H12v_56MJ-AXfXCIGNFcBuDKGa4QmMMtLtdOH-Jgog-VCvIsYwLwNFccWfkcAmw)
+
+Source: [Reshma Saujani](http://reshmasaujani.com/)
+
+Reshma Saujani is the founder and CEO of Girls Who Code. The organization hopes to close the gender gap in technology. It has currently taught 50,000 girls, and 88 percent of its alumni have studied computer science in college.
+
+Saujani is also the author of a fun guide for coding titled, Girls Who Code: Learn to Code and Change the World, and a book for female leaders titled, Women Who Don't Wait in Line.
+
+Her goal is to teach 1 million girls by 2020.
+
+You can follow Reshma at[ @reshmasaujani](https://twitter.com/reshmasaujani?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) or visit her website at [reshmasaujani.com](http://reshmasaujani.com).
+
+## 12. Sandy Hoffman
+
+![](https://lh3.googleusercontent.com/gxUUMX-aB-LxAr1x4apcrVcO6hEUci1OJ59wG9lELXzIjHnB1VxNGFGQB48K4dBELi7MiLq7rS3wwmxDL6f6htYPbDc2_ORO4sylA7-PbhMtPVvTJ4roOe40zqoZUYX23pvafQuj0BbaXR5f3w)
+
+Source: [Cisco](https://blogs.cisco.com/diversity/7-questions-for-cisco-chief-diversity-officer-sandy-hoffman)
+
+Sandy Hoffman is the director of global inclusion at LinkedIn. She joined the company to help fulfill LinkedIn's vision of equal economic opportunity for every employee in the world.
+
+Prior to her role at LinkedIn, she was the chief diversity officer at Cisco. She has also published many articles on inclusion and diversity. Her passion is to increase engagement and inclusion outcomes in order to fuel innovation and leadership.
+
+Get in touch with Sandy Hoffman on Twitter [@sahoffma](https://twitter.com/sahoffma?lang=en).
+
+## 13. Freada Kapor Klein
+
+![](https://lh3.googleusercontent.com/UlAM2RIOlPibcWsi8ZtEpVpvczTYw8d9Sn9LTdgqUyOI1esEE98wLXTjMfm8KYfdJ9IWoiyOP77ffNeIIsBdHsjgsrYnA8ugpel3WCG8LNtrDX6i51B1PJ8nmdVFLqfOIqZefb8Wp1oFXiaeeQ)
+
+Source: [Kapor Capital](https://www.kaporcapital.com/who-we-are/freada-kapor-klein/)
+
+As the founder of Level Playing Field Institute, Freada knows a lot about the discrimination and lack of diversity in STEM fields.
+
+Level Playing Field recognizes the plight of underserved and underrepresented students of color, so the institute explores initiatives to help address why diversity efforts have failed and to implement programs to help it succeed. The organization offers mentorship, scholarships, educational experiences, and programs to students of color. These initiatives include Level the Coding Field hackathons, SMASH: Connect (an alumni mentoring program), Summer Math and Science Honors (SMASH) Academy, and a lot more!
+
+Follow Freada on Twitter [@TheRealFreada](https://twitter.com/TheRealFreada?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor).
+
+## 14. Mitchell Kapor
+
+![](https://lh3.googleusercontent.com/s6EpcUOsn0u6rVYITfzOeTUrziHGphXdJ3C6ULJ1m_ia2d32uVQzA9ZHz55jb2J9uu2UP2x-owmaWFUovdnDyFejS9vcqVdF0zLAuFpkLw-01W2V0iahimS05AyG0EN9F_ZCAVb9pHBh0N44vw)
+
+Source: [Kapor Capital](https://www.kaporcapital.com/who-we-are/mitchell-kapor/)
+
+Mitchell Kapor has a diverse portfolio at Kapor Capital. He has invested in startups and teams from underrepresented backgrounds and low-income communities. He also takes part in initiatives to break barriers in education and to address urgent social needs in the fields of education, justice, and health.
+
+In his current portfolio, 56 percent of investments show a woman or a person of color as a founder. Forty-two percent of their first-time investments had a female founder, and 28 percent of his first-time investments had a founder from a racially underrepresented background.
+
+You can follow Mitchell @[mkapor](https://twitter.com/mkapor?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor).
+
+## 15. David Molina
+
+![](https://lh3.googleusercontent.com/Rij2_vUAEpRPsUqEADC5kyGdX_3KE35n927bDCTwQsovUH_ypVYvpWgFc4x56DA57zAeXI0ydp6DtBO4bulnF-dFwc1V--YO3C-j3zc8pdA0gO0ilFFabo4sFIM5GFBWJcYOxd7Ey14A6UYILg)
+
+Source: [GeekWire](https://www.geekwire.com/2016/call-duty-technology-veterans-rally-support-operation-code/)
+
+How can veterans get opportunities in tech? After twelve years of service, David wanted a new career. However, he couldn't use his GI bill to enroll in code school because the military did not recognize it.
+
+The solution? David created Operation Code to modernize the outdated GI bill so veterans could get tech jobs. His cause gained momentum, and House Republican Majority Leader, Kevin McCarthy, introduced a bill that enabled the US Department of Veterans Affairs to begin pilot programs with various tech courses, especially programming.
+
+At present, Operation Code provides one-on-one mentorship for veterans from software engineers, product managers, system architects, and security engineers. They have established a loan program to provide laptops to veterans in need. They also have a Slack group that boasts 1,200 members and more than 60 channels with different subjects.
+
+Follow David @[davidcmolina](https://twitter.com/davidcmolina?lang=en).
+
+## 16. Candice Morgan
+
+![](https://lh4.googleusercontent.com/JXHxB_b7APDzHc-nbea1uLWgSVtWvZQRqJ1Z9jCVEFe0ll_x9c7e3eRN4pK67C6OhB5GmzbOXoOEw5VuSIN9rq9sdc2aD_WMk_JGdcIjyBYDz4ZzTIYBMckYRBd2VVY4lE0V1HIO3nGeD4gRzQ)
+
+Source: [Twitter](https://twitter.com/candice_mmorgan)
+
+Candice is the first-ever head of diversity at Pinterest. She is responsible for transforming Pinterest's talent pool to increase the number of women and people of color in the company. In 2017, she managed to increase Pinterest's hiring rate for women by 26 percent, which surpassed the company's goal of 25 percent. The company currently has 45 percent females and 55 percent males.
+
+Follow Candice Morgan on Twitter [@Candice_MMorgan](about:blank) or get in touch with her on [LinkedIn](https://www.linkedin.com/in/candicemorgan).
+
+## 17. Caroline Wanga
+
+![](https://lh5.googleusercontent.com/nzvufuPyZvaE6bANotMmoEr1N_dxP9dlrDKDWao231ByfIZH-cc9wy5CZfh4DwNsiAjKQuvtSTwc_fMqrb3UhBfnZW7qLgb0qnt8JuqwDDxaH8_xHzpCyKzQcPNd3MyUMIIAjsmBZ9pSiDQ0Gw)
+
+Source: [Human Capital Institute](http://www.hci.org/presenter/caroline-wanga)
+
+Caroline is the chief diversity and inclusion officer and vice president of human resources at Target. She created Target's first-ever performance-based diversity and inclusion goals to generate insights on the best ways to reach employees from underrepresented backgrounds. She is passionate about creating an environment where employees, especially people of color, are respected.
+
+With her efforts, Target landed the 22nd spot on DiversityInc's list of the [top 50 most diverse firms](http://www.diversityinc.com/target/) and had more willingness to promote and designate Latinos at higher positions than those in the top ten.
+
+Connect with Caroline on [LinkedIn](https://www.linkedin.com/in/caroline-a-wanga-94bb1149/).
+
+## 18. Sue Henley
+
+![](https://lh4.googleusercontent.com/owLESrkhQDiZ4eoIYnhIlT489fLwc1_fYI2nRpA3mdYkb0cnDzWoT5dD8icO_OW6Xs0GFEW8XgV9aGtE8sMCttWUA2X4sFPS2QISNty6MtoTae1p_D7vO-aMT5kVvMCF7NUVJRE9wS4_DliqBg)
+
+Source: [Vercida](https://www.vercida.com/uk/articles/ca-technologies-sue-tells-us-how-they-are-delivering-d-i)
+
+Sue Henley is the head of Talent Development, Education & Diversity for EMEA.
+
+The company was awarded the Champion of Equality & Inclusion at the enei (Employers Network for Equality & Inclusion) awards. The recognition was a result of the company's various diversity and inclusion programs. One example is THRIVE, a program wherein CA Technologies employees are involved in volunteer work groups like The Generational Employee Network in order to address intergenerational issues.
+
+The company also created reverse mentoring initiatives to encourage interactions across various generations.
+
+You can follow and contact Sue via[ LinkedIn](https://www.linkedin.com/in/sue-henley-306a828/).
+
+## 19. Chike Aguh
+
+![](https://lh5.googleusercontent.com/ZUL6lk2GRTJvEI29YPDPKskfmQLaeY77mIelyQoZbr8ncl6tPUFX_3iGQKU1b81BjvbT7KKKQF5ZhyM2w3jiuHk1LFb-d1T3Rrve8ajEhX44k2EoFlfpcexJZloJwcnzBrhmO7OD09_7tM7nTQ)
+
+Source: [EveryoneOn](https://everyoneon.org/about/staff/)
+
+Thousands of US citizens are still not connected to the Internet. As CEO of EveryoneOn, this is a problem Chike wants to solve. He aims to break the digital divide by making affordable internet, low-cost computers, and free digital literacy courses accessible to underprivileged citizens.
+
+Chika is also a member at Harvard's John F. Kennedy School of Government's Alumni Board of Directors, a term member at the Council on Foreign Relations, and board president at Code in the Schools.
+
+Connect with Chike on [LinkedIn](https://www.linkedin.com/in/chike-aguh-2177695/).
+
+## 20. Shelley Henderson
+
+![](https://lh5.googleusercontent.com/Ofu2ysPGM2hnUwhYcLF585G2wkCz1mzG14JYk8aArbOaSQ-5C8nxTOpFtHDvxw69GtSbocPbqnRwowJo_9tZnKGOHMrbiQUprpx2JCn6uw_woskNlG-rLNl_VUZS5n_B_Apcfsn9flo783j3vQ)
+
+Source: [Nsee](http://nsee.info/shelley-henderson/)
+
+Shelley has done many things. She spent the past 25 years in various positions, which include certified teacher, youth development specialist, nonprofit executive, university program coordinator, and professor among many others.
+
+At present, she serves as the national diversity and inclusion manager at For Inspiration and Recognition of Science and Technology (FIRST). Her job is to seek entrepreneurial opportunities and well-paying jobs for the underprivileged and people of color. She is also responsible for planning and implementing strategies that will increase inclusivity and diversity in the FIRST community.
+
+Follow Shelley on Twitter [@shellmhenderson.](https://twitter.com/shellmhenderson?lang=en)
+
+
+----
+
+Got any diversity and inclusion leaders you'd like to add to the list? [Send us an email](mailto:hello@makeschool.com) with your suggestions, and we may include your thoughts in a future post!
