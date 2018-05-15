@@ -31,7 +31,7 @@ The tech industry is predominantly male. [Women Who Tech found](http://www.recru
 
 The good news is there have been more diversity and inclusion leaders over the past year. Check out our list to learn about the leaders you should follow in 2018.
 
-__1. Emma Mayerson__
+## 1. Emma Mayerson
 
 ![](http://res.cloudinary.com/makeschool/image/upload/s--LxEGpNMp--/v1526403388/Blog/emma-mayerson-500-500.jpg)
 
@@ -43,7 +43,7 @@ She manages an association with more than 150 organizations that serve more than
 
 You can check it out at [www.alliance4girls.org](http://www.alliance4girls.org).
 
-__2. Kimberly Bryant__
+## 2. Kimberly Bryant
 
 ![](http://res.cloudinary.com/makeschool/image/upload/s--P_q0Um4_--/v1526403388/Blog/kimberly-bryant-500-500.jpg)
 
@@ -55,7 +55,7 @@ As founder of Black Girls Code, Kimberly hopes to change this trend. Her organiz
 
 If you want to check out her organization, visit their [website](http://www.blackgirlscode.com/).
 
-__3. Leanne Pittsford__
+## 3. Leanne Pittsford
 
 ![](https://res.cloudinary.com/makeschool/image/upload/v1526403389/Blog/leanne-pittsford-500-500.jpg)
 
@@ -69,7 +69,7 @@ Leanne founded Lean Impact, which helps social good communities use Lean Startup
 
 You can get in touch with her on Twitter [@lepitts](https://twitter.com/lepitts).
 
-__4. Tariq Meyers__
+## 4. Tariq Meyers
 
 ![](https://res.cloudinary.com/makeschool/image/upload/v1526403389/Blog/tariq-meyers-500-500.jpg)
 
@@ -81,7 +81,7 @@ Under his leadership, the company has held unconscious bias trainings and consci
 
 In the hiring process, Tariq implemented the Rooney Rule, which requires at least one minority and one woman to take part in the final interview process for positions that are director level or above.
 
-__5. Allison Esposito__
+## 5. Allison Esposito
 
 ![](https://res.cloudinary.com/makeschool/image/upload/v1526403388/Blog/allison-esposito-500-500.jpg)
 
@@ -95,7 +95,7 @@ Their job board, [www.hiretechladies.com](http://www.hiretechladies.com/), incl
 
 Allison's organization was accepted into [Women@Forbes](http://www.forbes.com/women-at-forbes) and the [Impact Hub](https://www.impacthub.net/) Female Founder Entrepreneur Program.
 
-__6. Cadran Cowansage__
+## 6. Cadran Cowansage
 
 ![](https://res.cloudinary.com/makeschool/image/upload/v1526403388/Blog/cadran-cowansage-500-500.jpg)
 
@@ -109,7 +109,7 @@ Leap has amassed 1,500 members in its beta stage. The platform is for women desi
 
 You can [sign up here](https://leap.ycombinator.com/) to join Leap.
 
-__7. Maxine Williams__
+## 7. Maxine Williams
 
 ![](https://res.cloudinary.com/makeschool/image/upload/v1526403389/Blog/maxine-williams-500-500.jpg)
 
@@ -123,7 +123,7 @@ She also spearheaded three programs on Facebook---Diverse Slate Approach, Managi
 
 You can follow or reach out to Maxine via her[ Facebook account](https://www.facebook.com/maxine.williams.5205?ref=br_rs).
 
-__8. Ciara Trinidad__
+## 8. Ciara Trinidad
 
 ![](https://res.cloudinary.com/makeschool/image/upload/v1526403388/Blog/ciara-trinidad-500-500.jpg)
 
@@ -135,7 +135,7 @@ Ciara says her focus is to build a culture where people can be their authentic s
 
 You can get in touch with her on LinkedIn and Twitter---@ciaratrinidad.
 
-__9. David King__
+## 9. David King
 
 ![](https://res.cloudinary.com/makeschool/image/upload/v1526403388/Blog/david-king-500-500.jpg)
 
@@ -147,7 +147,7 @@ At present, David King is the head of Diversity and Belonging at Airbnb. Under h
 
 You may get in touch with David via his [LinkedIn profile](https://www.linkedin.com/in/david-julius-king-iii-93a87334/).
 
-__10. Laura Weidman Powers__
+## 10. Laura Weidman Powers
 
 ![](https://res.cloudinary.com/makeschool/image/upload/v1526403388/Blog/laura-weidman-powers-500-500.jpg)
 
@@ -161,7 +161,7 @@ Fortune named Laura as one of the top ten women executives on the rise in 2016. 
 
 Follow her on Twitter---@laurawp.
 
-__11. Reshma Saujani__
+## 11. Reshma Saujani
 
 ![](https://res.cloudinary.com/makeschool/image/upload/v1526403389/Blog/reshma-saujani-500-500.jpg)
 
@@ -175,7 +175,7 @@ Her goal is to teach 1 million girls by 2020.
 
 You can follow Reshma at[ @reshmasaujani](https://twitter.com/reshmasaujani?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) or visit her website at [reshmasaujani.com](http://reshmasaujani.com).
 
-__12. Sandy Hoffman__
+## 12. Sandy Hoffman
 
 ![](https://res.cloudinary.com/makeschool/image/upload/v1526403389/Blog/sandy-hoffman-500-500.jpg)
 
@@ -187,7 +187,7 @@ Prior to her role at LinkedIn, she was the chief diversity officer at Cisco. Sh
 
 Get in touch with Sandy Hoffman on Twitter [@sahoffma](https://twitter.com/sahoffma?lang=en).
 
-__13. Freada Kapor Klein__
+## 13. Freada Kapor Klein
 
 ![](https://res.cloudinary.com/makeschool/image/upload/v1526403388/Blog/freada-kapor-klein-500-500.jpg)
 
@@ -199,7 +199,7 @@ Level Playing Field recognizes the plight of underserved and underrepresented st
 
 Follow Freada on Twitter [@TheRealFreada](https://twitter.com/TheRealFreada?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor).
 
-__14. Mitchell Kapor__
+## 14. Mitchell Kapor
 
 ![](https://res.cloudinary.com/makeschool/image/upload/v1526403389/Blog/mitch-kapor-500-500.jpg)
 
@@ -211,7 +211,7 @@ In his current portfolio, 56 percent of investments show a woman or a person of 
 
 You can follow Mitchell @[mkapor](https://twitter.com/mkapor?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor).
 
-__15. David Molina__
+## 15. David Molina
 
 ![](https://res.cloudinary.com/makeschool/image/upload/v1526403388/Blog/david-molina-500-500.jpg)
 
@@ -225,7 +225,7 @@ At present, Operation Code provides one-on-one mentorship for veterans from soft
 
 Follow David @[davidcmolina](https://twitter.com/davidcmolina?lang=en).
 
-__16. Candice Morgan__
+## 16. Candice Morgan
 
 ![](https://res.cloudinary.com/makeschool/image/upload/v1526403388/Blog/candice-morgan-500-500.jpg)
 
@@ -235,7 +235,7 @@ Candice is the first-ever head of diversity at Pinterest. She is responsible for
 
 Follow Candice Morgan on Twitter [@Candice_MMorgan](about:blank) or get in touch with her on [LinkedIn](https://www.linkedin.com/in/candicemorgan).
 
-__17. Caroline Wanga__
+## 17. Caroline Wanga
 
 ![](https://res.cloudinary.com/makeschool/image/upload/v1526403388/Blog/caroline-wanga-500-500.jpg)
 
@@ -247,7 +247,7 @@ With her efforts, Target landed the 22nd spot on DiversityInc's list of the [top
 
 Connect with Caroline on [LinkedIn](https://www.linkedin.com/in/caroline-a-wanga-94bb1149/).
 
-__18. Sue Henley__
+## 18. Sue Henley
 
 ![](https://res.cloudinary.com/makeschool/image/upload/v1526403389/Blog/sue-henley-500-500.jpg)
 
@@ -261,7 +261,7 @@ The company also created reverse mentoring initiatives to encourage interactions
 
 You can follow and contact Sue via[ LinkedIn](https://www.linkedin.com/in/sue-henley-306a828/).
 
-__19. Chike Aguh__
+## 19. Chike Aguh
 
 ![](https://res.cloudinary.com/makeschool/image/upload/v1526403388/Blog/chike-aguh-500-500.jpg)
 
@@ -273,7 +273,7 @@ Chika is also a member at Harvard's John F. Kennedy School of Government's Alumn
 
 Connect with Chike on [LinkedIn](https://www.linkedin.com/in/chike-aguh-2177695/).
 
-__20. Shelley Henderson__
+## 20. Shelley Henderson
 
 ![](https://res.cloudinary.com/makeschool/image/upload/v1526403389/Blog/shelley-henderson-500-500.jpg)
 
