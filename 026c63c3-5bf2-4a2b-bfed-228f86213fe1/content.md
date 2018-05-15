@@ -35,7 +35,7 @@ The good news is there have been more diversity and inclusion leaders over the p
 
 ![](http://res.cloudinary.com/makeschool/image/upload/s--LxEGpNMp--/v1526403388/Blog/emma-mayerson-500-500.jpg)
 
-Source: [Alliance for Girls](http://www.alliance4girls.org/staff-and-leadership)
+(Source: [Alliance for Girls](http://www.alliance4girls.org/staff-and-leadership))
 
 Emma is the founding director of Alliance for Girls (AFG).
 
@@ -47,7 +47,7 @@ You can check it out at [www.alliance4girls.org](http://www.alliance4girls.org).
 
 ![](http://res.cloudinary.com/makeschool/image/upload/s--P_q0Um4_--/v1526403388/Blog/kimberly-bryant-500-500.jpg)
 
-Source: [Black Girls Code](http://www.blackgirlscode.com/about-bgc.html)
+(Source: [Black Girls Code](http://www.blackgirlscode.com/about-bgc.html))
 
 Some say it's hard to find women leaders in the STEM industry, but it may be even harder to find African American women in science, technology, engineering, and math. Kimberly Bryant was familiar with this trend. She felt culturally isolated because while she pursued her studies she rarely met people with the same cultural background.
 
@@ -59,7 +59,7 @@ If you want to check out her organization, visit their [website](http://www.blac
 
 ![](https://res.cloudinary.com/makeschool/image/upload/v1526403389/Blog/leanne-pittsford-500-500.jpg)
 
-Source: [Twitter](https://twitter.com/lepitts)
+(Source: [Twitter](https://twitter.com/lepitts))
 
 Leanne Pittsford is an entrepreneur, investor, and queer and women's rights activist.
 
