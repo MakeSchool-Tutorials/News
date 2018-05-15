@@ -73,7 +73,7 @@ You can get in touch with her on Twitter [@lepitts](https://twitter.com/lepitts)
 
 ![](https://res.cloudinary.com/makeschool/image/upload/v1526403389/Blog/tariq-meyers-500-500.jpg)
 
-Source: [Forbes](https://www.forbes.com/profile/tariq-meyers/)
+(Source: [Forbes](https://www.forbes.com/profile/tariq-meyers/))
 
 Tariq Meyers is the first head of inclusion and diversity at Lyft.
 
@@ -85,7 +85,7 @@ In the hiring process, Tariq implemented the Rooney Rule, which requires at leas
 
 ![](https://res.cloudinary.com/makeschool/image/upload/v1526403388/Blog/allison-esposito-500-500.jpg)
 
-Source: [LinkedIn](https://www.linkedin.com/in/allisonesposito/detail/photo/)
+(Source: [LinkedIn](https://www.linkedin.com/in/allisonesposito/detail/photo/))
 
 As the founder of Tech Ladies, Allison has become one of the most influential women in the tech industry.
 
@@ -99,7 +99,7 @@ Allison's organization was accepted into [Women@Forbes](http://www.forbes.com/wo
 
 ![](https://res.cloudinary.com/makeschool/image/upload/v1526403388/Blog/cadran-cowansage-500-500.jpg)
 
-Source: [Twitter](https://twitter.com/cadran_c)
+(Source: [Twitter](https://twitter.com/cadran_c))
 
 Cadran is a Y Combinator (YC) software engineer and founder of Leap, an online community for women. Its mission is to create an online space where women can talk openly.
 
@@ -113,7 +113,7 @@ You can [sign up here](https://leap.ycombinator.com/) to join Leap.
 
 ![](https://res.cloudinary.com/makeschool/image/upload/v1526403389/Blog/maxine-williams-500-500.jpg)
 
-Source: [Atlanta Black Star](http://atlantablackstar.com/maxine-williams/)
+(Source: [Atlanta Black Star](http://atlantablackstar.com/maxine-williams/))
 
 Maxine earned her law degree and graduated with first-class honors from Oxford University as a Rhodes Scholar. She went to work as an attorney in the UK and has worked in multiple international organizations on development and human rights issues.
 
@@ -127,7 +127,7 @@ You can follow or reach out to Maxine via her[ Facebook account](https://www.fac
 
 ![](https://res.cloudinary.com/makeschool/image/upload/v1526403388/Blog/ciara-trinidad-500-500.jpg)
 
-Source: [LinkedIn](https://www.linkedin.com/in/ciaratrinidad/)
+(Source: [LinkedIn](https://www.linkedin.com/in/ciaratrinidad/))
 
 Ciara is a self-proclaimed "triple threat" since she is a black and queer woman. She serves as the head of Diversity, Inclusion & Belonging at Blend. Previously, she was the head of Inclusion and Diversity at Lever, where she helped created a 50/50 gender split.
 
@@ -139,7 +139,7 @@ You can get in touch with her on LinkedIn and Twitter---@ciaratrinidad.
 
 ![](https://res.cloudinary.com/makeschool/image/upload/v1526403388/Blog/david-king-500-500.jpg)
 
-Source: [New York Times](https://www.nytimes.com/2016/03/05/technology/airbnb-hires-first-director-of-diversity.html)
+(Source: [New York Times](https://www.nytimes.com/2016/03/05/technology/airbnb-hires-first-director-of-diversity.html))
 
 David King has more than 10 years of experience as a leader, visionary, and promoter of diversity and inclusion at top global organizations. He served as the chief of diversity management and outreach at the US Department of State. He advised Secretary of State Hillary Clinton on issues such as same-sex domestic partner benefits and the recruitment and retention of diverse Foreign Service Officers. He also served as the director of the Office of Civil Rights and Diversity for the Peace Corps.
 
@@ -151,7 +151,7 @@ You may get in touch with David via his [LinkedIn profile](https://www.linkedin.
 
 ![](https://res.cloudinary.com/makeschool/image/upload/v1526403388/Blog/laura-weidman-powers-500-500.jpg)
 
-Source: [Code2040](http://www.code2040.org/laura-weidman-powers/)
+(Source: [Code2040](http://www.code2040.org/laura-weidman-powers/))
 
 Laura Weidman Powers is co-founder and CEO of Code2040, which is a nonprofit organization that creates opportunities in technology for underrepresented backgrounds, especially for blacks and Latinas. The organization envisions that by the year 2040, people of color will be equally represented in America's economy as tech leaders, investors, and entrepreneurs.
 
@@ -165,7 +165,7 @@ Follow her on Twitter---@laurawp.
 
 ![](https://res.cloudinary.com/makeschool/image/upload/v1526403389/Blog/reshma-saujani-500-500.jpg)
 
-Source: [Reshma Saujani](http://reshmasaujani.com/)
+(Source: [Reshma Saujani](http://reshmasaujani.com/))
 
 Reshma Saujani is the founder and CEO of Girls Who Code. The organization hopes to close the gender gap in technology. It has currently taught 50,000 girls, and 88 percent of its alumni have studied computer science in college.
 
@@ -179,7 +179,7 @@ You can follow Reshma at[ @reshmasaujani](https://twitter.com/reshmasaujani?ref_
 
 ![](https://res.cloudinary.com/makeschool/image/upload/v1526403389/Blog/sandy-hoffman-500-500.jpg)
 
-Source: [Cisco](https://blogs.cisco.com/diversity/7-questions-for-cisco-chief-diversity-officer-sandy-hoffman)
+(Source: [Cisco](https://blogs.cisco.com/diversity/7-questions-for-cisco-chief-diversity-officer-sandy-hoffman))
 
 Sandy Hoffman is the director of global inclusion at LinkedIn. She joined the company to help fulfill LinkedIn's vision of equal economic opportunity for every employee in the world.
 
@@ -191,7 +191,7 @@ Get in touch with Sandy Hoffman on Twitter [@sahoffma](https://twitter.com/sahof
 
 ![](https://res.cloudinary.com/makeschool/image/upload/v1526403388/Blog/freada-kapor-klein-500-500.jpg)
 
-Source: [Kapor Capital](https://www.kaporcapital.com/who-we-are/freada-kapor-klein/)
+(Source: [Kapor Capital](https://www.kaporcapital.com/who-we-are/freada-kapor-klein/))
 
 As the founder of Level Playing Field Institute, Freada knows a lot about the discrimination and lack of diversity in STEM fields.
 
@@ -203,7 +203,7 @@ Follow Freada on Twitter [@TheRealFreada](https://twitter.com/TheRealFreada?ref_
 
 ![](https://res.cloudinary.com/makeschool/image/upload/v1526403389/Blog/mitch-kapor-500-500.jpg)
 
-Source: [Kapor Capital](https://www.kaporcapital.com/who-we-are/mitchell-kapor/)
+(Source: [Kapor Capital](https://www.kaporcapital.com/who-we-are/mitchell-kapor/))
 
 Mitchell Kapor has a diverse portfolio at Kapor Capital. He has invested in startups and teams from underrepresented backgrounds and low-income communities. He also takes part in initiatives to break barriers in education and to address urgent social needs in the fields of education, justice, and health.
 
@@ -215,7 +215,7 @@ You can follow Mitchell @[mkapor](https://twitter.com/mkapor?ref_src=twsrc%5Egoo
 
 ![](https://res.cloudinary.com/makeschool/image/upload/v1526403388/Blog/david-molina-500-500.jpg)
 
-Source: [GeekWire](https://www.geekwire.com/2016/call-duty-technology-veterans-rally-support-operation-code/)
+(Source: [GeekWire](https://www.geekwire.com/2016/call-duty-technology-veterans-rally-support-operation-code/))
 
 How can veterans get opportunities in tech? After twelve years of service, David wanted a new career. However, he couldn't use his GI bill to enroll in code school because the military did not recognize it.
 
@@ -229,7 +229,7 @@ Follow David @[davidcmolina](https://twitter.com/davidcmolina?lang=en).
 
 ![](https://res.cloudinary.com/makeschool/image/upload/v1526403388/Blog/candice-morgan-500-500.jpg)
 
-Source: [Twitter](https://twitter.com/candice_mmorgan)
+(Source: [Twitter](https://twitter.com/candice_mmorgan))
 
 Candice is the first-ever head of diversity at Pinterest. She is responsible for transforming Pinterest's talent pool to increase the number of women and people of color in the company. In 2017, she managed to increase Pinterest's hiring rate for women by 26 percent, which surpassed the company's goal of 25 percent. The company currently has 45 percent women and 55 percent men.
 
@@ -239,7 +239,7 @@ Follow Candice Morgan on Twitter [@Candice_MMorgan](about:blank) or get in touch
 
 ![](https://res.cloudinary.com/makeschool/image/upload/v1526403388/Blog/caroline-wanga-500-500.jpg)
 
-Source: [Human Capital Institute](http://www.hci.org/presenter/caroline-wanga)
+(Source: [Human Capital Institute](http://www.hci.org/presenter/caroline-wanga))
 
 Caroline is the chief diversity and inclusion officer and vice president of human resources at Target. She created Target's first-ever performance-based diversity and inclusion goals to generate insights on the best ways to reach employees from underrepresented backgrounds. She is passionate about creating an environment where employees, especially people of color, are respected.
 
@@ -251,7 +251,7 @@ Connect with Caroline on [LinkedIn](https://www.linkedin.com/in/caroline-a-wanga
 
 ![](https://res.cloudinary.com/makeschool/image/upload/v1526403389/Blog/sue-henley-500-500.jpg)
 
-Source: [Vercida](https://www.vercida.com/uk/articles/ca-technologies-sue-tells-us-how-they-are-delivering-d-i)
+(Source: [Vercida](https://www.vercida.com/uk/articles/ca-technologies-sue-tells-us-how-they-are-delivering-d-i))
 
 Sue Henley is the head of Talent Development, Education & Diversity for EMEA.
 
@@ -265,7 +265,7 @@ You can follow and contact Sue via[ LinkedIn](https://www.linkedin.com/in/sue-he
 
 ![](https://res.cloudinary.com/makeschool/image/upload/v1526403388/Blog/chike-aguh-500-500.jpg)
 
-Source: [EveryoneOn](https://everyoneon.org/about/staff/)
+(Source: [EveryoneOn](https://everyoneon.org/about/staff/))
 
 Thousands of US citizens are still not connected to the Internet. As CEO of EveryoneOn, this is a problem Chike wants to solve. He aims to break the digital divide by making affordable internet, low-cost computers, and free digital literacy courses accessible to underprivileged citizens.
 
@@ -277,7 +277,7 @@ Connect with Chike on [LinkedIn](https://www.linkedin.com/in/chike-aguh-2177695/
 
 ![](https://res.cloudinary.com/makeschool/image/upload/v1526403389/Blog/shelley-henderson-500-500.jpg)
 
-Source: [Nsee](http://nsee.info/shelley-henderson/)
+(Source: [Nsee](http://nsee.info/shelley-henderson/))
 
 Shelley has done many things. She spent the past 25 years in various positions, which include certified teacher, youth development specialist, nonprofit executive, university program coordinator, and professor among many others.
 
