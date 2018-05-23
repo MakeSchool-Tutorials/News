@@ -19,7 +19,7 @@ That's why we're so thrilled to announce that Yelp, the leading platform for con
 
 > "We're extremely excited to be working with Make School to nurture and hire Product College students. At Yelp, we've always welcomed talented individuals with diverse backgrounds and strong expertise," 
 
-- Alison, university relations program manager at Yelp.
+said Alison, university relations program manager at Yelp.
 
 The agreement with Yelp comes after the company hired a graduate of the Make School Product College last year. Nabil Khaja, Class of 2017, is a software engineer working on the Yelp iOS consumer app, but, he pointed out that, "The role is very flexible for engineers wanting to work outside of their comfort zone. I'm also branching into work on the backend and wrangling some data."
 
