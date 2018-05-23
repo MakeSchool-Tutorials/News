@@ -43,4 +43,4 @@ As part of the agreement with Make School, Yelp will host students at their SF o
 
 This was the first of many joint engagements and we're excited to embark on a great relationship with Yelp moving forward!
 
-Learn more about Make School's Product College by visiting our website, [here](https://www.makeschool.com/product-college?utm_source=blog&utm_medium=referral&utm_campaign=blog-yelp-partnership-announcement&utm_content=).
+Learn more about Make School's Product College [here](https://www.makeschool.com/product-college?utm_source=blog&utm_medium=referral&utm_campaign=blog-yelp-partnership-announcement&utm_content=).
