@@ -17,7 +17,9 @@ For us, industry integration means several things. We want our students to be me
 
 That's why we're so thrilled to announce that Yelp, the leading platform for connecting people with great local businesses, will be working with Make School to nurture tech talent and ultimately identify students who will be a great fit at their SF headquarters. This is the latest in a series of agreements with companies like Facebook, Lever, Lyft, LinkedIn, and more than 40 other companies.
 
-> "We're extremely excited to be working with Make School to nurture and hire Product College students. At Yelp, we've always welcomed talented individuals with diverse backgrounds and strong expertise," said Alison, university relations program manager at Yelp.
+> "At Yelp, we've always welcomed talented individuals with diverse backgrounds and strong expertise"
+
+"We're extremely excited to be working with Make School to nurture and hire Product College students. At Yelp, we've always welcomed talented individuals with diverse backgrounds and strong expertise," said Alison, university relations program manager at Yelp.
 
 The agreement with Yelp comes after the company hired a graduate of the Make School Product College last year. Nabil Khaja, Class of 2017, is a software engineer working on the Yelp iOS consumer app, but, he pointed out that, "The role is very flexible for engineers wanting to work outside of their comfort zone. I'm also branching into work on the backend and wrangling some data."
 
