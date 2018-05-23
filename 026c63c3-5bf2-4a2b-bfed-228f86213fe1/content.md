@@ -153,7 +153,7 @@ You may get in touch with David via his [LinkedIn profile](https://www.linkedin.
 
 (Source: [Code2040](http://www.code2040.org/laura-weidman-powers/))
 
-Laura Weidman Powers is co-founder and CEO of Code2040, which is a nonprofit organization that creates opportunities in technology for underrepresented backgrounds, especially for blacks and Latinas. The organization envisions that by the year 2040, people of color will be equally represented in America's economy as tech leaders, investors, and entrepreneurs.
+Laura Weidman Powers is co-founder and former CEO of Code2040, which is a nonprofit organization that creates opportunities in technology for underrepresented backgrounds, especially for blacks and Latinas. The organization envisions that by the year 2040, people of color will be equally represented in America's economy as tech leaders, investors, and entrepreneurs.
 
 Previously, Laura was the senior advisor to U.S. Chief Technology Officer Megan Smith. There, she worked on diversity and inclusion issues related to hiring practices, entrepreneurial ecosystems, and tech platforms. She also co-founded two nonprofit arts education organizations in West Philadelphia.
 
