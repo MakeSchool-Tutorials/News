@@ -25,7 +25,7 @@ When Nabil was ready to begin his programming career, Yelp was at the top of his
 
 "As someone who often used Yelp to find restaurants, I was excited by the idea of contributing to the platform. When it came time for the job search, I discovered open new-grad software engineering positions at the company, and one of the staff members at Make School was able to connect me with a recruiter at Yelp --- a few days later I got a phone call," Nabil said.
 
-![](https://lh3.googleusercontent.com/UbH4HKNT4dO5BZNlgKuR7Iq7dYOLrrTPF9v0fcQ5ipFHTs1w3e_h0DM6jEQCmHo1UyRHv0KxDzJ81GVHmHV0Tkq-9BjLc_hTFfqbyhhFU_FrwluRoUwTwrDdh95UBzGiyPIOA7cU)
+![](https://res.cloudinary.com/makeschool/image/upload/v1527095216/Blog/Yelp_Announcement_Nabil_Image-1200.jpg)
 
 Nabil's journey began when he enrolled at the Product College in September 2016. "I was chatting with a colleague about reinventing the traditional education system, and he brought up Make School as a program that fit exactly what I described as an 'improved model for college education.' he said. "I was looking to transition from my science background to software engineering --- joining was a no brainer."
 
@@ -39,7 +39,7 @@ For Yelp, recruiting candidates that have the kind of previous experience that N
 
 As part of the agreement with Make School, Yelp will host students at their SF offices, support Product College students with engineering mentorship, attend Product College demo nights, and recruit students for jobs and internships. The very first office visit took place at the end of March, where students got a little tour, some lunch, and then sat down to listen to a lively panel discussion with current Yelp engineers (including Nabil!).
 
-![](https://lh6.googleusercontent.com/RUxcQbwxPISwIf35-xKM-gCE7obSQ2ynvAGB6EQSsNvBjh78lIkqPd-io7Ifylxmb84zEkWwJnoOKQ2J7_4LLr0PTXlzUnOlVeyA7UdT3Cvj3Ahj6tN1mczxWgqnJ0shAJjpy7vM)
+![](https://res.cloudinary.com/makeschool/image/upload/v1527095217/Blog/Yelp_Announcement_Group_Image-1200-749.jpg)
 
 This was the first of many joint engagements and we're excited to embark on a great relationship with Yelp moving forward!
 
