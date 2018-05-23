@@ -2,7 +2,7 @@
 title: Yelp Welcomes Make School Students with Open Arms
 custom_slug: yelp-welcomes-make-school-students-with-open-arms
 category: news
-listed: false
+listed: true
 release_date: !ruby/object:ActiveSupport::TimeWithZone
   utc: &1 2018-05-23 00:00:00.000000000 Z
   zone: !ruby/object:ActiveSupport::TimeZone
