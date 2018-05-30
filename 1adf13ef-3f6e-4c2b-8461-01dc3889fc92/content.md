@@ -37,6 +37,6 @@ Lynne is currently working on an app called Mobae - platform for couples to orga
 
 ![alt text](http://res.cloudinary.com/makeschool/image/upload/s--wXQY_1MS--/c_scale,w_500/v1527708859/Blog/lynne-portfolio.png)
 
-![alt text](https://res.cloudinary.com/makeschool/image/upload/v1527708860/Blog/lynne-portfolio-2.png)
+![alt text](http://res.cloudinary.com/makeschool/image/upload/s--7JbH0rgc--/c_scale,w_500/v1527708860/Blog/lynne-portfolio-2.png)
 
 Lynne was also recently offered an internship at Google which she'll be starting this summer. To learn more about Lynne's current and upcoming projects, check out her [personal website](http://app-works.com/lynneokada).
