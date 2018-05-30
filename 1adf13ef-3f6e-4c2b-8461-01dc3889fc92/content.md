@@ -35,7 +35,7 @@ Lynne explained, "I grew up always playing with the boys, playing video games an
 
 Lynne is currently working on an app called Mobae - platform for couples to organize a list of movies they'd want to watch together. You can keep track of your history of movies watched together and get achievements for watching increasing amounts of movies together. The app uses the Movie Database API, Facebook SDK, and Firebase.
 
-![alt text](https://res.cloudinary.com/makeschool/image/upload/v1527708859/Blog/lynne-portfolio.png)
+![alt text](http://res.cloudinary.com/makeschool/image/upload/s--wXQY_1MS--/c_scale,w_500/v1527708859/Blog/lynne-portfolio.png)
 
 ![alt text](https://res.cloudinary.com/makeschool/image/upload/v1527708860/Blog/lynne-portfolio-2.png)
 
