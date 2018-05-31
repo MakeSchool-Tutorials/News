@@ -4,7 +4,7 @@ custom_slug: altruism-matthieu-richard-on-cultivating-urge-to-give
 category: product_college
 listed: true
 release_date: !ruby/object:ActiveSupport::TimeWithZone
-  utc: &1 2018-05-28 00:00:00.000000000 Z
+  utc: &1 2018-04-13 00:00:00.000000000 Z
   zone: !ruby/object:ActiveSupport::TimeZone
     name: Etc/UTC
   time: *1
