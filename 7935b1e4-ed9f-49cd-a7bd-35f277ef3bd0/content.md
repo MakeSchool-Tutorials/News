@@ -42,3 +42,5 @@ Then ask yourself if there are alternative education options that can give you t
 A four-year degree isn't necessarily a bad choice, but don't make the mistake of thinking that it's the only choice, especially in the world of tech. Consider alternatives that will give you an education catered to your real-world goals, an education centered on developing, collaborating, and problem solving--skills that you will absolutely need to succeed in tech.
 
 You have options. Don't make the mistake of only looking at traditional universities because that's the "normal" thing to do. It might be the right choice for your friend who wants to be a doctor or your friend who wants to be a social worker, but tech is different. You're different. Allow yourself to think differently.
+
+_Learn more about our computer science program [here](https://www.makeschool.com/product-college)._
