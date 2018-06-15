@@ -2,7 +2,7 @@
 title: Never Looking Back with Alirie Gray
 custom_slug: diversity-in-tech-never-looking-back-with-alirie-gray
 category: student_spotlight
-listed: false
+listed: true
 release_date: !ruby/object:ActiveSupport::TimeWithZone
   utc: &1 2018-06-14 00:00:00.000000000 Z
   zone: !ruby/object:ActiveSupport::TimeZone
@@ -31,11 +31,11 @@ Alirie has big plans for Activize. Major features she'd like to incorporate incl
 
 Alirie noted, "One of the best things about the Product College was that we had a few hours every day dedicated to working on our software development projects. The structure and the support from instructors really helped me get a lot done during the day." She added, "The classes weren't just broadcast lectures, either. They involved a mix of lecturing, code reviews, pair programming, and free time to work on our projects. I find that this structure is much better than the typical college broadcast lecture. It allowed me to take on extra challenges based on my interests. It also kept the classroom alive and engaged."
 
-That engagement may be what Alirie likes best about Make School. "I loved being surrounded by peers who are passionate about making things and instructors who are willing to go above and beyond to help us succeed. It's difficult to be unmotivated when everyone around you is so excited about what they are doing and bringing so much energy to the table every day. I also loved the opportunity to work on projects that I'm passionate about as a part of the curriculum."
+That engagement may be what Alirie likes best about Make School. "I loved being surrounded by (peers)[https://www.makeschool.com/product-college/community] who are passionate about making things and instructors who are willing to go above and beyond to help us succeed. It's difficult to be unmotivated when everyone around you is so excited about what they are doing and bringing so much energy to the table every day. I also loved the opportunity to work on projects that I'm passionate about as a part of the curriculum."
 
 She added, "In college, I had to choose between my passion projects and my schoolwork. At the Product College, they are the same thing. And I learned more coding there than I ever did in any college class."
 
-Alirie has since taken her Make School education and transformed it into a full-time position at InfluxData, a Y-Combinator backed company that provides clients with a database engine that makes it easier to analyze time-based data. To learn more about Alirie and to follow her projects, check out her website, [aliriegray.com](http://www.aliriegray.com/), and follow her on [GitHub](https://github.com/AlirieGray).
+Alirie has since taken her Make School education and transformed it into a full-time position at [InfluxData](https://www.influxdata.com/), a Y-Combinator backed company that provides clients with a database engine that makes it easier to analyze time-based data. To learn more about Alirie and to follow her projects, check out her website, [aliriegray.com](http://www.aliriegray.com/), and follow her on [GitHub](https://github.com/AlirieGray).
 
 
 _Applications for Fall 2018 are still open. Learn more about the Product College [here](http://makeschool.com/product-college)._
