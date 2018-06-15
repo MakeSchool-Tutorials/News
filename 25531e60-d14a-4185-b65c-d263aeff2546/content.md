@@ -15,7 +15,7 @@ When Alirie Gray heard about [Make School's Product College](https://www.makesch
 
 Alirie still wanted to finish her physics degree, but she'd been taking a lot more computer science courses than physics courses at her university. "Then last year, a friend approached me about making a prototype for a 3D game. I recruited a couple of my coding friends and we spent the summer creating the game, staying up until 4am more days than not, and I realized this was what I wanted to spend my time doing. I knew the Product College would be perfect for me."
 
-She went on, "After I got accepted that summer, I withdrew from university to attend the Product College, and I haven't regretted it once." Throughout the course of her first, Alirie took several courses that she loved, but her favorite was the Tweet Generator course with instructor Alan Davis. She said, "It's hard to overstate Alan's skill as a teacher. He's absolutely the best teacher I've had to date, in any subject."
+She went on, "After I got accepted that summer, I withdrew from university to attend the Product College, and I haven't regretted it once." Throughout the course of her first year, Alirie took several courses that she loved, but her favorite was the Tweet Generator course with instructor Alan Davis. She said, "It's hard to overstate Alan's skill as a teacher. He's absolutely the best teacher I've had to date, in any subject."
 
 ![Alirie headshot](https://res.cloudinary.com/makeschool/image/upload/v1529088527/Blog/alirie-headshot.jpg)
 
