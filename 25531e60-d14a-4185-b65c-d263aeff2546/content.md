@@ -27,7 +27,7 @@ The idea for Activize came to Alirie through an activist group in her hometown. 
 
 Alirie has big plans for Activize. Major features she'd like to incorporate include being able to search for protests in your area; a live updating map like Waze when you're at protests so you can figure out the route, find bathrooms, and find first aid; the ability to report hazards and police problems; and push notifications from the protest organizers.
 
-![Alirie's presentation](https://res.cloudinary.com/makeschool/image/upload/v1529088523/Blog/IMG_5151.jpg)
+![Alirie's presentation](https://res.cloudinary.com/makeschool/image/upload/v1529088523/Blog/alirie-presentation.jpg)
 
 Alirie noted, "One of the best things about the Product College was that we had a few hours every day dedicated to working on our software development projects. The structure and the support from instructors really helped me get a lot done during the day." She added, "The classes weren't just broadcast lectures, either. They involved a mix of lecturing, code reviews, pair programming, and free time to work on our projects. I find that this structure is much better than the typical college broadcast lecture. It allowed me to take on extra challenges based on my interests. It also kept the classroom alive and engaged."
 
