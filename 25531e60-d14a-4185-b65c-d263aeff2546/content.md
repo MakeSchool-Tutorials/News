@@ -17,8 +17,6 @@ Alirie still wanted to finish her physics degree, but she'd been taking a lot mo
 
 She went on, "After I got accepted that summer, I withdrew from university to attend the Product College, and I haven't regretted it once." Throughout the course of her first, Alirie took several courses that she loved, but her favorite was the Tweet Generator course with instructor Alan Davis. She said, "It's hard to overstate Alan's skill as a teacher. He's absolutely the best teacher I've had to date, in any subject."
 
-_ Applications for Fall 2018 are still open. Learn more about the Product College [here](http://makeschool.com/product-college). _
-
 "In that class there's just one project -- the Tweet generator," Alirie continued, "but through that project you're learning best practices in software development and data structures. We had a lot of code reviews, so we learned how to structure code really well, and we wrote a Python program that used probability to generate semi-grammatical sentences. I used BuzzFeed article titles and some of the works of Karl Marx as my body of text to create a Marxist Clickbait Generator."
 
 But the thing that excited Alirie most during her time at Make School was an app she developed called Activize. "It's a cross-platform mobile app to help activists organize safely and effectively. I made a basic prototype last term, and I'm currently recruiting other developers to help me bring it to life. I'm really passionate about Activize because I think it has a real chance of doing some good for our society."
@@ -34,3 +32,6 @@ That engagement may be what Alirie likes best about Make School. "I loved being 
 She added, "In college, I had to choose between my passion projects and my schoolwork. At the Product College, they are the same thing. And I learned more coding there than I ever did in any college class."
 
 Alirie has since taken her Make School education and transformed it into a full-time position at InfluxData, a Y-Combinator backed company that provides clients with a database engine that makes it easier to analyze time-based data. To learn more about Alirie and to follow her projects, check out her website, [aliriegray.com](http://www.aliriegray.com/), and follow her on [GitHub](https://github.com/AlirieGray).
+
+
+_ Applications for Fall 2018 are still open. Learn more about the Product College [here](http://makeschool.com/product-college). _
