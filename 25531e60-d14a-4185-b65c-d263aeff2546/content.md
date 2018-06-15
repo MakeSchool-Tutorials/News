@@ -38,4 +38,4 @@ She added, "In college, I had to choose between my passion projects and my schoo
 Alirie has since taken her Make School education and transformed it into a full-time position at InfluxData, a Y-Combinator backed company that provides clients with a database engine that makes it easier to analyze time-based data. To learn more about Alirie and to follow her projects, check out her website, [aliriegray.com](http://www.aliriegray.com/), and follow her on [GitHub](https://github.com/AlirieGray).
 
 
-_ Applications for Fall 2018 are still open. Learn more about the Product College [here](http://makeschool.com/product-college). _
+_Applications for Fall 2018 are still open. Learn more about the Product College [here](http://makeschool.com/product-college)._
