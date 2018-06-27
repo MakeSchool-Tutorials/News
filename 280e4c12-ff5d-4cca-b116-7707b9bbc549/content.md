@@ -17,7 +17,6 @@ When you first start out with a tech career, you're going to need to learn data 
 In this series of technical blog posts, we'll be sharing the resources we've collected here at [Make School](https://www.makeschool.com/). In this post, we'll share our resources for number bases, recursion and search algorithms, and string algorithms.
 
 ## Number bases
-------------
 
 -   Review Make School's [slides on number bases](https://github.com/Product-College-Courses/CS-3-Core-Data-Structures/blob/master/slides/NumberBases.pdf)
 
@@ -38,7 +37,6 @@ In this series of technical blog posts, we'll be sharing the resources we've col
 -   Watch Tech Quickie's [numbers and base systems video](https://www.youtube.com/watch?v=LpuPe81bc2w)
 
 ## Recursion and search algorithms
--------------------------------
 
 ![File:Dsa bin search run time.png](https://lh4.googleusercontent.com/hMo368VaLMtfOhAPdLk2nfgJoqZvAxNQAZA64ENrRu76AuxsWHU9JbynYm-ZJSUCgwxCMInOufKMsKDiMnan-yoBWxzXaBE0bFyJq_lO1JJta-EFb6exJuqB_-0YgSM0BVzZ-Ahr)
 
@@ -61,7 +59,6 @@ DS&A binary search runtime. Source: [Wikimedia Commons](https://commons.wikimedi
 -   Watch Harvard's [old recursion video](https://www.youtube.com/watch?v=t4MSwiqfLaY), [new recursion video](https://www.youtube.com/watch?v=VrrnjYgDBEk), [stack frames video](https://www.youtube.com/watch?v=beqqGIdabrE), [linear search video](https://www.youtube.com/watch?v=vZWfKBdSgXI), [binary search video](https://www.youtube.com/watch?v=5xlIPT1FRcA), [asymptotic notation video](https://www.youtube.com/watch?v=iOq5kSKqeR4), and [computational complexity video](https://www.youtube.com/watch?v=IM9sHGlYV5A)
 
 ## String algorithms
------------------
 
 ![File:Anagram canonical svg.svg](https://lh4.googleusercontent.com/axV9VfALH59A1hd4WvAIuZcKQqYNzE0vDTsqJ4p5Xj4jFzyiKpy8wMLyAdpzWee4xRlIy9g17tOAWuVQciQyqEQ04x3Cbx1s6YP0eeS3nw2_CifclbFzTEpqYxieE1CLcke3jKVN)
 
@@ -78,8 +75,9 @@ Algorithmic anagram test using a canonical form. Source: [Wikimedia Commons](htt
 -   Watch HackerRank's [anagram problem solution video](https://www.youtube.com/watch?v=3MwRGPPB4tw)
 
 ## Conclusion
-----------
 
 These resources are helpful, but they aren't the only ways to learn data structures and algorithms. In the next few posts, we'll be sharing our resources for other concepts. Plus, our students have access to one-on-one instruction and hands-on learning that covers the conceptual and practical side of coding at [the Product College](https://www.makeschool.com/product-college).
+
+------------
 
 __The Product College is a two-year accelerated computer science college that offers a unique tuition financing option - students pay only after they've received a job offer at the end of the program (the average starting salary is $95k). Make School's mission is to make a top computer science education available to all. [Learn more](https://www.makeschool.com/product-college).__
