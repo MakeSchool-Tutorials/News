@@ -65,7 +65,7 @@ In this series of technical blog posts, we'll be sharing the resources we've col
 
 ![Anagram canonical](https://lh4.googleusercontent.com/axV9VfALH59A1hd4WvAIuZcKQqYNzE0vDTsqJ4p5Xj4jFzyiKpy8wMLyAdpzWee4xRlIy9g17tOAWuVQciQyqEQ04x3Cbx1s6YP0eeS3nw2_CifclbFzTEpqYxieE1CLcke3jKVN)
 
-_Algorithmic anagram test using a canonical form. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Anagram_canonical_svg.svg)_
+(_Algorithmic anagram test using a canonical form. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Anagram_canonical_svg.svg)_)
 
 -   Read Stack Overflow's answers to the question "[What is unit testing?](http://stackoverflow.com/questions/1383/what-is-unit-testing)"
 
