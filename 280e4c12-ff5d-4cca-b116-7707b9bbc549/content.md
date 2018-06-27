@@ -40,9 +40,8 @@ In this series of technical blog posts, we'll be sharing the resources we've col
 
 ## Recursion and search algorithms
 
-![File:Dsa bin search run time.png](https://lh4.googleusercontent.com/hMo368VaLMtfOhAPdLk2nfgJoqZvAxNQAZA64ENrRu76AuxsWHU9JbynYm-ZJSUCgwxCMInOufKMsKDiMnan-yoBWxzXaBE0bFyJq_lO1JJta-EFb6exJuqB_-0YgSM0BVzZ-Ahr)
-
-DS&A binary search runtime. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Dsa_bin_search_run_time.png)
+![Dsa bin search run time.png](https://commons.wikimedia.org/wiki/File:Binary_Search_Depiction.svg#/media/File:Binary_Search_Depiction.svg)
+(_Visualization of the binary search algorithm where 7 is the target value. Source: [Wikimedia Commons](https://en.wikipedia.org/wiki/Binary_search_algorithm#/media/File:Binary_Search_Depiction.svg)_)
 
 -   Review Make School's [algorithm analysis slides](https://github.com/Product-College-Courses/CS-3-Core-Data-Structures/blob/master/slides/AlgorithmAnalysis.pdf)
 
