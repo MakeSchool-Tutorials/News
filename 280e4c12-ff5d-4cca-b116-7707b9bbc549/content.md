@@ -3,7 +3,7 @@ title: '22 Free Resources for Data Structures and Algorithms: Binary Search Algo
   String Algorithms and more'
 custom_slug: 22-free-resources-for-data-structures-and-algorithms-binary-search-algorithms-string-algorithms-and-more
 category: product_college
-listed: false
+listed: true
 release_date: !ruby/object:ActiveSupport::TimeWithZone
   utc: &1 2018-06-27 00:00:00.000000000 Z
   zone: !ruby/object:ActiveSupport::TimeZone
@@ -41,6 +41,7 @@ In this series of technical blog posts, we'll be sharing the resources we've col
 ## Recursion and search algorithms
 
 ![binary search algorithm](https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Binary_Search_Depiction.svg/440px-Binary_Search_Depiction.svg.png)
+
 (_Visualization of the binary search algorithm where 7 is the target value. Source: [Wikimedia Commons](https://en.wikipedia.org/wiki/Binary_search_algorithm#/media/File:Binary_Search_Depiction.svg)_)
 
 -   Review Make School's [algorithm analysis slides](https://github.com/Product-College-Courses/CS-3-Core-Data-Structures/blob/master/slides/AlgorithmAnalysis.pdf)
@@ -62,9 +63,9 @@ In this series of technical blog posts, we'll be sharing the resources we've col
 
 ## String algorithms
 
-![File:Anagram canonical svg.svg](https://lh4.googleusercontent.com/axV9VfALH59A1hd4WvAIuZcKQqYNzE0vDTsqJ4p5Xj4jFzyiKpy8wMLyAdpzWee4xRlIy9g17tOAWuVQciQyqEQ04x3Cbx1s6YP0eeS3nw2_CifclbFzTEpqYxieE1CLcke3jKVN)
+![Anagram canonical](https://lh4.googleusercontent.com/axV9VfALH59A1hd4WvAIuZcKQqYNzE0vDTsqJ4p5Xj4jFzyiKpy8wMLyAdpzWee4xRlIy9g17tOAWuVQciQyqEQ04x3Cbx1s6YP0eeS3nw2_CifclbFzTEpqYxieE1CLcke3jKVN)
 
-Algorithmic anagram test using a canonical form. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Anagram_canonical_svg.svg)
+_Algorithmic anagram test using a canonical form. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Anagram_canonical_svg.svg)_
 
 -   Read Stack Overflow's answers to the question "[What is unit testing?](http://stackoverflow.com/questions/1383/what-is-unit-testing)"
 
