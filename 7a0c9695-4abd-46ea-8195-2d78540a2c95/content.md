@@ -38,6 +38,7 @@ __Adam__: I mean, Make School is a tech school. If you don't want to be a softwa
 That being said, software is eating every industry. Starbucks is hiring software developers. Think about that. Every company is hiring software developers, because software is doing more and more. So if you're interested in technology, it could be your gateway into another industry that might be hard to enter through the traditional channels. That was my experience in higher education.
 
 ![Adam Braus](https://res.cloudinary.com/makeschool/image/upload/v1530226787/Blog/Make_School_Preview_Day_93_web.jpg)
+(_Adam Braus, Head of the Product College_)
 
 ## Why are you teaching at Make School?
 
@@ -66,6 +67,7 @@ __Susan__: First off, if you go to our website, you can see [a list of our corpo
 While you're at Make School, we get them in here as guest speakers; we get you into their offices or their campuses for tours. What we try to do is get you in front of their technical recruiters, in front of their engineering teams, their CTOs -- we want you in front of their talent, and their employees in front of you.
 
 ![Susan Nesbitt](https://res.cloudinary.com/makeschool/image/upload/v1530226792/Blog/Make_School_Preview_Day_113_web.jpg)
+(_Susan Nesbitt, Job Search & Networking Coach_)
 
 That should also take the form of mentorships. We have an ongoing mentorship program throughout the year. Some of our partners have a lot of employees, others have fewer -- but all of them are generally hiring throughout the year. We work with them on their apprenticeship programs, their internship programs, and then full-time hires. So there are a lot of different capacities where they'd be looking at you and getting to know you throughout the year, and you'll be able to look at them more closely and ask, "Is that a company I want to work at?" And you'll actually then know people there.
 
