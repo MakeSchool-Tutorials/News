@@ -3,7 +3,7 @@ title: 'Your Questions Answered: Make School’s Product College Preview Weekend
   2'
 custom_slug: your-questions-answered-make-schools-product-college-preview-weekend-part-2
 category: product_college
-listed: false
+listed: true
 release_date: !ruby/object:ActiveSupport::TimeWithZone
   utc: &1 2018-07-02 00:00:00.000000000 Z
   zone: !ruby/object:ActiveSupport::TimeZone
@@ -19,6 +19,8 @@ Check out [Part I of this article](https://www.makeschool.com/blog/product-colle
 Want to ask your questions in person? We're hosting a second Preview Weekend July 13-15. Email <admissions@makeschool.com> for more details.
 
 The Instructors: Adam Braus (Product Development, Web Development), Dan Morse (Product Development, Mentors), Alan Davis (Computer Science, Data Science, Public Speaking), Eli'el Gordon (Mobile Development), Mitchell Hudson (Web Track and iOS)
+
+![Instructor Panel at Preview Weekend](http://res.cloudinary.com/makeschool/image/upload/s--dnl-wV_d--/v1530565543/Blog/Make_School_Preview_Day_Alan.jpg)
 
 ## Can I focus on both web and mobile?
 
@@ -45,6 +47,8 @@ Start here. Go get a job for two, three, five years and see how the industry wor
 Then, once you have three to five years of experience, then you can go take the risk because you'll have much broader and deeper perspective on how the whole system works then you would if, straight out of Make School, you take all the risk right away.
 
 __Dan__: I've heard a lot of successful entrepreneurs give this same advice -- work one or two years in a well-oiled machine so that you know how to build a well-oiled machine yourself.
+
+![Adam Braus Head of the Product College](https://res.cloudinary.com/makeschool/image/upload/v1530566325/Blog/Make_School_Preview_Day_Web_106.jpg)
 
 ## Will I be able to get hired for jobs that require a bachelor's degree?
 
