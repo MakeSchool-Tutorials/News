@@ -21,6 +21,7 @@ Want to ask your questions in person? We're hosting a second Preview Weekend Jul
 The Instructors: Adam Braus (Product Development, Web Development), Dan Morse (Product Development, Mentors), Alan Davis (Computer Science, Data Science, Public Speaking), Eli'el Gordon (Mobile Development), Mitchell Hudson (Web Track and iOS)
 
 ![Instructor Panel at Preview Weekend](http://res.cloudinary.com/makeschool/image/upload/s--dnl-wV_d--/v1530565543/Blog/Make_School_Preview_Day_Alan.jpg)
+(_Alan Davis, (Computer Science, Data Science, Public Speaking)_)
 
 ## Can I focus on both web and mobile?
 
@@ -49,6 +50,7 @@ Then, once you have three to five years of experience, then you can go take the 
 __Dan__: I've heard a lot of successful entrepreneurs give this same advice -- work one or two years in a well-oiled machine so that you know how to build a well-oiled machine yourself.
 
 ![Adam Braus Head of the Product College](https://res.cloudinary.com/makeschool/image/upload/v1530566325/Blog/Make_School_Preview_Day_Web_106.jpg)
+(_Adam Braus, (Head of the Product College)_)
 
 ## Will I be able to get hired for jobs that require a bachelor's degree?
 
