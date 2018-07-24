@@ -1,7 +1,7 @@
 ---
 title: Project based learning - Bob Lenz on how project design can help you grow
 custom_slug: project-based-learning-bob-lenz-on-how-project-design-can-help-you-grow
-category: product_college
+category: podcast
 listed: true
 release_date: !ruby/object:ActiveSupport::TimeWithZone
   utc: &1 2018-03-06 00:00:00.000000000 Z
