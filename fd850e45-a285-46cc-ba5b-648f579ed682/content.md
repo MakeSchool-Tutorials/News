@@ -1,7 +1,7 @@
 ---
 title: Altruism - Matthieu Richard on cultivating urge to give
 custom_slug: altruism-matthieu-richard-on-cultivating-urge-to-give
-category: product_college
+category: podcast
 listed: true
 release_date: !ruby/object:ActiveSupport::TimeWithZone
   utc: &1 2018-02-26 00:00:00.000000000 Z
