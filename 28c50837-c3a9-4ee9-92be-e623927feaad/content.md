@@ -45,6 +45,7 @@ The staff and instructors also go out of their way to be available to students w
 In addition, quarterly field trips to the offices of major tech companies are a fixture of the Make School experience. In the past, our students have visited the offices of Yelp, Facebook, Tesla, Lever, and GitHub, among others.
 
 ![](https://res.cloudinary.com/makeschool/image/upload/v1532632009/Blog/tesla-08.jpg)
+(Telsa Factory Visit, 2018)
 
 ## San Francisco - In the Heart of It
 
