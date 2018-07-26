@@ -3,7 +3,7 @@ title: '22 Free Resources for Data Structures and Algorithms: Binary Search Algo
   String Algorithms and more'
 custom_slug: 22-free-resources-for-data-structures-and-algorithms-binary-search-algorithms-string-algorithms-and-more
 category: product_college
-listed: true
+listed: false
 release_date: !ruby/object:ActiveSupport::TimeWithZone
   utc: &1 2018-06-27 00:00:00.000000000 Z
   zone: !ruby/object:ActiveSupport::TimeZone
