@@ -18,6 +18,7 @@ Megan Dias is the Student Experience Lead at Make School (yep, we have someone d
 Megan says, "Our students spend two years on campus with us building projects and gaining cutting edge skills, but they're also making lasting friendships, connecting with mentors, getting inside looks at tech companies they want to work for, and getting all the benefits of living in San Francisco -- the tech capital of the world. It's truly a full college experience."
 
 ![](https://res.cloudinary.com/makeschool/image/upload/v1532637851/Blog/2018PC-YEP-75_Cropped.jpg)
+(Megan Dias, The Student Experience Lead at Make School)
 
 Here are a few of the ways that Make School promotes a vibrant and student-driven campus life...
 
