@@ -11,7 +11,7 @@ release_date: !ruby/object:ActiveSupport::TimeWithZone
 cover_photo_path: 
 
 ---
-One of the concerns that prospective Make School students frequently raise is whether they will be sacrificing "the college experience" by attending [Make School](https://www.makeschool.com/). Sure, you'll get a focused education with no up-front tuition and you'll be surrounded by great instructors and bright students, but outside of the classroom, what is the student experience like?
+One of the concerns that prospective Make School students frequently raise is whether they will be sacrificing "the college experience" by attending [Make School](https://www.makeschool.com/). Sure, you'll get a focused education with no up-front tuition and you'll be surrounded by great instructors and bright students, but outside of the classroom, __what is the student experience like__?
 
 Megan Dias is the Student Experience Lead at Make School (yep, we have someone dedicated full-time to your experience), and she helps ensure that the benefits of attending Make School don't begin and end in the classroom.
 
@@ -45,5 +45,5 @@ In addition, quarterly field trips to the offices of major tech companies are a 
 
 ## San Francisco - In the Heart of It
 
-Make School students have the awesome benefit of living in the tech capital of the world. Getting around is simple with BART, Uber, Lyft, bikes, and walkable streets. Whether you want to spend a day in Golden Gate Park, have coffee with a tech executive that you admire, or attend one of countless tech meetups on every topic you can imagine, it's all at your fingertips in San Francisco.\
+Make School students have the awesome benefit of living in the tech capital of the world. Getting around is simple with BART, Uber, Lyft, bikes, and walkable streets. Whether you want to spend a day in Golden Gate Park, have coffee with a tech executive that you admire, or attend one of countless tech meetups on every topic you can imagine, it's all at your fingertips in San Francisco.
 To learn more about Make School's student life, check out our [Campus Life](https://www.makeschool.com/product-college/campus-life) page, or send an email to megan.dias@makeschool.com.
