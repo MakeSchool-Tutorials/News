@@ -1,6 +1,6 @@
 ---
-title: 'Student Spotlight: Uchenna Aguocha'
-custom_slug: student-spotlight-uchenna-aguocha
+title: From Nashville to San Francisco with Uchenna Aguocha
+custom_slug: from-nashville-to-san-francisco-with-uchenna-aguocha
 category: student_spotlight
 listed: true
 release_date: !ruby/object:ActiveSupport::TimeWithZone
@@ -11,13 +11,6 @@ release_date: !ruby/object:ActiveSupport::TimeWithZone
 cover_photo_path: 
 
 ---
-* * * * *
-
-### Student Spotlight: Uchenna Aguocha
-
-From Nashville to San Francisco. 
-
-* * * * *
 
 Uchenna Aguocha grew up in Nashville, spending his weekends jogging or relaxing in Centennial Park, or taking inspiration from the city for his drawing. For college, he chose to stay local and attend Tennessee State University, one of the largest and highest ranked HBCUs in the country. He chose architectural engineering as his major, but he quickly realized that the theory-based education he was receiving wasn't for him.
 
@@ -37,7 +30,8 @@ One of Uchenna's current projects is an app called Namify which he is working on
 
 Looking back, Uchenna has no regrets about his decision to come to Make School. "The thing that's stood out the most, aside from the technical things we've learned," he notes, "is the soft skills we've gained. How to empathize and work with other people and communicate ideas clearly. I know when I came to Make School, I wasn't very good at public speaking, so we do these things called Lightning Talks every Friday, and the students get up in front of the entire school and talk about their projects. That kind of ongoing experience is really valuable."
 
-### When Uchenna finishes his two-year program, he's eager to make a difference.
+## When Uchenna finishes Make School, he's eager to make a difference.
+
 "I'd love to work somewhere like this company called Copia ([gocopia.com](http://gocopia.com)), which does food waste management. Food waste is a huge problem, and they're trying to address it by taking donations from companies and then delivering food to people who need it. That's where my passion is at--I want to help people, but also add value to their lives."
 
 Uchenna is also eager to get back to Nashville. He said, "Nashville is super cool, plus my family and friends are there. Being in San Francisco has been great--seeing technology change right in front of you--but coming back home... I'm looking forward to that."
