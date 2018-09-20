@@ -32,3 +32,9 @@ These days, Kenny is a Product Engineer at Original Stitch. He recently shipped 
 “Make School taught me that ideas are nothing if you don’t execute,” Kenny added. “They taught me to be a creator of products―not only that, but a creator of my own destiny.”
 
 To learn more about Kenny and his projects, connect with him on [LinkedIn](http://linkedin.com/in/kennybatista).
+
+* * * * *
+
+*Make School is a two-year computer science college based in San Francisco. The focus of Make School is product-based learning that prepares students for real-world careers in software development.*
+
+Learn more about Make School's philosophy, courses, and income share financing options at [makeschool.com](https://www.makeschool.com/?utm_source=medium&utm_medium=social&utm_campaign=medium-student-spotlight-uchenna-aguocha&utm_content=).
