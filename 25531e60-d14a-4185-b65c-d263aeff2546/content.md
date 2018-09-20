@@ -37,5 +37,8 @@ She added, "In college, I had to choose between my passion projects and my schoo
 
 Alirie has since taken her Make School education and transformed it into a full-time position at [InfluxData](https://www.influxdata.com/), a Y-Combinator backed company that provides clients with a database engine that makes it easier to analyze time-based data. To learn more about Alirie and to follow her projects, check out her website, [aliriegray.com](http://www.aliriegray.com/), and follow her on [GitHub](https://github.com/AlirieGray).
 
+* * * * *
 
-_Applications for Fall 2018 are still open. Learn more about the Product College [here](http://makeschool.com/product-college)._
+*Make School is a two-year computer science college based in San Francisco. The focus of Make School is product-based learning that prepares students for real-world careers in software development.*
+
+Learn more about Make School's philosophy, courses, and income share financing options at [makeschool.com](https://www.makeschool.com/?utm_source=medium&utm_medium=social&utm_campaign=medium-student-spotlight-uchenna-aguocha&utm_content=).
