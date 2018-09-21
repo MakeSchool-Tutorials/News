@@ -19,7 +19,7 @@ Looking back at the difficulties she faced in her old college classes, Tia reali
 
 The thing that Tia says she enjoys the most about the Make School environment is the freedom. "Make School provides any and all resources that they can to enable the students to do almost anything. You have to show the initiative and you have to put in the effort, but as long as you do that, they're willing to go above and beyond to make sure that you're able to achieve your goals. Combining that with the fact that it's project-based learning -- so I can work on whatever I want to work on -- has been a very freeing experience."
 
-![Page Planner Screenshot] (https://res.cloudinary.com/makeschool/image/upload/v1537562677/Blog/tia-king-project.png "Page Planner Screenshot")
+![Page Planner Screenshot] (https://res.cloudinary.com/makeschool/image/upload/v1537562677/Blog/tia-king-project.png "Page Planner screenshot")
 
 Tia has already made two projects that she's particularly proud of. The first is called [Page Planner](https://itunes.apple.com/us/app/pageplanner/id1361836039?mt=8), and it's currently available on the App Store. "I built the app that I wanted while I was in college. Basically, for each reading assignment that you have, it gives you a personalized reading plan. To add a book, you time yourself reading one whole page and then you put in the details of the book and tell it either the date you want to finish by or the number of hours you want to read per day, and it generates a reading plan for you."
 
