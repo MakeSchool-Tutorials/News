@@ -19,6 +19,8 @@ Looking back at the difficulties she faced in her old college classes, Tia reali
 
 The thing that Tia says she enjoys the most about the Make School environment is the freedom. "Make School provides any and all resources that they can to enable the students to do almost anything. You have to show the initiative and you have to put in the effort, but as long as you do that, they're willing to go above and beyond to make sure that you're able to achieve your goals. Combining that with the fact that it's project-based learning -- so I can work on whatever I want to work on -- has been a very freeing experience."
 
+![Page Planner Screenshot] (https://res.cloudinary.com/makeschool/image/upload/v1537562677/Blog/tia-king-project.png "Page Planner Screenshot")
+
 Tia has already made two projects that she's particularly proud of. The first is called [Page Planner](https://itunes.apple.com/us/app/pageplanner/id1361836039?mt=8), and it's currently available on the App Store. "I built the app that I wanted while I was in college. Basically, for each reading assignment that you have, it gives you a personalized reading plan. To add a book, you time yourself reading one whole page and then you put in the details of the book and tell it either the date you want to finish by or the number of hours you want to read per day, and it generates a reading plan for you."
 
 The other project started as Tia's final project in Data Science, a topic she'd never studied before. "Data Science 1 has been my favorite class so far, hands down. Mike and Alan were teaching, and their dynamic together is crazy fun while at the same time very informative. It didn't feel like class, it just felt like having a conversation where I'm learning, and I've never felt like that in a class before."
@@ -30,6 +32,8 @@ Tia continues, "What I did was make a Python script that would scrape data from 
 "Also," Tia adds, "with regard to the black YouTuber's most popular videos, people would watch their content, but their viewers were far less likely to invest in them as creators by subscribing. And this is important, because YouTube changed its content policy earlier this year so that, in order to monetize your videos, instead of having 10,000 lifetime views on your videos -- which is what it used to be -- you now need to have 12,000 watched hours and a 1,000 subscriber count. So if you're someone who's a small YouTuber trying to break into the creator space and make content full time, based on the data that I found, that will be more difficult for black beauty YouTubers compared to white ones, because people aren't going to subscribe as often."
 
 Tia notes, "It's a huge project that just keeps getting bigger as I uncover more data, but I'll be writing a series of Medium articles about it all soon."
+
+! [Tia King headshot] (https://res.cloudinary.com/makeschool/image/upload/v1537562822/Blog/tia-king-profile.jpg "Tia King headhot")
 
 Clearly, Tia is someone who loves to learn and grow, and she found an environment that she thrives in at Make School. "Because of the mixture of how I ended up at Make School and the ideology that Make School has, I've learned that sometimes what works for me doesn't work for the majority, and I need to be really in tune with myself and what I want in order to do the things that make the most sense for me."
 
