@@ -39,3 +39,9 @@ Clearly, Tia is someone who loves to learn and grow, and she found an environmen
 
 Tia goes on, "Between the coaching and the classes and talking with Jeremy (Co-founder at Make School) -- because Jeremy always makes time to talk with the students -- it's all encouraged me to live my own truth, whether personally or in my career, and that has given me a confidence boost as I go out into the world as a black woman in tech, you know? I'm going to be able to do the things that I want -- that's a given -- but the way I want to get there is all up to me."\
 To learn more about Tia and to follow her projects, follow her on [her website](https://www.makeschool.com/portfolio/TJ-King?utm_source=medium&utm_medium=referral&utm_campaign=medium-student-spotlight-tia-king&utm_content=).
+
+* * * * *
+
+*Make School is a two-year computer science college based in San Francisco. The focus of Make School is product-based learning that prepares students for real-world careers in software development.*
+
+Learn more about Make School's philosophy, courses, and income share financing options at [makeschool.com](https://www.makeschool.com/?utm_source=medium&utm_medium=social&utm_campaign=medium-student-spotlight-uchenna-aguocha&utm_content=).
