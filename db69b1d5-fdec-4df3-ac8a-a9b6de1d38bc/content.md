@@ -19,7 +19,7 @@ In high school, Jacob spent two summers at Make School's Summer Academy. He ulti
 
 This past June, Jacob found out that Make School was in the midst of the accreditation process, adding a Bachelors in Applied Computer Science. "I immediately checked out the updated website and I was especially impressed by the student outcomes. I also had heard from friends that the Bachelors program embodied the same project-based, hands-on education as the Summer Academy, so I was naturally drawn to apply."
 
-![Neon smash screenshot] (https://res.cloudinary.com/makeschool/image/upload/v1537566763/Blog/jacob-haff-neon-smash-app.png "Neon Smash screenshot")
+![Neon smash screenshot] (https://res.cloudinary.com/makeschool/image/upload/v1537567421/Blog/jacob-haff-neon-smash-app.png "Neon Smash screenshot")
 
 Currently a few weeks into his first term at Make School, Jacob is eager to get to work on his own projects. "During my first Summer Academy, I created an iOS game called Neon Smash, inspired by Angry Birds. Structures of neon blocks would travel down both sides of the screen. The player's objective was to flick balls at the structures to knock them down and gain points. A natural human craving is to destroy, and I drew on that by adding lots of particle effects and different ways to make the structures crumble. It's all about creating disorder and chaos."
 
@@ -29,7 +29,7 @@ As for what he's learning right now, "I'm most engaged with the clone of Rotten 
 
 One of Jacob's favorite things about the Bachelors program so far is the focus on soft skills in addition to technical learning. "Make School focuses on so much more than just making you a spectacular software engineer," Jacob says. "Make School equips its students with the tools they need to find work! I've learned so much about how to find industry contacts, connect with them, and most importantly, how to communicate with them."
 
-![Jacob headshot] (https://res.cloudinary.com/makeschool/image/upload/v1537566756/Blog/jacob-haff-profile.png "Jacob Haff headshot")
+![Jacob headshot] (https://res.cloudinary.com/makeschool/image/upload/v1537567422/Blog/jacob-haff-profile.png "Jacob Haff headshot")
 
 Outside of the classroom, Jacob is enjoying the student life at Make School, too. "I've met so many people from different walks of life who share a passion for technology. There are people from all over the States and even abroad. I've formed a music club with some friends and we have a lot of fun coming together and making music with our voices and other instruments."
 
