@@ -19,7 +19,7 @@ Victoria explains, "During my time in San Francisco, I was living in the same do
 
 She goes on, "That summer, I did the Summer Academy before moving onto art school, as planned. But six weeks into my new program, I knew the education I was getting couldn't compare to the education I saw my Make School friends get -- or to what I experienced at Summer Academy."
 
-![Victoria Murray working] (https://res.cloudinary.com/makeschool/image/upload/v1537565634/Blog/victoria-murray-working-image.jpg "Victoria Murray hard at work!)
+![Victoria Murray working] (https://res.cloudinary.com/makeschool/image/upload/v1537565634/Blog/victoria-murray-working-image.jpg "Victoria Murray hard at work!")
 
 That's when Victoria dropped out of art school and applied to Make School's Bachelors in Applied Computer Science program. Just three weeks in, she and her classmates have built a MadLibs and Hangman program using Python. She's also been writing weekly summaries of what she's learned, her stressors, and her accomplishments that she plans to post on Medium.
 
