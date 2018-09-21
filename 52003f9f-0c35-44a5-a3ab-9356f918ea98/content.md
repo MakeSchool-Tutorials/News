@@ -33,7 +33,7 @@ Tia continues, "What I did was make a Python script that would scrape data from 
 
 Tia notes, "It's a huge project that just keeps getting bigger as I uncover more data, but I'll be writing a series of Medium articles about it all soon."
 
-! [Tia King headshot] (https://res.cloudinary.com/makeschool/image/upload/v1537562822/Blog/tia-king-profile.jpg "Tia King headhot")
+![Tia King headshot] (https://res.cloudinary.com/makeschool/image/upload/v1537562822/Blog/tia-king-profile.jpg "Tia King headhot")
 
 Clearly, Tia is someone who loves to learn and grow, and she found an environment that she thrives in at Make School. "Because of the mixture of how I ended up at Make School and the ideology that Make School has, I've learned that sometimes what works for me doesn't work for the majority, and I need to be really in tune with myself and what I want in order to do the things that make the most sense for me."
 
