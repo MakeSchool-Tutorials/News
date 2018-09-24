@@ -28,6 +28,8 @@ The post-secondary market can be further segmented into traditional and non-trad
 | Vocational Certificate&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 45% | 55% |
 | Bootcamps | 5% | 95% |
 
+---
+
 The post-secondary market can also be segmented into in person or distance learning students[5]:
 
 | |Social (offline) | Distance (online) |
@@ -45,6 +47,8 @@ Given the various learner demographics (age), preferences (online vs offline), a
 
 The largest opportunity sits at the intersection of bachelor's granting, traditional students and social learning - a $277B market. This space also offers much stronger defensibility and the opportunity to build a 100 year brand. A disrupter in this space will drive a seachange in the higher education landscape (in turn forcing reinvention of K-12 education) and has potential to substantially accelerate global economic development.
 
+---
+
 ##Graduate education trends - $60B market
 
 Graduate education either serves to upskill (creating upward mobility within a career) or reskill (pivoting careers altogether. We predict different trends for each segment.
@@ -58,6 +62,8 @@ This trend may not impact graduate programs in fields like medicine or law which
 
 **Reskilling trend: shorter master's programs and vocational bootcamps**  
 Depending on the field (and ability to prove work through a portfolio), the importance of a master's degree to change careers will vary. In fields like entrepreneurship and software development we are seeing alternatives to master's programs emerge. Attending Y Combinator is seen as more valuable than an MBA for entrepreneurs, and coding bootcamps offer a streamlined way to enter the software industry. In fields where the degree will continue to matter, schools will look to streamline master's programs or create blended online/offline hybrid programs to reduce the time workers spend outside of the workforce.
+
+---
 
 ##Continuing education trends - $50B market
 
@@ -83,6 +89,8 @@ A longer term risk with vocational certificate education is the impending trend 
 Despite providing immense value for most graduates (measured by a $24k average salary lift[3]), the private sector has seen large scale bootcamp shutdowns in the past year. These shutdowns do not reflect on the viability of the broader bootcamp industry, but do reflect on the market dynamics within the industry. Given their short nature, it has proven easy for new bootcamps to compete even with high performing incumbents. Hack Reactor, App Academy, and Makersquare were all founded by graduates of the first class of Dev Bootcamp, and more than 100 bootcamps have been founded in the past 6 years.
 
 Defensibility at scale has proven to be a challenge, as curriculum has been commoditized, credentials are self endorsed certificates, and brands have not been portable to new markets. In secondary markets, students have shown affinity to local brands rather than national ones. Given the challenges with defensibility and geographical scale, cost of acquisition has proved an insurmountable hurdle for any single provider to reach high scale  (we experienced this first hand with our summer program). Given the mechanics of the market, scale has often come at the cost of outcomes and profitability. It is to be seen whether a breakout brand will emerge (or force consolidation) in the highly competitive market.
+
+---
 
 ##Bachelor's education trends - $432B market
 
@@ -122,6 +130,7 @@ Prior to accreditation, our program has proven to have outcomes (placement rate 
 
 We hope our new model will inspire accelerated change in the higher education industry and enable greater innovation in the 21st century global economy.  
   
+---
   
 * * * * *
   
