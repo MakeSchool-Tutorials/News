@@ -1,5 +1,5 @@
 ---
-title: Industry Research in Higher Education
+title: Industry Research on Higher Education
 custom_slug: industry-research
 category: product_college
 listed: false
