@@ -142,11 +142,11 @@ We hope our new model will inspire accelerated change in the higher education in
 
 [7] <https://www.coursera.org/degrees/masters-in-computer-data-science>
 
-[8]<https://www.economist.com/news/special-report/21714169-technological-change-demands-stronger-and-more-continuous-connections-between-education>
+[8] <https://www.economist.com/news/special-report/21714169-technological-change-demands-stronger-and-more-continuous-connections-between-education>
 
 [9] <https://www.theatlantic.com/business/archive/2014/10/why-germany-is-so-much-better-at-training-its-workers/381550/>
 
-[10 ]<https://www.newyorkfed.org/research/college-labor-market/college-labor-market_underemployment_rates.html>
+[10] <https://www.newyorkfed.org/research/college-labor-market/college-labor-market_underemployment_rates.html>
 
 [11] <https://climbcredit.com>
 
@@ -154,7 +154,7 @@ We hope our new model will inspire accelerated change in the higher education in
 
 [13] <http://www.dailycal.org/2015/09/01/campus-computer-science-program-does-not-compute/>
 
-[14]<https://www.edsurge.com/news/2017-06-05-trilogy-education-raises-30m-to-give-universities-a-bootcamp-in-skills-based-training>
+[14] <https://www.edsurge.com/news/2017-06-05-trilogy-education-raises-30m-to-give-universities-a-bootcamp-in-skills-based-training>
 
 [15] <https://www.zerohedge.com/news/2014-04-14/death-spiral-harvard-professor-predicts-half-us-universirites-may-fail-15-years>
 
