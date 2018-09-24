@@ -11,7 +11,7 @@ release_date: !ruby/object:ActiveSupport::TimeWithZone
 cover_photo_path: 
 
 ---
-**Higher Education Challenges and Trends**
+##Higher Education Challenges and Trends
 
 Clayton Christensen predicts "Fifteen years from now more than half of the universities [in America] will be in bankruptcy."  
 <https://www.economist.com/news/briefing/21605899-staid-higher-education-business-about-experience-welcome-earthquake-digital>
@@ -40,7 +40,7 @@ The Ivory Tower CNN Documentary reveals how colleges in the United States, long 
 <http://www.takepart.com/ivorytower/>  
   
 
-**Higher Education Affordability & Accessibility**
+##Higher Education Affordability & Accessibility
 
 College Tuition and Fees increased 1334% in 30 years. Student loans represent 51.8 percent of total Federal assets.  
 <https://www.advisorperspectives.com/dshort/commentaries/2017/12/07/the-fed-s-financial-accounts-what-is-uncle-sam-s-largest-asset>
@@ -58,7 +58,7 @@ Students with astronomically high test scores typically skew relatively wealthy,
 <https://www.marketwatch.com/story/why-admissions-at-elite-colleges-arent-really-about-merit-2018-01-17>  
   
 
-**Income Share Agreements (ISAs)**
+##Income Share Agreements (ISAs)
 
 As a solution to the student debt crisis. Make School was the first higher ed institution to offer ISA financing to all students in 2014 and first to securitize ISAs in 2017.
 
@@ -72,7 +72,7 @@ Background reading on ISAs:
 [GS2 white paper on ISAs](https://drive.google.com/open?id=1s9bscOcZiqwMSCOlGBNIvsLDgnFJE8As)  
   
 
-**Higher Education Underemployment**
+##Higher Education Underemployment
 
 According to the Strada-Gallup 2017 College Student Survey, only a third of students believe they will graduate with the skills and knowledge to be successful in the job market and just half believe their major will lead to a good job.  
 <http://news.gallup.com/reports/225161/2017-strada-gallup-college-student-survey.aspx>
