@@ -28,7 +28,7 @@ The post-secondary market can be further segmented into traditional and non-trad
 | Vocational Certificate&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 45% | 55% |
 | Bootcamps | 5% | 95% |
 
----
+***
 
 The post-secondary market can also be segmented into in person or distance learning students[5]:
 
