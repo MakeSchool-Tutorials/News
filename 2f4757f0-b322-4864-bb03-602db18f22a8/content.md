@@ -13,10 +13,10 @@ cover_photo_path:
 ---
 **Higher Education Challenges and Trends**
 
-Clayton Christensen predicts "Fifteen years from now more than half of the universities [in America] will be in bankruptcy."
+Clayton Christensen predicts "Fifteen years from now more than half of the universities [in America] will be in bankruptcy."  
 <https://www.economist.com/news/briefing/21605899-staid-higher-education-business-about-experience-welcome-earthquake-digital>
 
-The disconnect between college curricula and the job market has a banal explanation: Educators teach what they know---and most have little firsthand knowledge of the modern workplace. Yet this merely complicates the puzzle. If schools aim to boost students' future income by teaching job skills, why do they entrust students' education to people so detached from the real world?
+The disconnect between college curricula and the job market has a banal explanation: Educators teach what they know---and most have little firsthand knowledge of the modern workplace. Yet this merely complicates the puzzle. If schools aim to boost students' future income by teaching job skills, why do they entrust students' education to people so detached from the real world?  
 <https://www.theatlantic.com/magazine/archive/2018/01/whats-college-good-for/546590/>
 
 5 trends in higher education:
