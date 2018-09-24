@@ -27,7 +27,9 @@ The post-secondary market can be further segmented into traditional and non-trad
 | Associate's | 53% | 47% |
 | Vocational Certificate&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 45% | 55% |
 | Bootcamps | 5% | 95% |
+
 <br>
+
 The post-secondary market can also be segmented into in person or distance learning students[5]:
 
 | |Social (offline) | Distance (online) |
@@ -44,7 +46,9 @@ Although additional segmentations exist, these segmentations provide context for
 Given the various learner demographics (age), preferences (online vs offline), and goals (white collar vs blue collar jobs), there is no one-size fits all solution to post-secondary education. The education market is inherently fragmented, but given the total market size there is opportunity to build large companies within each segment[6].
 
 The largest opportunity sits at the intersection of bachelor's granting, traditional students and social learning - a $277B market. This space also offers much stronger defensibility and the opportunity to build a 100 year brand. A disrupter in this space will drive a seachange in the higher education landscape (in turn forcing reinvention of K-12 education) and has potential to substantially accelerate global economic development.
+
 <br>
+
 ##Graduate education trends - $60B market
 
 Graduate education either serves to upskill (creating upward mobility within a career) or reskill (pivoting careers altogether. We predict different trends for each segment.
