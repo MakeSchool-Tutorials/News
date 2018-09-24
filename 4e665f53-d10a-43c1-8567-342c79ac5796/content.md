@@ -20,7 +20,6 @@ Perhaps most surprising was how un-radical the ideas and viewpoints we hold at M
 The [speakers](https://www.nythigheredleaders.com/helf2018#Speakers) at the forum included Michael Bloomberg (read his [speech](https://www.mikebloomberg.com/news/remarks-at-nyt-higher-ed-leaders-forum/)), Lamar Alexander (R-Tenn., chairman of the HELP committee), Ruth Simmons (President of Prairie View A&M, former president of Brown), Alan Golston (President of the U.S. arm of the Gates Foundation), Eloy Ortiz Oakley (Chancellor of California Community Colleges), and more. The videos are available here.
 
 These are the ideas that stood out:  
-
 <br>
 
 **Liberal arts education is more important than ever**  
