@@ -39,7 +39,7 @@ In order to accelerate the future, we need to better equip our youth to be creat
 The Ivory Tower CNN Documentary reveals how colleges in the United States, long regarded as leaders in higher education, came to embrace a business model that often promotes expansion over quality learning. What price will society pay if higher education cannot revolutionize college as we know it and evolve a sustainable economic model?  
 <http://www.takepart.com/ivorytower/>  
   
-
+<br>
 ##Higher Education Affordability & Accessibility
 
 College Tuition and Fees increased 1334% in 30 years. Student loans represent 51.8 percent of total Federal assets.  
@@ -57,7 +57,7 @@ Traditional colleges are still predominantly inaccessible.  Less than one-half 
 Students with astronomically high test scores typically skew relatively wealthy, putting students who don't have access to expensive test prep courses and other resources at a disadvantage. About 47% of top performing students who never get a credential are low-income.  
 <https://www.marketwatch.com/story/why-admissions-at-elite-colleges-arent-really-about-merit-2018-01-17>  
   
-
+<br>
 ##Income Share Agreements (ISAs)
 
 As a solution to the student debt crisis. Make School was the first higher ed institution to offer ISA financing to all students in 2014 and first to securitize ISAs in 2017.
@@ -71,7 +71,7 @@ Background reading on ISAs:
 <http://incomeshareagreements.org/>  
 [GS2 white paper on ISAs](https://drive.google.com/open?id=1s9bscOcZiqwMSCOlGBNIvsLDgnFJE8As)  
   
-
+<br>
 ##Higher Education Underemployment
 
 According to the Strada-Gallup 2017 College Student Survey, only a third of students believe they will graduate with the skills and knowledge to be successful in the job market and just half believe their major will lead to a good job.  
@@ -92,3 +92,6 @@ The tech talent shortage is one of the biggest limiting factors facing our econo
 
 There are more than 75,000 open jobs in computing in California and only 4,324 computer science grads to fill them.  
 <https://techcrunch.com/2015/02/01/integrate-california-schools-with-computer-science/>
+
+Computer science students on a number of campuses complain that their departments can't meet demand. Their professors are also stressed. But experts say there is no clear fix for nationwide shortage of computer science faculty.  
+<https://www.insidehighered.com/news/2018/05/09/no-clear-solution-nationwide-shortage-computer-science-professors>
