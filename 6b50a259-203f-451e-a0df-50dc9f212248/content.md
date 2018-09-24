@@ -30,7 +30,7 @@ The post-secondary market can be further segmented into traditional and non-trad
 
 The post-secondary market can also be segmented into in person or distance learning students[5]:
 
-| | Social (offline) | Distance (online) |
+| |Social (offline) | Distance (online) |
 |---|---|---|
 | Bachelor's | 93% (97% of traditional students)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 7% |
 | Make School | 100% | 0% |
