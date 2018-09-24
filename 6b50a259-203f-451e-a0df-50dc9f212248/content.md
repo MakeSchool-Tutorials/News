@@ -212,7 +212,7 @@ The largest opportunity sits at the intersection of bachelor's granting, traditi
 
 Graduate education either serves to upskill (creating upward mobility within a career) or reskill (pivoting careers altogether. We predict different trends for each segment.
 
-####Upskilling trend: pursuing degrees while employed  
+**Upskilling trend: pursuing degrees while employed**  
 Given the importance of career velocity in modern economy sectors, it is challenging for workers to pause their trajectories to return to school. The rising cost of graduate education plus the opportunity cost of not earning also acts as a barrier for students.
 
 Both workers and employers are increasingly interested in upskilling due to a rapidly changing economy. Graduate programs will adapt to their needs. Online part-time programs like University of Illinois MCS-DS[7] (powered by Coursera) offer a great way for workers to upskill at their own pace without exiting the workforce. We'll also see a trend of employers bearing partial or full cost of these programs in an effort to retain and develop talent.
