@@ -19,7 +19,7 @@ Post-secondary education is one of the largest markets in the US, representing $
 
 The post-secondary market can be further segmented into traditional and non-traditional learners[2][3][4]:
 
-| | Traditional (under 25) | Non-traditional (25 and older) |
+|                            | Traditional (under 25)    | Non-traditional (25 and older) |
 |---|---|---|
 | Bachelor's | 66% | 34% |
 | Make School | 82% | 18% |
