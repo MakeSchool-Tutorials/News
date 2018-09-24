@@ -1,7 +1,7 @@
 ---
 title: Facebook looks to Make School’s students for their next generation of innovators
 custom_slug: facebook-looks-to-make-schools-students-for-their-next-generation-of-innovators
-category: product_college
+category: news
 listed: true
 release_date: !ruby/object:ActiveSupport::TimeWithZone
   utc: &1 2017-09-21 00:00:00.000000000 Z
