@@ -19,24 +19,24 @@ Post-secondary education is one of the largest markets in the US, representing $
 
 The post-secondary market can be further segmented into traditional and non-traditional learners[2][3][4]:
 
-| | Traditional (under 25)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Non-traditional (25 and older) |
+| | Traditional (under 25)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Non-traditional (25 and older) |
 |---|---|---|
 | Bachelor's | 66% | 34% |
 | Make School | 82% | 18% |
 | Graduate | 23% | 77% |
 | Associate's | 53% | 47% |
-| Vocational Certificate&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 45% | 55% |
+| Vocational Certificate&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 45% | 55% |
 | Bootcamps | 5% | 95% |
 
 The post-secondary market can also be segmented into in person or distance learning students[5]:
 
 | | Social (offline) | Distance (online) |
 |---|---|---|
-| Bachelor's | 93% (97% of traditional students) | 7% |
+| Bachelor's | 93% (97% of traditional students)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 7% |
 | Make School | 100% | 0% |
 | Graduate | 75% | 25% |
 | Associate's | 96% | 4% |
-| Vocational Certificate | 97% | 3% |
+| Vocational Certificate&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 97% | 3% |
 | Bootcamps | 91% | 9% |
 
 Although additional segmentations exist, these segmentations provide context for the narrative on how the landscape will shift over the next decade.
