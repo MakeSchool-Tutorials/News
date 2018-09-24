@@ -11,196 +11,31 @@ release_date: !ruby/object:ActiveSupport::TimeWithZone
 cover_photo_path: 
 
 ---
-Post-secondary education is one of the largest markets in the US, representing $590 Billion of the $1.4 Trillion education market. The market can be broken down into these categories[1]:
-
--   Bachelor's Education: $432B
-
--   Graduate Education: $60B
-
--   Continuing Education: $50B\
+Post-secondary education is one of the largest markets in the US, representing $590 Billion of the $1.4 Trillion education market. The market can be broken down into these categories[1]:  
+-   Bachelor's Education: $432B  
+-   Graduate Education: $60B  
+-   Continuing Education: $50B  
     (associates, vocational certificate, bootcamps)
 
 The post-secondary market can be further segmented into traditional and non-traditional learners[2][3][4]:
 
-|\
- |
-
-Traditional (under 25)
-
- |
-
-Non-traditional (25 and older)
-
- |
-|
-
-Bachelor's
-
- |
-
-66%
-
- |
-
-34%
-
- |
-|
-
-Make School
-
- |
-
-82%
-
- |
-
-18%
-
- |
-|
-
-Graduate
-
- |
-
-23%
-
- |
-
-77%
-
- |
-|
-
-Associate's
-
- |
-
-53%
-
- |
-
-47%
-
- |
-|
-
-Vocational Certificate
-
- |
-
-45%
-
- |
-
-55%
-
- |
-|
-
-Bootcamps
-
- |
-
-5%
-
- |
-
-95%
-
- |
+| | Traditional (under 25) | Non-traditional (25 and older) |
+| Bachelor's | 66% | 34% |
+| Make School | 82% | 18% |
+| Graduate | 23% | 77% |
+| Associate's | 53% | 47% |
+| Vocational Certificate | 45% | 55% |
+| Bootcamps | 5% | 95% |
 
 The post-secondary market can also be segmented into in person or distance learning students[5]:
 
-|\
- |
-
-Social (offline)
-
- |
-
-Distance (online)
-
- |
-|
-
-Bachelor's
-
- |
-
-93%  (97% of traditional students)
-
- |
-
-7%
-
- |
-|
-
-Make School
-
- |
-
-100%
-
- |
-
-0%
-
- |
-|
-
-Graduate
-
- |
-
-75%
-
- |
-
-25%
-
- |
-|
-
-Associate's
-
- |
-
-96%
-
- |
-
-4%
-
- |
-|
-
-Vocational Certificate
-
- |
-
-97%
-
- |
-
-3%
-
- |
-|
-
-Bootcamps
-
- |
-
-91%
-
- |
-
-9%
-
- |
+| | Social (offline) | Distance (online) |
+| Bachelor's | 93% (97% of traditional students) | 7% |
+| Make School | 100% | 0% |
+| Graduate | 75% | 25% |
+| Associate's | 96% | 4% |
+| Vocational Certificate | 97% | 3% |
+| Bootcamps | 91% | 9% |
 
 Although additional segmentations exist, these segmentations provide context for the narrative on how the landscape will shift over the next decade.
 
@@ -283,10 +118,12 @@ Supported by the vision of Dr. Mary Marcy (president of Dominican University[16]
 
 Prior to accreditation, our program has proven to have outcomes (placement rate and average salary) on par with Stanford, MIT and other top technology and entrepreneurship focused institutions. Accreditation will further uplift our student and employer facing brand and establish our reputation as an industry leading and impactful institution. Starting this fall, we will offer the shortest bachelor's degree program in the country and the first to be powered by ISAs, systemically ensuring our institution's incentives are aligned with those of our students.
 
-We hope our new model will inspire accelerated change in the higher education industry and enable greater innovation in the 21st century global economy.
-
+We hope our new model will inspire accelerated change in the higher education industry and enable greater innovation in the 21st century global economy.  
+  
+  
 * * * * *
-
+  
+  
 ###Footnotes:
 
 [1] <https://cdn2.hubspot.net/hubfs/253501/BMO_Edu_and_Training_Report.pdf>
