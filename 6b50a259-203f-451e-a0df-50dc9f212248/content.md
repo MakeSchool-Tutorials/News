@@ -16,6 +16,7 @@ Post-secondary education is one of the largest markets in the US, representing $
 -   Graduate Education: $60B  
 -   Continuing Education: $50B  
 &nbsp;&nbsp;(associates, vocational certificate, bootcamps)
+
 <br>
 The post-secondary market can be further segmented into traditional and non-traditional learners[2][3][4]:
 
