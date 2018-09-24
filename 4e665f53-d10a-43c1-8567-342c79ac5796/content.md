@@ -21,7 +21,7 @@ The [speakers](https://www.nythigheredleaders.com/helf2018#Speakers) at the foru
 
 These are the ideas that stood out:  
 
----
+<br>
 
 **Liberal arts education is more important than ever**  
 The rise of ubiquitous technology in the past decade - and promise of increasingly rapid change - has introduced two great challenges for society. First, how can we thoughtfully design technology to work for society rather than against it. Second, how can we continually adapt our skills to augment the work that will soon be automated. These challenges are driving an increased sentiment that a liberal arts education is a necessary cornerstone of college to instill an understanding of (among others) ethics, sociology, and critical thinking techniques.
@@ -49,6 +49,6 @@ As tuition and living costs have increased in recent years, financial aid packag
 **Diversity of viewpoints is missing from academia**  
 Institutions are being increasingly challenged by the paradox of providing intellectual diversity neccessary for personal growth and providing safe campuses neccessary for academic achievement. Speakers with radical - and often uninclusive or borderline hateful - viewpoints are drawing large protests from both students and faculty. Affluent universities have resources to provide security around such events and protests, but for most this comes at a cost of other expenditures. Do institutions have responsibility to encourage diverse thought? How do you draw the line between diverse thought and hate speech absent of intellectual merit? Should institutions have the right to censor speakers who student groups invite onto campus? Should these principles be communicated to students prior to selecting an institution? The only strong viewpoint expressed on this issue was from Senator Lamar Alexander: the party in control of the executive and legislative feels wholly alienated by higher education; if institutions don't allow for diverse viewpoints they risk pissing off their biggest donor.
 
-* * *
+<br>
 
 Higher education faces broad challenges over the next decades, with key issues surrounding relevance, accessibility, sustainability, and inclusiveness. The conference left me inspired and hopeful for the future, due both to the opportunity ahead of us to build a new institutional model and to the caliber of leaders at other institutions working towards our common goals.
