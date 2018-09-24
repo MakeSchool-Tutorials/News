@@ -1,6 +1,6 @@
 ---
-title: Promoting Non-Traditional Backgrounds in Tech
-custom_slug: promoting-nontraditional-backgrounds-intech
+title: Promoting Non-Traditional Backgrounds in Tech in Partnership with Lever
+custom_slug: promoting-nontraditional-backgrounds-intech-in-partnership-with-lever
 category: news
 listed: true
 release_date: !ruby/object:ActiveSupport::TimeWithZone
