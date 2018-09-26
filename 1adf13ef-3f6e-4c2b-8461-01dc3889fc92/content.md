@@ -40,3 +40,9 @@ Lynne is currently working on an app called Mobae - platform for couples to orga
 ![alt text](http://res.cloudinary.com/makeschool/image/upload/s--7JbH0rgc--/c_scale,w_500/v1527708860/Blog/lynne-portfolio-2.png)
 
 Lynne was also recently offered an internship at Google which she'll be starting this summer. To learn more about Lynne's current and upcoming projects, check out her [personal website](http://app-works.com/lynneokada).
+
+* * * * *
+
+*Make School is a two-year computer science college based in San Francisco. The focus of Make School is product-based learning that prepares students for real-world careers in software development.*
+
+Learn more about Make School's philosophy, courses, and income share financing options at [makeschool.com](https://www.makeschool.com/?utm_source=medium&utm_medium=social&utm_campaign=medium-student-spotlight-uchenna-aguocha&utm_content=).
