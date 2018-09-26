@@ -2,7 +2,7 @@
 title: Talent – Daniel Coyle on Badass Coaches, Learning Velocity and Talent Hotbeds
 custom_slug: talent-daniel-coyle-on-badass-coaches-learning-velocity-and-talent-hotbeds
 category: podcast
-listed: true
+listed: false
 release_date: !ruby/object:ActiveSupport::TimeWithZone
   utc: &1 2017-12-17 00:00:00.000000000 Z
   zone: !ruby/object:ActiveSupport::TimeZone
