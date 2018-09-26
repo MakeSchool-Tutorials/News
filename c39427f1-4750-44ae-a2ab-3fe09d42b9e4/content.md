@@ -3,7 +3,7 @@ title: Self Experimentation - AJ Jacobs on finding advisors and designing experi
   on the mind body and soul
 custom_slug: self-experimentation-aj-jacobs-on-finding-advisors-and-designing-experiments-on-the-mind-body-and-soul
 category: podcast
-listed: true
+listed: false
 release_date: !ruby/object:ActiveSupport::TimeWithZone
   utc: &1 2017-10-06 00:00:00.000000000 Z
   zone: !ruby/object:ActiveSupport::TimeZone
