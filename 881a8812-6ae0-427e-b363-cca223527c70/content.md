@@ -2,7 +2,7 @@
 title: 'Alumnus Spotlight: Teresa Ibarra'
 custom_slug: alumnus-spotlight
 category: summer_academy
-listed: true
+listed: false
 release_date: !ruby/object:ActiveSupport::TimeWithZone
   utc: &1 2015-02-17 00:00:00.000000000 Z
   zone: !ruby/object:ActiveSupport::TimeZone
