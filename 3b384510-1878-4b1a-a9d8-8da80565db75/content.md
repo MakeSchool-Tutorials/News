@@ -2,7 +2,7 @@
 title: Essentialism – Greg McKeown on cutting out the unimportant
 custom_slug: essentialism-greg-mckeown-on-cutting-out-the-unimportant
 category: podcast
-listed: true
+listed: false
 release_date: !ruby/object:ActiveSupport::TimeWithZone
   utc: &1 2017-10-15 00:00:00.000000000 Z
   zone: !ruby/object:ActiveSupport::TimeZone
