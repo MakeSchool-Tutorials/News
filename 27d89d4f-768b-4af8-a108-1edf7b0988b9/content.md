@@ -17,9 +17,9 @@ For us, industry integration means several things. We want our students to be me
 
 That's why we're so thrilled to announce that Yelp, the leading platform for connecting people with great local businesses, will be working with Make School to nurture tech talent and ultimately identify students who will be a great fit at their SF headquarters. This is the latest in a series of agreements with companies like Facebook, Lever, Lyft, LinkedIn, and more than 40 other companies.
 
-> "We're extremely excited to be working with Make School to nurture and hire Product College students. At Yelp, we've always welcomed talented individuals with diverse backgrounds and strong expertise," said Alison, university relations program manager at Yelp.
+> "We're extremely excited to be working with Make School to nurture and hire [Make School] students. At Yelp, we've always welcomed talented individuals with diverse backgrounds and strong expertise," said Alison, university relations program manager at Yelp.
 
-The agreement with Yelp comes after the company hired a graduate of the Make School Product College last year. Nabil Khaja, Class of 2017, is a software engineer working on the Yelp iOS consumer app, but, he pointed out that, "The role is very flexible for engineers wanting to work outside of their comfort zone. I'm also branching into work on the backend and wrangling some data."
+The agreement with Yelp comes after the company hired a graduate of Make School last year. Nabil Khaja, Class of 2017, is a software engineer working on the Yelp iOS consumer app, but, he pointed out that, "The role is very flexible for engineers wanting to work outside of their comfort zone. I'm also branching into work on the backend and wrangling some data."
 
 When Nabil was ready to begin his programming career, Yelp was at the top of his wish list.
 
@@ -27,7 +27,7 @@ When Nabil was ready to begin his programming career, Yelp was at the top of his
 
 ![](https://res.cloudinary.com/makeschool/image/upload/v1527095216/Blog/Yelp_Announcement_Nabil_Image-1200.jpg)
 
-Nabil's journey began when he enrolled at the Product College in September 2016. "I was chatting with a colleague about reinventing the traditional education system, and he brought up Make School as a program that fit exactly what I described as an 'improved model for college education.' he said. "I was looking to transition from my science background to software engineering --- joining was a no brainer."
+Nabil's journey began when he enrolled at Make School in September 2016. "I was chatting with a colleague about reinventing the traditional education system, and he brought up Make School as a program that fit exactly what I described as an 'improved model for college education.' he said. "I was looking to transition from my science background to software engineering --- joining was a no brainer."
 
 Nabil found the Make School environment to be "a breath of fresh air" compared to the traditional college format. "Rather than working on abstract assignments, I had the opportunity to build apps and products that were meaningful to me," Nabil recalled. 
 
@@ -37,10 +37,10 @@ In his current role, Nabil is putting the knowledge and skills he gained at Make
 
 For Yelp, recruiting candidates that have the kind of previous experience that Nabil cultivated at Make School is a winning formula. Alison explained that, "At the end of the day, when a candidate has a portfolio of projects to back up their knowledge, it makes a difference."
 
-As part of the agreement with Make School, Yelp will host students at their SF offices, support Product College students with engineering mentorship, attend Product College demo nights, and recruit students for jobs and internships. The very first office visit took place at the end of March, where students got a little tour, some lunch, and then sat down to listen to a lively panel discussion with current Yelp engineers (including Nabil!).
+As part of the agreement with Make School, Yelp will host students at their SF offices, support students with engineering mentorship, attend student demo nights, and recruit students for jobs and internships. The very first office visit took place at the end of March, where students got a little tour, some lunch, and then sat down to listen to a lively panel discussion with current Yelp engineers (including Nabil!).
 
 ![](https://res.cloudinary.com/makeschool/image/upload/v1527095217/Blog/Yelp_Announcement_Group_Image-1200-749.jpg)
 
 This was the first of many joint engagements and we're excited to embark on a great relationship with Yelp moving forward!
 
-Learn more about Make School's Product College [here](https://www.makeschool.com/product-college?utm_source=blog&utm_medium=referral&utm_campaign=blog-yelp-partnership-announcement&utm_content=).
+Learn more about Make School [here](https://www.makeschool.com/product-college?utm_source=blog&utm_medium=referral&utm_campaign=blog-yelp-partnership-announcement&utm_content=).
