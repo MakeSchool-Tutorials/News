@@ -4,7 +4,7 @@ custom_slug: therapy-bea-arthur-on-practices-of-self-understanding-and-wellness
 category: podcast
 listed: true
 release_date: !ruby/object:ActiveSupport::TimeWithZone
-  utc: &1 2017-10-25 00:00:00.000000000 Z
+  utc: &1 2017-09-15 00:00:00.000000000 Z
   zone: !ruby/object:ActiveSupport::TimeZone
     name: Etc/UTC
   time: *1
