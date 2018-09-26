@@ -2,8 +2,12 @@
 title: Science of Learning - Peter C Brown
 custom_slug: science-of-learning-peter-c-brown
 category: podcast
-listed: true
-release_date: 2016-02-11 00:00:00.000000000 Z
+listed: false
+release_date: !ruby/object:ActiveSupport::TimeWithZone
+  utc: &1 2016-02-11 00:00:00.000000000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: Etc/UTC
+  time: *1
 cover_photo_path: 
 
 ---
