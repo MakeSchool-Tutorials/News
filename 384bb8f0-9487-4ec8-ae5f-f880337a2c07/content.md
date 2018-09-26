@@ -3,7 +3,7 @@ title: Learning to Innovate - Ted Dintersmith on teaching creativity and how to 
   ambiguity
 custom_slug: learning-to-innovate-ted-dintersmith-on-teaching-creativity-and-how-to-face-ambiguity
 category: podcast
-listed: true
+listed: false
 release_date: !ruby/object:ActiveSupport::TimeWithZone
   utc: &1 2017-12-18 00:00:00.000000000 Z
   zone: !ruby/object:ActiveSupport::TimeZone
