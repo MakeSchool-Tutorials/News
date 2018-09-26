@@ -2,7 +2,7 @@
 title: Negotiation - William Ury on how to get what you want in business and life
 custom_slug: negotiation-william-ury-on-how-to-get-what-you-want-in-business-and-life
 category: podcast
-listed: true
+listed: false
 release_date: !ruby/object:ActiveSupport::TimeWithZone
   utc: &1 2018-02-24 00:00:00.000000000 Z
   zone: !ruby/object:ActiveSupport::TimeZone
