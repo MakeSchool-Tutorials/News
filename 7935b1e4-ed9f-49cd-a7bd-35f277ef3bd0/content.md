@@ -2,7 +2,7 @@
 title: Do I Need a Traditional Computer Science Degree to Succeed in Tech?
 custom_slug: do-i-need-a-traditional-computer-science-degree-to-succeed-in-tech
 category: product_college
-listed: true
+listed: false
 release_date: !ruby/object:ActiveSupport::TimeWithZone
   utc: &1 2018-02-08 00:00:00.000000000 Z
   zone: !ruby/object:ActiveSupport::TimeZone
