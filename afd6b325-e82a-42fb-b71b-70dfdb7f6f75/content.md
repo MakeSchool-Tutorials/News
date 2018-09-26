@@ -1,7 +1,6 @@
 ---
-title: 'Your Questions Answered: Make School’s Product College Preview Weekend Part
-  2'
-custom_slug: your-questions-answered-make-schools-product-college-preview-weekend-part-2
+title: 'Your Questions Answered: Make School Preview Weekend Part 2'
+custom_slug: your-questions-answered-make-school-preview-weekend-part-2
 category: product_college
 listed: true
 release_date: !ruby/object:ActiveSupport::TimeWithZone
@@ -12,7 +11,7 @@ release_date: !ruby/object:ActiveSupport::TimeWithZone
 cover_photo_path: 
 
 ---
-In April, Make School held its first [Product College Preview Weekend](http://forms.makeschool.com/product-college-preview-weekend-july-2018) for prospective students in the Class of 2020. The weekend was packed with tours, sessions, and discussions with many Product College teachers, current students, and staff. One part of the Preview Weekend was a panel with some of the Product College's top instructors. If you weren't able to make it to the Preview Weekend, we hope you find the below questions and answers from the panel helpful.
+In April, Make School held its first [Preview Weekend](http://forms.makeschool.com/product-college-preview-weekend-july-2018) for prospective students in the Class of 2020. The weekend was packed with tours, sessions, and discussions with many instructors, current students, and staff. One part of the Preview Weekend was a panel with some of the Make School's top instructors. If you weren't able to make it to the Preview Weekend, we hope you find the below questions and answers from the panel helpful.
 
 Check out [Part I of this article](https://www.makeschool.com/blog/product-college-preview-weekend-recap-part-1) for more questions and answers.
 
@@ -49,8 +48,8 @@ Then, once you have three to five years of experience, then you can go take the 
 
 __Dan__: I've heard a lot of successful entrepreneurs give this same advice -- work one or two years in a well-oiled machine so that you know how to build a well-oiled machine yourself.
 
-![Adam Braus Head of the Product College](https://res.cloudinary.com/makeschool/image/upload/v1530566325/Blog/Make_School_Preview_Day_Web_106.jpg)
-_(Adam Braus, (Head of the Product College))_
+![Adam Braus Instructional Designer at Make School](https://res.cloudinary.com/makeschool/image/upload/v1530566325/Blog/Make_School_Preview_Day_Web_106.jpg)
+_(Adam Braus, (Instructional Designer at Make School))_
 
 ## Will I be able to get hired for jobs that require a bachelor's degree?
 
