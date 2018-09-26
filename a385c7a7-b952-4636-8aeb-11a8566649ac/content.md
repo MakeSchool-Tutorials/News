@@ -19,7 +19,7 @@ Student-loan debt is one of the few types of debt that you can't clear by declar
 
 Some universities are starting to address the problem with income-share agreements (ISAs). ISAs vary from school to school, but the basic idea is that you get to go to college for a low tuition or tuition-free, and in return, you'll pay the school a percentage of your income after you graduate for a set number of months or years.
 
-Purdue is the most notable example of a traditional college experimenting with ISAs, and hopefully, other universities will start to take note. But the best opportunities for income share options are currently found at alternative education programs like Make School's [Product College](https://www.makeschool.com/product-college). At the Product College, every student has the opportunity to pay for their education with either standard tuition, an ISA, or a combination thereof.
+Purdue is the most notable example of a traditional, four-year college experimenting with ISAs, and hopefully, other universities will start to take note. But the best opportunities for income share options are currently found in new higher education programs like [Make School](https://www.makeschool.com/product-college). At Make School, every student has the opportunity to pay for their education with either standard tuition, an ISA, or a combination thereof.
 
 But how much financial sense do ISAs actually make? Are they better for students in the long run than federal student loans? The short answer is: it depends.
 
@@ -37,6 +37,6 @@ The tricky thing about ISAs is that they aren't consistent from school to school
 
 3.  Make sure to consider how your income will grow over the repayment period. Some schools have ISAs that last for ten years. You'll probably be making substantially more at the end of ten years than you will be in the beginning. Be sure to factor your earning potential over the whole period into your calculations.
 
-At the Product College, students have four options: no ISA, half ISA, or full ISA. With half ISA, students pay $30,000 in tuition across the two-year program, then they have a total of 21 months of tuition payback at 25% of their gross salary. Check out the details of all the options [here](https://www.makeschool.com/product-college/admissions#tuition).
+At Make School, students have four options: no ISA, half ISA, or full ISA. With half ISA, students pay $35,000 in tuition across the two-year program, then they have a total of 5 years of tuition payback at 20% of their gross salary. Check out the details of all the options [here](https://www.makeschool.com/product-college/admissions#tuition).
 
 ISA's are a relatively new option, and one that has the potential to tackle the student debt crisis. We'd love to have you join the conversation. [Send us an email](mailto:hello@makeschool.com) with your questions and concerns, and we may include your thoughts in a future post!
