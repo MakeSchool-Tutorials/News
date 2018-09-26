@@ -2,7 +2,7 @@
 title: WillPower – John Tierney on rediscovering the greatest human strength
 custom_slug: willpower-john-tierney-on-rediscovering-the-greatest-human-strength
 category: podcast
-listed: true
+listed: false
 release_date: !ruby/object:ActiveSupport::TimeWithZone
   utc: &1 2017-10-01 00:00:00.000000000 Z
   zone: !ruby/object:ActiveSupport::TimeZone
