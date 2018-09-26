@@ -2,7 +2,7 @@
 title: Forgiveness - Fred Luskin on how to forgive for good
 custom_slug: forgiveness-fred-luskin-on-how-to-forgive-for-good
 category: podcast
-listed: true
+listed: false
 release_date: !ruby/object:ActiveSupport::TimeWithZone
   utc: &1 2017-10-09 00:00:00.000000000 Z
   zone: !ruby/object:ActiveSupport::TimeZone
