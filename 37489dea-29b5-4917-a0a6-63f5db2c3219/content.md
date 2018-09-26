@@ -3,7 +3,7 @@ title: Beautiful Questions – Warren Berger on The Power of Inquiry to Spark Br
   Ideas
 custom_slug: beautiful-questions-warren-berger-on-the-power-of-inquiry-to-spark-breakthrough-ideas
 category: podcast
-listed: true
+listed: false
 release_date: !ruby/object:ActiveSupport::TimeWithZone
   utc: &1 2018-01-18 00:00:00.000000000 Z
   zone: !ruby/object:ActiveSupport::TimeZone
