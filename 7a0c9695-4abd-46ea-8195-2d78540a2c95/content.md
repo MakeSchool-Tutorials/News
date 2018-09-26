@@ -1,6 +1,6 @@
 ---
-title: 'Your Questions Answered: Make School''s Product College Preview Weekend'
-custom_slug: product-college-preview-weekend-recap-part-1
+title: 'Your Questions Answered: Make School''s Preview Weekend'
+custom_slug: preview-weekend-recap-part-1
 category: product_college
 listed: true
 release_date: !ruby/object:ActiveSupport::TimeWithZone
@@ -11,13 +11,11 @@ release_date: !ruby/object:ActiveSupport::TimeWithZone
 cover_photo_path: 
 
 ---
-In April, Make School held its first [Product College Preview Weekend](http://forms.makeschool.com/product-college-preview-weekend-july-2018) for prospective students in the Class of 2020. The weekend was packed with tours, sessions, and discussions with many [Product College](https://www.makeschool.com/product-college) teachers, current students, and staff. The gathering was also a wonderful opportunity for prospective students to meet each other and see what an amazing caliber of minds and hard-working individuals will surround them in their time at Make School.
+In April, Make School held its first Preview Weekend for prospective students in the Class of 2020. The weekend was packed with tours, sessions, and discussions with many [Make School](https://www.makeschool.com/product-college) teachers, current students, and staff. The gathering was also a wonderful opportunity for prospective students to meet each other and see what an amazing caliber of minds and hard-working individuals will surround them in their time at Make School.
 
 ![Instructor Panel at Preview Weekend](https://res.cloudinary.com/makeschool/image/upload/v1530226706/Blog/Make_School_Preview_Day_90_web.jpg)
 
-One part of the Preview Weekend was a panel with some of the Product College's top instructors. If you weren't able to make it to the Preview Weekend, we hope you find the below questions and answers from the panel helpful.
-
-Want to ask your questions in person? We're hosting a second Preview Weekend July 13-15. Email <admissions@makeschool.com> for more details.
+One part of the Preview Weekend was a panel with some of the Make School's top instructors. If you weren't able to make it to the Preview Weekend, we hope you find the below questions and answers from the panel helpful.
 
 _The Instructors: Adam Braus (Product Development, Web Development), Dan Morse (Product Development, Mentors), Alan Davis (Computer Science, Data Science, Public Speaking), Eli'el Gordon (Mobile Development), Mitchell Hudson (Web Track and iOS), Susan Nesbitt (Job Search & Networking Coach)_
 
@@ -38,7 +36,7 @@ __Adam__: I mean, Make School is a tech school. If you don't want to be a softwa
 That being said, software is eating every industry. Starbucks is hiring software developers. Think about that. Every company is hiring software developers, because software is doing more and more. So if you're interested in technology, it could be your gateway into another industry that might be hard to enter through the traditional channels. That was my experience in higher education.
 
 ![Adam Braus](https://res.cloudinary.com/makeschool/image/upload/v1530226787/Blog/Make_School_Preview_Day_93_web.jpg)
-(_Adam Braus, Head of the Product College_)
+(_Adam Braus, Instructional Designer at Make School_)
 
 ## Why are you teaching at Make School?
 
