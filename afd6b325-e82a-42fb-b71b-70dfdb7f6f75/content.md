@@ -11,11 +11,9 @@ release_date: !ruby/object:ActiveSupport::TimeWithZone
 cover_photo_path: 
 
 ---
-In April, Make School held its first [Preview Weekend](http://forms.makeschool.com/product-college-preview-weekend-july-2018) for prospective students in the Class of 2020. The weekend was packed with tours, sessions, and discussions with many instructors, current students, and staff. One part of the Preview Weekend was a panel with some of the Make School's top instructors. If you weren't able to make it to the Preview Weekend, we hope you find the below questions and answers from the panel helpful.
+In April, Make School held its first Preview Weekend for prospective students in the Class of 2020. The weekend was packed with tours, sessions, and discussions with many instructors, current students, and staff. One part of the Preview Weekend was a panel with some of the Make School's top instructors. If you weren't able to make it to the Preview Weekend, we hope you find the below questions and answers from the panel helpful.
 
-Check out [Part I of this article](https://www.makeschool.com/blog/product-college-preview-weekend-recap-part-1) for more questions and answers.
-
-Want to ask your questions in person? We're hosting a second Preview Weekend July 13-15. Email <admissions@makeschool.com> for more details.
+Check out [Part I of this article](https://www.makeschool.com/blog/preview-weekend-recap-part-1) for more questions and answers.
 
 The Instructors: Adam Braus (Product Development, Web Development), Dan Morse (Product Development, Mentors), Alan Davis (Computer Science, Data Science, Public Speaking), Eli'el Gordon (Mobile Development), Mitchell Hudson (Web Track and iOS)
 
