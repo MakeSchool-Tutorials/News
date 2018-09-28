@@ -2,7 +2,7 @@
 title: Higher Education Industry Outlook
 custom_slug: industry-outlook
 category: product_college
-listed: false
+listed: true
 release_date: !ruby/object:ActiveSupport::TimeWithZone
   utc: &1 2018-10-01 00:00:00.000000000 Z
   zone: !ruby/object:ActiveSupport::TimeZone
