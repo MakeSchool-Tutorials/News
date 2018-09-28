@@ -2,9 +2,9 @@
 title: Going After the Dream with Victoria Murray
 custom_slug: going-after-the-dream-with-victoria-murray
 category: product_college
-listed: false
+listed: true
 release_date: !ruby/object:ActiveSupport::TimeWithZone
-  utc: &1 2018-09-20 00:00:00.000000000 Z
+  utc: &1 2018-09-26 00:00:00.000000000 Z
   zone: !ruby/object:ActiveSupport::TimeZone
     name: Etc/UTC
   time: *1
