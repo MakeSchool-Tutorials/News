@@ -4,7 +4,7 @@ custom_slug: engaging-in-creative-destruction-with-jacob-haff
 category: product_college
 listed: false
 release_date: !ruby/object:ActiveSupport::TimeWithZone
-  utc: &1 2018-09-20 00:00:00.000000000 Z
+  utc: &1 2018-09-24 00:00:00.000000000 Z
   zone: !ruby/object:ActiveSupport::TimeZone
     name: Etc/UTC
   time: *1
