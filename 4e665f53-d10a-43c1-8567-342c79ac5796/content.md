@@ -1,7 +1,7 @@
 ---
 title: Key Ideas from the NYT Higher Ed Leaders Forum
 custom_slug: nyt-higher-ed-leaders
-category: product_college
+category: admissions
 listed: true
 release_date: !ruby/object:ActiveSupport::TimeWithZone
   utc: &1 2018-09-30 00:00:00.000000000 Z
