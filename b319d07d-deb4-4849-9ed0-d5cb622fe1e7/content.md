@@ -11,7 +11,7 @@ release_date: !ruby/object:ActiveSupport::TimeWithZone
 cover_photo_path: 
 
 ---
-This blog post was written by co-founder Ashu Desai.
+*This blog post was written by co-founder Ashu Desai.*
 
 ### Part 1: The Accreditation Process
 
