@@ -46,7 +46,7 @@ In addition to seeking accreditation, we’ve had a few recent changes that have
 
 We moved into a new building — the former home of the Commonwealth Club and the Press Club — at 555 Post Street in Union Square. The historic building will be our home for the forseeable future and allow us to support around 500 students. Finally, we’ve refreshed our logo to feel more modern, professional, trustworthy, and gender neutral — while maintaining our signature diamond and character — to catch up to the brand and design identity we’ve been building over the past years.
 
-![Make School Logo](https://res.cloudinary.com/makeschool/image/upload/s--a_-rAJNe--/v1538427440/Blog/logo-grey.png)
+![Make School Logo](https://res.cloudinary.com/makeschool/image/upload/s--INMdZdGk--/v1538428691/Blog/logo-grey-small.png)
 
 (Our updated logo)
 
