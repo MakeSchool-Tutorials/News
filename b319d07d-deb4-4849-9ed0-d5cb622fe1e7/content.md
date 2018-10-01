@@ -39,8 +39,10 @@ Internally at the organization, seeking accreditation feels like a coming of age
 
 In addition to seeking accreditation, we’ve had a few recent changes that have bolstered the operational core of our organization and reflect our maturation. We’ve rounded out our leadership team with our new Dean, Anne Spalding, and Head of Operations, Erin Cooney. Anne spent the first 15 years of her career teaching university computer science before helping found and run Dev Bootcamp and build internal developer training at Uber. Erin comes from a strong finance background and helped run operations for Andela — a high profile coding school in Africa — as they scaled up to 1000 students. We’ve strengthened our team with thoughtful individuals carrying work experience across academia — including Stanford and Harvard — and the tech industry.
 
+
 ![Make School Staff](https://res.cloudinary.com/makeschool/image/upload/s--EHKAZW_C--/v1538427332/Blog/makeschool-staff.jpg)
 (Our faculty and staff)
+
 
 We moved into a new building — the former home of the Commonwealth Club and the Press Club — at 555 Post Street in Union Square. The historic building will be our home for the forseeable future and allow us to support around 500 students. Finally, we’ve refreshed our logo to feel more modern, professional, trustworthy, and gender neutral — while maintaining our signature diamond and character — to catch up to the brand and design identity we’ve been building over the past years.
 
@@ -50,15 +52,20 @@ We moved into a new building — the former home of the Commonwealth Club an
 
 Our team feels cautiously optimistic about the coming years. We’re thrilled to have 110 students — with strong diversity — currently studying in our college and nearly 80 alumni working at top employers across the tech industry — we’re grateful that you believe in our vision. We’re proud of our team’s commitment to consistently improve our education and student experience, ensuring high student satisfaction, and staying true to the vision we laid out four years ago. Accreditation is an inflection point we’ve earned through years of building an innovative institution laser focused on putting students first.
 
+
 ![Make School Students](https://res.cloudinary.com/makeschool/image/upload/s--khWAh2g1--/v1538427487/Blog/students-2018.jpg)
 (Our students)
+
 
 We’re cautious because the stakes are much higher for the next chapter. We’re no longer running a small experiment, we’re seeking to prove our unique model at scale — with far more eyes watching us. Over the next few years we’ll need to answer questions — through evidence and data — on scalability, efficacy of education, career longevity, and responsiveness to industry needs.
 
 > “At times the opportunity ahead of us feels surreal, building a college from the ground up is not something any of us could have imagined for ourselves. We recognize we’re in a unique position to build a revolutionary new model of college — something that hasn’t been done in over a century — and support existing universities to innovate and drive change throughout higher ed. In order to realize this potential, we have years of persistence ahead.”
 
+
 ![First Make School Summer Academy](https://res.cloudinary.com/makeschool/image/upload/s--S98isHhz--/v1538427576/Blog/make-school-history.jpg)
+
 (The first Make School Summer Academy, run out of a house — and garage — in Palo Alto, complete with a burning man art installation for students to code inside :))
+
 
 It's especially important through our institution's period of rapid growth that we remember our roots and remain true to our cultural core. We are teachers --- who believe education can be engaging and relevant --- we are makers --- who believe learning happens best by creating --- we are mavericks --- who are willing to challenge the status quo. Our culture should remain creative and fun, accepting of diverse backgrounds and quirky characters. Let's grow up while remaining kids at heart ☺️
 
