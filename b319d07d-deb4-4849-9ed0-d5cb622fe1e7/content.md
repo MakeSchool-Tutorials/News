@@ -45,6 +45,7 @@ In addition to seeking accreditation, we’ve had a few recent changes that have
 We moved into a new building — the former home of the Commonwealth Club and the Press Club — at 555 Post Street in Union Square. The historic building will be our home for the forseeable future and allow us to support around 500 students. Finally, we’ve refreshed our logo to feel more modern, professional, trustworthy, and gender neutral — while maintaining our signature diamond and character — to catch up to the brand and design identity we’ve been building over the past years.
 
 ![Make School Logo](https://res.cloudinary.com/makeschool/image/upload/s--a_-rAJNe--/v1538427440/Blog/logo-grey.png)
+
 (Our updated logo)
 
 Our team feels cautiously optimistic about the coming years. We’re thrilled to have 110 students — with strong diversity — currently studying in our college and nearly 80 alumni working at top employers across the tech industry — we’re grateful that you believe in our vision. We’re proud of our team’s commitment to consistently improve our education and student experience, ensuring high student satisfaction, and staying true to the vision we laid out four years ago. Accreditation is an inflection point we’ve earned through years of building an innovative institution laser focused on putting students first.
