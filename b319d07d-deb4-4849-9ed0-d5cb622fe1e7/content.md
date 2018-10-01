@@ -11,7 +11,7 @@ release_date: !ruby/object:ActiveSupport::TimeWithZone
 cover_photo_path: 
 
 ---
-*This blog post was written by co-founder Ashu Desai.*
+*Written by co-founder Ashu Desai.*
 
 ### Part 1: The Accreditation Process
 
@@ -41,19 +41,19 @@ In addition to seeking accreditation, we’ve had a few recent changes that have
 
 
 ![Make School Staff](https://res.cloudinary.com/makeschool/image/upload/s--EHKAZW_C--/v1538427332/Blog/makeschool-staff.jpg)
-__Our faculty and staff__
+*Our faculty and staff*
 
 
 We moved into a new building — the former home of the Commonwealth Club and the Press Club — at 555 Post Street in Union Square. The historic building will be our home for the forseeable future and allow us to support around 500 students. Finally, we’ve refreshed our logo to feel more modern, professional, trustworthy, and gender neutral — while maintaining our signature diamond and character — to catch up to the brand and design identity we’ve been building over the past years.
 
 ![Make School Logo](https://res.cloudinary.com/makeschool/image/upload/s--Y8kNGemZ--/v1538429746/Blog/logo_grey.png)
-__Our updated logo__
+*Our updated logo*
 
 Our team feels cautiously optimistic about the coming years. We’re thrilled to have 110 students — with strong diversity — currently studying in our college and nearly 80 alumni working at top employers across the tech industry — we’re grateful that you believe in our vision. We’re proud of our team’s commitment to consistently improve our education and student experience, ensuring high student satisfaction, and staying true to the vision we laid out four years ago. Accreditation is an inflection point we’ve earned through years of building an innovative institution laser focused on putting students first.
 
 
 ![Make School Students](https://res.cloudinary.com/makeschool/image/upload/s--khWAh2g1--/v1538427487/Blog/students-2018.jpg)
-__Our students__
+*Our students*
 
 
 We’re cautious because the stakes are much higher for the next chapter. We’re no longer running a small experiment, we’re seeking to prove our unique model at scale — with far more eyes watching us. Over the next few years we’ll need to answer questions — through evidence and data — on scalability, efficacy of education, career longevity, and responsiveness to industry needs.
@@ -64,7 +64,7 @@ We’re cautious because the stakes are much higher for the next chapter. We’r
 
 ![First Make School Summer Academy](https://res.cloudinary.com/makeschool/image/upload/s--S98isHhz--/v1538427576/Blog/make-school-history.jpg)
 
-__The first Make School Summer Academy, run out of a house — and garage — in Palo Alto, complete with a burning man art installation for students to code inside :)__
+*The first Make School Summer Academy, run out of a house — and garage — in Palo Alto, complete with a burning man art installation for students to code inside :)*
 
 
 
