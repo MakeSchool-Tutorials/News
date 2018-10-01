@@ -11,7 +11,7 @@ release_date: !ruby/object:ActiveSupport::TimeWithZone
 cover_photo_path: 
 
 ---
-This blog post is written by our co-founder, Ashu Desai.
+This blog post was written by co-founder Ashu Desai.
 
 ### Part 1: The Accreditation Process
 
@@ -73,5 +73,4 @@ It's especially important through our institution's period of rapid growth that 
 
 
 Onwards and upwards,
-
 Ashu and Jeremy
