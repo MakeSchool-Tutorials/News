@@ -1,8 +1,8 @@
 ---
 title: Industry Research on Higher Education
 custom_slug: industry-research
-category: product_college
-listed: false
+category: admissions
+listed: true
 release_date: !ruby/object:ActiveSupport::TimeWithZone
   utc: &1 2018-09-30 00:00:00.000000000 Z
   zone: !ruby/object:ActiveSupport::TimeZone
