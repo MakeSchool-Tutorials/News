@@ -1,7 +1,7 @@
 ---
 title: Industry Research on Higher Education
 custom_slug: industry-research
-category: admissions
+category: news
 listed: true
 release_date: !ruby/object:ActiveSupport::TimeWithZone
   utc: &1 2018-02-09 00:00:00.000000000 Z
