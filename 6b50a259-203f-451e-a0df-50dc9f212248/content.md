@@ -1,7 +1,7 @@
 ---
 title: Higher Education Industry Outlook
 custom_slug: industry-outlook
-category: admissions
+category: news
 listed: true
 release_date: !ruby/object:ActiveSupport::TimeWithZone
   utc: &1 2018-02-10 00:00:00.000000000 Z
