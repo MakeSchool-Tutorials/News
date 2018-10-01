@@ -46,7 +46,7 @@ In addition to seeking accreditation, we’ve had a few recent changes that have
 
 We moved into a new building — the former home of the Commonwealth Club and the Press Club — at 555 Post Street in Union Square. The historic building will be our home for the forseeable future and allow us to support around 500 students. Finally, we’ve refreshed our logo to feel more modern, professional, trustworthy, and gender neutral — while maintaining our signature diamond and character — to catch up to the brand and design identity we’ve been building over the past years.
 
-![Make School Logo](https://res.cloudinary.com/makeschool/image/upload/s--INMdZdGk--/v1538428691/Blog/logo-grey-small.png)
+![Make School Logo](https://res.cloudinary.com/makeschool/image/upload/s--INMdZdGk--/v1538428691/Blog/logo-grey.png)
 
 (Our updated logo)
 
@@ -59,6 +59,7 @@ Our team feels cautiously optimistic about the coming years. We’re thrilled to
 
 We’re cautious because the stakes are much higher for the next chapter. We’re no longer running a small experiment, we’re seeking to prove our unique model at scale — with far more eyes watching us. Over the next few years we’ll need to answer questions — through evidence and data — on scalability, efficacy of education, career longevity, and responsiveness to industry needs.
 
+
 > “At times the opportunity ahead of us feels surreal, building a college from the ground up is not something any of us could have imagined for ourselves. We recognize we’re in a unique position to build a revolutionary new model of college — something that hasn’t been done in over a century — and support existing universities to innovate and drive change throughout higher ed. In order to realize this potential, we have years of persistence ahead.”
 
 
@@ -67,7 +68,9 @@ We’re cautious because the stakes are much higher for the next chapter. We’r
 (The first Make School Summer Academy, run out of a house — and garage — in Palo Alto, complete with a burning man art installation for students to code inside :))
 
 
+
 It's especially important through our institution's period of rapid growth that we remember our roots and remain true to our cultural core. We are teachers --- who believe education can be engaging and relevant --- we are makers --- who believe learning happens best by creating --- we are mavericks --- who are willing to challenge the status quo. Our culture should remain creative and fun, accepting of diverse backgrounds and quirky characters. Let's grow up while remaining kids at heart ☺️
+
 
 Onwards and upwards,
 Ashu and Jeremy
