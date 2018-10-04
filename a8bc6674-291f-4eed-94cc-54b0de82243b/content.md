@@ -1,7 +1,7 @@
 ---
-title: Make School is accepting applications for a new Bachelor's degree in Applied
-  Computer Science
-custom_slug: make-school-is-accepting-applications-for-a-new-bachelors-degree-in-applied-computer-science
+title: Make School is accepting applications for a new Bachelor's degree program in
+  Applied Computer Science
+custom_slug: make-school-is-accepting-applications-for-a-new-bachelors-degree-program-in-applied-computer-science
 category: news
 listed: false
 release_date: !ruby/object:ActiveSupport::TimeWithZone
@@ -12,7 +12,7 @@ release_date: !ruby/object:ActiveSupport::TimeWithZone
 cover_photo_path: 
 
 ---
-SAN FRANCISCO -- October 1, 2018 -- In Monday's Wall Street Journal we announced our application for accreditation to award a Bachelor's degree in Applied Computer Science to students beginning in January 2019. Launched in 2014 as an alternative to traditional 4-year colleges, Make School's alumni now work with top tech employers including Facebook, Google, Apple, and Tesla. If accredited, Make School will be the first institution of its kind approved by the Western Association of Schools and Colleges (WASC), which accredits traditional colleges, including Stanford, the University of California, Berkeley, and the California Institute of Technology.
+SAN FRANCISCO -- October 1, 2018 -- In Monday's Wall Street Journal we announced our application for accreditation to award a Bachelor's degree program in Applied Computer Science to students beginning in January 2019. Launched in 2014 as an alternative to traditional 4-year colleges, Make School's alumni now work with top tech employers including Facebook, Google, Apple, and Tesla. If accredited, Make School will be the first institution of its kind approved by the Western Association of Schools and Colleges (WASC), which accredits traditional colleges, including Stanford, the University of California, Berkeley, and the California Institute of Technology.
 
 "The college degree remains a powerful signal for students and employers alike, and our new program reflects the importance of pairing tech training with the very best of the liberal arts," said Make School co-founder Ashu Desai. "Students shouldn't have to choose between a degree and the sort of career-focused skills that have helped our alumni to chart their path to rewarding careers in tech, and beyond."
 
