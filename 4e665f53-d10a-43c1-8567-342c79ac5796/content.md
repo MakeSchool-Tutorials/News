@@ -30,7 +30,8 @@ Though the liberal arts are increasingly relevant, they can be supplemented with
 
 **More students should attend college and more should attend vocational schools**  
 The media paints a combative narrative between the value of a college versus vocational schools. Presently, the ROI of college is positive as is the ROI of vocational schools; so we should encourage greater enrollment in both. Instead of looking at these categories as opposing forces, we should view at them as complimentary pieces of a larger education system. Our society will see more success, equity, and progress if more of our youth are educated through whichever category suits them and their needs best.
-Elitism propagated by universities (and media) is dividing the country
+
+**Elitism propagated by universities (and media) is dividing the country**  
 Universities share responsibility for exacerbating a cultural and political divide in America through promotion of intellectual elitism and exclusivity. Individuals who are refused admission to top institutions walk away feeling inadequate, indirectly told by the system that they are not smart enough, not hard working enough, and lacking in potential. Even those who find great success through vocational training are seen as inferior (and implicitly lower class) to those holding a bachelor's degree. It's unsurprising that many of these individuals hold disdain for the intellectual elite along with the culture and values they stand for, especially when those born into well educated, wealthy families have disproportionate access to top institutions. Changing the narrative with which institutions and the media portray higher education and redefining admissions could help bridge our unsustainable cultural divide.
 
 **Institutional incentives have deteriorated educational quality and optionality**  
