@@ -17,7 +17,7 @@ The NYT Higher Ed Leaders Forum served as an opportunity to hear from university
 
 Perhaps most surprising was how un-radical the ideas and viewpoints we hold at Make School are, even among administrators of institutions struggling to find relevance in the 21st century. Viewpoints that may have felt antagonistic to academics 4 years ago have been internalized by leaders. Our uniqueness today is not in our vision of what a new model of higher education looks like, but our nimbleness, our ability to design an institution on these principles from the ground up, and - most importantly - our ability to execute on a forward thinking vision.
 
-The [speakers](https://www.nythigheredleaders.com/helf2018#Speakers) at the forum included Michael Bloomberg (read his [speech](https://www.mikebloomberg.com/news/remarks-at-nyt-higher-ed-leaders-forum/)), Lamar Alexander (R-Tenn., chairman of the HELP committee), Ruth Simmons (President of Prairie View A&M, former president of Brown), Alan Golston (President of the U.S. arm of the Gates Foundation), Eloy Ortiz Oakley (Chancellor of California Community Colleges), and more. The videos are available here.
+The [speakers](https://www.nythigheredleaders.com/helf2018#Speakers) at the forum included Michael Bloomberg (read his [speech](https://www.mikebloomberg.com/news/remarks-at-nyt-higher-ed-leaders-forum/)), Lamar Alexander (R-Tenn., chairman of the HELP committee), Ruth Simmons (President of Prairie View A&M, former president of Brown), Alan Golston (President of the U.S. arm of the Gates Foundation), Eloy Ortiz Oakley (Chancellor of California Community Colleges), and more. The videos are available [here](https://www.nythigheredleaders.com/helf2018/gallery).
 
 These are the ideas that stood out:  
 <br>
