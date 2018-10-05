@@ -24,4 +24,6 @@ Under WASC's incubation model, Make School will collaborate with Dominican Unive
 
 ### About Make School
 
-Make School is redesigning higher education for the 21st century. Our emphasis is on ensuring relevance of education for the modern economy and accessibility to students of all backgrounds. Make School was founded in 2012 and is funded by Learn Capital, Y Combinator, Kapor Capital, Fresco Capital, Tim Draper, and Alexis Ohanian. 
+Make School is redesigning higher education for the 21st century. Our emphasis is on ensuring relevance of education for the modern economy and accessibility to students of all backgrounds. Make School was founded in 2012 and is funded by Learn Capital, Y Combinator, Kapor Capital, Fresco Capital, Tim Draper, and Alexis Ohanian.
+
+_For more information, visit [the Press page](https://www.makeschool.com/press). For press inquiries, you can contact us [here](mailto:press@makeschool.com)._
