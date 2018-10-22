@@ -29,6 +29,8 @@ Other great organizations that help students and young professionals connect and
 
 Other useful online resources include [Blacks in Technology](https://www.blacksintechnology.net/) and [Black Enterprise](http://www.blackenterprise.com/).
 
+![Photo by rawpixel on Unsplash](https://res.cloudinary.com/makeschool/image/upload/v1540232290/Blog/diversity-in-tech-blog-image.jpg "Photo by rawpixel on Unsplash")
+
 ## For Membership...
 
 [Hispanic IT Executive Council](http://www.hitecglobal.org/) - HITEC works to advance the role of Hispanic people in information technology leadership. Members get access to exclusive content such as a member directory and a career board. Members also get to attend quarterly HITEC Executive Summits and get access to mentorship and executive development programs.
@@ -51,3 +53,6 @@ Great hackathons for college students to check out include [HBCUHacks](http://ww
 
 [The Techstars Foundation](http://diversity.techstars.com/foundation) - A nonprofit division of the international accelerator, Techstars, the Techstar Foundation offers grants of $10,000 to $50,000 to nonprofit organizations "that are increasing diversity in entrepreneurship."\
 Other organizations that help minority-led companies take off include [NewME](http://www.newme.in/) and [DigitalUndivided](https://www.digitalundivided.com/). Google also offers [scholarships](https://edu.google.com/scholarships/index.html) for minority students interested in tech.
+
+***
+Hero image: Photo by NESA by Makers on Unsplash
