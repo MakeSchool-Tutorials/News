@@ -1,7 +1,7 @@
 ---
 title: Increasing Diversity in Tech - 6 Resources for Underrepresented Groups
 custom_slug: increasing-diversity-in-tech-6-resources-for-underrepresented-groups
-category: product_college
+category: admissions
 listed: true
 release_date: !ruby/object:ActiveSupport::TimeWithZone
   utc: &1 2018-10-18 00:00:00.000000000 Z
