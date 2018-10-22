@@ -51,7 +51,7 @@ Great hackathons for college students to check out include [HBCUHacks](http://ww
 
 ## For Funding and Acceleration...
 
-[The Techstars Foundation](http://diversity.techstars.com/foundation) - A nonprofit division of the international accelerator, Techstars, the Techstar Foundation offers grants of $10,000 to $50,000 to nonprofit organizations "that are increasing diversity in entrepreneurship."\
+[The Techstars Foundation](http://diversity.techstars.com/foundation) - A nonprofit division of the international accelerator, Techstars, the Techstar Foundation offers grants of $10,000 to $50,000 to nonprofit organizations "that are increasing diversity in entrepreneurship."
 
 Other organizations that help minority-led companies take off include [NewME](http://www.newme.in/) and [DigitalUndivided](https://www.digitalundivided.com/). Google also offers [scholarships](https://edu.google.com/scholarships/index.html) for underrepresented students interested in tech.
 
