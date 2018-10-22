@@ -4,7 +4,7 @@ custom_slug: increasing-diversity-in-tech-6-resources-for-underrepresented-group
 category: product_college
 listed: true
 release_date: !ruby/object:ActiveSupport::TimeWithZone
-  utc: &1 2018-10-17 00:00:00.000000000 Z
+  utc: &1 2018-10-18 00:00:00.000000000 Z
   zone: !ruby/object:ActiveSupport::TimeZone
     name: Etc/UTC
   time: *1
