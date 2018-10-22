@@ -11,7 +11,7 @@ release_date: !ruby/object:ActiveSupport::TimeWithZone
 cover_photo_path: 
 
 ---
-It's no secret that Tech has a diversity problem. According to a study done by [Fortune](http://fortune.com/2015/07/30/tech-companies-diveristy/), Black professionals hold only 5% of the jobs at large tech companies and Latinx professionals hold about 7% of the jobs. Black and Latinx founders also receive less than one percent of venture capital.
+It's no secret that Tech has a diversity problem. According to a study done by [Fortune](http://fortune.com/2015/07/30/tech-companies-diveristy/), black professionals hold only 5% of the jobs at large tech companies and Latinx professionals hold about 7% of the jobs. Black and Latinx founders also receive less than one percent of venture capital.
 
 In researching this piece, we were discouraged to see that support and resources are also not up to the mark. While many programs aim to help students from underrepresented groups succeed in tech, the same sort of support for young professionals and people looking to make a career change are far from readily available. Likewise, further training and mentorship for underrepresented groups currently working in tech are hard to come by.
 
