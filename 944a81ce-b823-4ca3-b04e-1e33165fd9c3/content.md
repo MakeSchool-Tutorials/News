@@ -34,7 +34,7 @@ If a student completes Ramp and they want more of that kind of challenging learn
 ## How Ramp Works
 The overall focus of Ramp is computational thinking, problem solving, and developing a programmer mindset. These are all core skills that empower students regardless of the coding languages or projects that they choose to pursue during their time at Make School and beyond.
 
-> _*Ramp was so successful this year at helping our less-experienced students with both of the goals above that we are very excited to expand the Ramp experience to include even more content and support to potential Make School students of all experience levels.*_
+> *Ramp was so successful this year at helping our less-experienced students with both of the goals above that we are very excited to expand the Ramp experience to include even more content and support to potential Make School students of all experience levels.*
 
 Starting this year, all new Make School students will participate in Ramp. Depending on a potential student's existing level of experience, they will be able to jump into the content at the starting point that is right for them:
 
@@ -54,11 +54,11 @@ Along the way, Ramp students will be supported in their learning with:
 
 We know that some people will take more or less time in different sections depending upon their pre-existing experience and their affinity for coding. The hours each person spends on an assignment may vary widely, and that's okay. As we tell the students,
 
-> _"Programming is challenging, and it's very common for even experienced programmers to get stuck at times._
->
-> _WE WANT YOU TO GET STUCK. It may sound harsh, but this is truly the real world experience of being a programmer, and we want you to have that experience early on so that you can practice overcoming the challenge._
->
-> _The most important thing is to keep a positive attitude, utilize your resources, take a break when you need it to help manage your emotions, and reach out for help when you need it. WE ALSO WANT YOU TO GET UN-STUCK! :)"_
+_"Programming is challenging, and it's very common for even experienced programmers to get stuck at times.
+
+WE WANT YOU TO GET STUCK. It may sound harsh, but this is truly the real world experience of being a programmer, and we want you to have that experience early on so that you can practice overcoming the challenge.
+
+The most important thing is to keep a positive attitude, utilize your resources, take a break when you need it to help manage your emotions, and reach out for help when you need it. WE ALSO WANT YOU TO GET UN-STUCK! :)"_
 
 It's not about where you start, it's about where you finish. While everyone will begin their Ramp experience at different times and different starting points, the goal is that everyone is able to complete the program and feel confident about their ability to thrive at Make School.
 
