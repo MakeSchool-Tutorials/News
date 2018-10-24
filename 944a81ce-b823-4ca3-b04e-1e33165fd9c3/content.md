@@ -39,6 +39,8 @@ The overall focus of Ramp is computational thinking, problem solving, and develo
 
 Starting this year, all new Make School students will participate in Ramp. Depending on a potential student's existing level of experience, they will be able to jump into the content at the starting point that is right for them:
 
+![The Ramp Classroom on repl.it](https://res.cloudinary.com/makeschool/image/upload/v1540421126/Blog/ramp-classroom-image.png "The Ramp Classroom on repl.it")
+
 ---
 **Level 0 - Introduction to Programming**
 
@@ -53,8 +55,6 @@ Once you are comfortable with the basics, you'll take on a larger project - buil
 Prepare for success at Make School by further leveling up both your technical and professional skills before you arrive.
 
 ---
-
-![The Ramp Classroom on repl.it](https://res.cloudinary.com/makeschool/image/upload/v1540421126/Blog/ramp-classroom-image.png "The Ramp Classroom on repl.it")
 
 **Along the way, Ramp students will be supported in their learning with:**
 
