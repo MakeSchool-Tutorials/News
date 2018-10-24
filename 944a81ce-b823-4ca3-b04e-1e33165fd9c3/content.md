@@ -39,6 +39,7 @@ The overall focus of Ramp is computational thinking, problem solving, and develo
 
 Starting this year, all new Make School students will participate in Ramp. Depending on a potential student's existing level of experience, they will be able to jump into the content at the starting point that is right for them:
 
+---
 **Level 0 - Introduction to Programming**
 
 Practice the fundamentals - variables and objects, arrays, loops, conditionals, functions, and classes - by completing programming challenges that increase in complexity as you build up your coding skills.
@@ -50,6 +51,7 @@ Once you are comfortable with the basics, you'll take on a larger project - buil
 **Level 2 - Technical and Professional Development**
 
 Prepare for success at Make School by further leveling up both your technical and professional skills before you arrive.
+---
 
 Along the way, Ramp students will be supported in their learning with:
 -   Personalized feedback on their code
