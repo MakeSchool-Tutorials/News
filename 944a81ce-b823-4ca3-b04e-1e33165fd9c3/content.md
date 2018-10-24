@@ -56,7 +56,8 @@ Prepare for success at Make School by further leveling up both your technical an
 
 ![The Ramp Classroom on repl.it](https://res.cloudinary.com/makeschool/image/upload/v1540421126/Blog/ramp-classroom-image.png "The Ramp Classroom on repl.it")
 
-Along the way, Ramp students will be supported in their learning with: 
+**Along the way, Ramp students will be supported in their learning with:**
+
 -   Personalized feedback on their code
 -   Weekly online office hours with video chat and screen-sharing
 -   Peer and instructor help in chat
