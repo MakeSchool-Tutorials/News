@@ -51,6 +51,7 @@ Once you are comfortable with the basics, you'll take on a larger project - buil
 **Level 2 - Technical and Professional Development**
 
 Prepare for success at Make School by further leveling up both your technical and professional skills before you arrive.
+
 ---
 
 Along the way, Ramp students will be supported in their learning with:
