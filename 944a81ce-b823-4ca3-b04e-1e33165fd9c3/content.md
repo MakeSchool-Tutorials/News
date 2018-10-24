@@ -54,7 +54,9 @@ Prepare for success at Make School by further leveling up both your technical an
 
 ---
 
-Along the way, Ramp students will be supported in their learning with:
+![The Ramp Classroom on repl.it](https://res.cloudinary.com/makeschool/image/upload/v1540421126/Blog/ramp-classroom-image.png "The Ramp Classroom on repl.it")
+
+**Along the way, Ramp students will be supported in their learning with:** 
 -   Personalized feedback on their code
 -   Weekly online office hours with video chat and screen-sharing
 -   Peer and instructor help in chat
@@ -72,5 +74,6 @@ It's not about where you start, it's about where you finish. While everyone will
 ## The Door to a Career in Coding is Open to You
 Whether you just discovered coding recently or are simply excited about the possibilities of working in tech, we want you to feel empowered to take your career into your own hands. At the same time, you shouldn't have to commit thousands of dollars or years of your life to programming before you know if it's the right fit.
 
-That's why I'm so proud of the Ramp program. It lets potential students test the waters and see what they are capable of before arriving at Make School. It's the perfect way to build your knowledge and skills while also building your confidence that programming just might be the perfect path for you.\
+That's why I'm so proud of the Ramp program. It lets potential students test the waters and see what they are capable of before arriving at Make School. It's the perfect way to build your knowledge and skills while also building your confidence that programming just might be the perfect path for you.
+
 To learn more about how to access Ramp and the Make School admissions process as a whole, feel free to send an email to <admissions@makeschool.com>.
