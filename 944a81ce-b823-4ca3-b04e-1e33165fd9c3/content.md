@@ -22,7 +22,7 @@ But when it comes to applicants with little or no coding experience, it's harder
 
 Over the past year, to help make the application process more consistent and useful, we created and piloted Ramp -- a free online self-paced introductory course for potential students.
 
-##### The goal of Ramp is to:
+**The goal of Ramp is to:**
 1.  Help potential students decide whether programming is something they really want to do professionally.
 2.  Get potential students up to speed so they can make the most of their Make School experience.
 
@@ -38,13 +38,13 @@ The overall focus of Ramp is computational thinking, problem solving, and develo
 
 Starting this year, all new Make School students will participate in Ramp. Depending on a potential student's existing level of experience, they will be able to jump into the content at the starting point that is right for them:
 
-##### Level 0 - Introduction to Programming
+**Level 0 - Introduction to Programming**
 Practice the fundamentals - variables and objects, arrays, loops, conditionals, functions, and classes - by completing programming challenges that increase in complexity as you build up your coding skills.
 
-##### Level 1 - Object-Oriented Programming Project
+**Level 1 - Object-Oriented Programming Project**
 Once you are comfortable with the basics, you'll take on a larger project - building a portfolio-worthy project from scratch using object-oriented programming.
 
-##### Level 2 - Technical and Professional Development
+**Level 2 - Technical and Professional Development**
 Prepare for success at Make School by further leveling up both your technical and professional skills before you arrive.
 
 Along the way, Ramp students will be supported in their learning with:
