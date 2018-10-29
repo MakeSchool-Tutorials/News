@@ -72,6 +72,8 @@ We know that some people will take more or less time in different sections depen
 
 It's not about where you start, it's about where you finish. While everyone will begin their Ramp experience at different times and different starting points, the goal is that everyone is able to complete the program and feel confident about their ability to thrive at Make School.
 
+![The Ramp Classroom on Repl.it](https://res.cloudinary.com/makeschool/image/upload/v1540842689/Blog/ramp-colorful-creatures-exercise.png "The Ramp Classroom on Repl.it")
+
 ## The Door to a Career in Coding is Open to You
 Whether you just discovered coding recently or are simply excited about the possibilities of working in tech, we want you to feel empowered to take your career into your own hands. At the same time, you shouldn't have to commit thousands of dollars or years of your life to programming before you know if it's the right fit.
 
