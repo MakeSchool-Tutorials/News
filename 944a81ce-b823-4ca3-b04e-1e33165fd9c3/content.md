@@ -2,7 +2,7 @@
 title: 'Ramp: A Free Introductory Course for Prospective Make School Students'
 custom_slug: ramp-a-free-introductory-course-for-prospective-make-school-students
 category: product_college
-listed: false
+listed: true
 release_date: !ruby/object:ActiveSupport::TimeWithZone
   utc: &1 2018-10-24 00:00:00.000000000 Z
   zone: !ruby/object:ActiveSupport::TimeZone
@@ -39,7 +39,7 @@ The overall focus of Ramp is computational thinking, problem solving, and develo
 
 Starting this year, all new Make School students will participate in Ramp. Depending on a potential student's existing level of experience, they will be able to jump into the content at the starting point that is right for them:
 
-![The Ramp Classroom on repl.it](https://res.cloudinary.com/makeschool/image/upload/v1540421126/Blog/ramp-classroom-image.png "The Ramp Classroom on repl.it")
+![The Ramp Classroom on Repl.it](https://res.cloudinary.com/makeschool/image/upload/v1540842690/Blog/ramp-functions-exercise.png "The Ramp Classroom on Repl.it")
 
 ---
 **Level 0 - Introduction to Programming**
