@@ -32,14 +32,14 @@ When this year's Ramp students arrived at Make School, they may not have felt re
 
 If a student completes Ramp and they want more of that kind of challenging learning experience, then I'm confident they'll be ready to make the most of Make School.
 
+![The Ramp Classroom on Repl.it](https://res.cloudinary.com/makeschool/image/upload/v1540842690/Blog/ramp-functions-exercise.png "The Ramp Classroom on Repl.it")
+
 ## How Ramp Works
 The overall focus of Ramp is computational thinking, problem solving, and developing a programmer mindset. These are all core skills that empower students regardless of the coding languages or projects that they choose to pursue during their time at Make School and beyond.
 
 > **Ramp was so successful this year at helping our less-experienced students with both of the goals above that we are very excited to expand the Ramp experience to include even more content and support to potential Make School students of all experience levels.**
 
 Starting this year, all new Make School students will participate in Ramp. Depending on a potential student's existing level of experience, they will be able to jump into the content at the starting point that is right for them:
-
-![The Ramp Classroom on Repl.it](https://res.cloudinary.com/makeschool/image/upload/v1540842690/Blog/ramp-functions-exercise.png "The Ramp Classroom on Repl.it")
 
 ---
 **Level 0 - Introduction to Programming**
