@@ -1,7 +1,7 @@
 ---
 title: 'Ramp: A Free Introductory Course for Prospective Make School Students'
 custom_slug: ramp-a-free-introductory-course-for-prospective-make-school-students
-category: product_college
+category: admissions
 listed: true
 release_date: !ruby/object:ActiveSupport::TimeWithZone
   utc: &1 2018-10-24 00:00:00.000000000 Z
