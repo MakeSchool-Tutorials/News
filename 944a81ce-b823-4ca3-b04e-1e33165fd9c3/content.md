@@ -79,4 +79,8 @@ Whether you just discovered coding recently or are simply excited about the poss
 
 That's why I'm so proud of the Ramp program. It lets potential students test the waters and see what they are capable of before arriving at Make School. It's the perfect way to build your knowledge and skills while also building your confidence that programming just might be the perfect path for you.
 
+---
+
+Ramp is a program used in conjunction with the Make School admissions process. To get started on your journey to Make School, [apply now](https://www.makeschool.com/apply/selected?program=CS).
+
 To learn more about how to access Ramp and the Make School admissions process as a whole, feel free to send an email to <admissions@makeschool.com>.
