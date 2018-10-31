@@ -2,7 +2,7 @@
 title: Motivation - Daniel Pink on designing routines, self-talk, and projects to
   increase your drive
 custom_slug: motivation-daniel-pink-on-designing-routines-selftalk-and-projects-to-increase-your-drive
-category: product_college
+category: podcast
 listed: true
 release_date: !ruby/object:ActiveSupport::TimeWithZone
   utc: &1 2018-10-31 00:00:00.000000000 Z
