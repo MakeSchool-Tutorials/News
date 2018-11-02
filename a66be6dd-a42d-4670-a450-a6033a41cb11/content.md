@@ -23,7 +23,7 @@ Marianna originally intended to take a gap year after graduating from her Detroi
 
 "I realized attending Make School would be an excellent way to explore my desire to learn coding in an environment where students are doing the same thing as me," Marianna says. "Participating in the Summer Academy showed me how much I wanted to be at this school. I was challenged by the curriculum and inspired by the people at Make School."
 
-![Naturally Mee by Marianna Campbell](https://res.cloudinary.com/makeschool/image/upload/v1541187672/Blog/marianna-campbell-app1.png "Naturally Mee by Marianna Campbell")
+![Naturally Mee by Marianna Campbell](https://res.cloudinary.com/makeschool/image/upload/v1541188233/Blog/marianna-campbell-modified-app1.png "Naturally Mee by Marianna Campbell") ![Naturally Mee by Marianna Campbell](https://res.cloudinary.com/makeschool/image/upload/v1541188233/Blog/marianna-campbell-modified-app2.png "Naturally Mee by Marianna Campbell") ![Naturally Mee by Marianna Campbell](https://res.cloudinary.com/makeschool/image/upload/v1541188233/Blog/marianna-campbell-modified-app3.png "Naturally Mee by Marianna Campbell") ![Naturally Mee by Marianna Campbell](https://res.cloudinary.com/makeschool/image/upload/v1541188233/Blog/marianna-campbell-modified-app4.png "Naturally Mee by Marianna Campbell")
 
 An active person who enjoys dancing, hiking, and biking, Marianna has enjoyed Make School's fast pace. She says, "Since day one, I have been working on coding projects. That's what I am enjoying most -- the project-based learning. In the past three weeks I have worked on three coding projects. I'm also practicing product software development principles such as researching a domain and doing a competitive analysis."
 
