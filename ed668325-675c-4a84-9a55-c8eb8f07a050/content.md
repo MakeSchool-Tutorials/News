@@ -1,7 +1,6 @@
 ---
-title: 'How to be a successful Software Engineer: Tips from Airbnb engineer Steven
-  Hepting'
-custom_slug: how-to-be-a-successful-software-engineer-tips-from-airbnb-engineer-steven-hepting
+title: How to Be a Successful Software Engineer
+custom_slug: how-to-be-a-successful-software-engineer
 category: product_college
 listed: false
 release_date: !ruby/object:ActiveSupport::TimeWithZone
@@ -12,7 +11,7 @@ release_date: !ruby/object:ActiveSupport::TimeWithZone
 cover_photo_path: 
 
 ---
-This past Tuesday, we were lucky to have Senior iOS engineer Steven Hepting come from Airbnb to talk to students about the experiences he's gone through during his career. The following are three important things we learned from Steven when he was in the building!
+This past Tuesday, we were lucky to have Senior iOS engineer Steven Hepting come from Airbnb to talk to students about the experiences he's had during his career as a developer. The following are three important things we learned from Steven when he was in the building!
 
 ## 1\. Staying up to date on new technology, and watching trends in the industry, is important while being a software engineer.
 
