@@ -1,8 +1,8 @@
 ---
 title: How to Be a Successful Software Engineer
 custom_slug: how-to-be-a-successful-software-engineer
-category: product_college
-listed: false
+category: admissions
+listed: true
 release_date: !ruby/object:ActiveSupport::TimeWithZone
   utc: &1 2018-11-09 00:00:00.000000000 Z
   zone: !ruby/object:ActiveSupport::TimeZone
@@ -11,6 +11,10 @@ release_date: !ruby/object:ActiveSupport::TimeWithZone
 cover_photo_path: 
 
 ---
+_by Komal Desai_
+
+---
+
 This past Tuesday, we were lucky to have Senior iOS engineer Steven Hepting come from Airbnb to talk to students about the experiences he's had during his career as a developer. The following are three important things we learned from Steven when he was in the building!
 
 ## 1\. Staying up to date on new technology, and watching trends in the industry, is important while being a software engineer.
@@ -29,4 +33,4 @@ It's not worth working at a company or with a team that you don't work well with
 
 ---
 
-Thanks for Steven for coming to speak to us! If you want to continually be in the room with mentors like Steven, we encourage you to consider applying to Make School. Our early action deadline is on November 18. Apply now.
+A huge thanks to Steven for coming out to speak to us! If you want to continually be in the room with mentors like Steven, we encourage you to consider applying to Make School. Our early action deadline is on November 18. [Apply now](https://www.makeschool.com/apply/selected?program=CS).
