@@ -17,6 +17,8 @@ This past Tuesday, we were lucky to have Senior iOS engineer Steven Hepting come
 
 Steven started out as a QA, Applications Engineer for a microchip simulation software company. But he noticed quickly that mobile devices were consuming people's lives and he watched the trends that showed that iOS engineers were becoming more and more in demand. So he taught himself how to develop for iOS and built an iPad app. This led to him joining Yammer and eventually Twitter to help build the Twitter SDK. His advice is to continue finding ways to learn new things. Attend lots of meetups and stay up to date on the newest technology features.
 
+![Steven Hepting](https://res.cloudinary.com/makeschool/image/upload/v1541891783/Blog/steven-hepting-bio-image.jpg "Steven Hepting")
+
 ## 2\. Build things! It looks really good on your resume and shows companies that you have experience building products.
 
 Having a portfolio is important to validate your skills and abilities, even more so than where you went to college. Even when you're at a job, make sure you're always building things. Working on new projects will definitely help you build skills for the future, but it will also help you be useful to your current employer. Steven is always excited to meet other makers like him. He believes that employees who are passionate about building new things can inspire colleagues and build a lot of value for the companies they work for.
