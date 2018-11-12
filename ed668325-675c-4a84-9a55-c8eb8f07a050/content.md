@@ -1,6 +1,6 @@
 ---
-title: How to Be a Successful Software Engineer
-custom_slug: how-to-be-a-successful-software-engineer
+title: How to Achieve Success as a Software Engineer - 3 tips to follow
+custom_slug: how-to-achieve-success-as-a-software-engineer-3-tips-to-follow
 category: admissions
 listed: true
 release_date: !ruby/object:ActiveSupport::TimeWithZone
