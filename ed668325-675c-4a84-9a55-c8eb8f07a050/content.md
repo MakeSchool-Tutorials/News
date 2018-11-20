@@ -2,7 +2,7 @@
 title: How to Achieve Success as a Software Engineer - 3 tips to follow
 custom_slug: how-to-achieve-success-as-a-software-engineer-3-tips-to-follow
 category: admissions
-listed: false
+listed: true
 release_date: !ruby/object:ActiveSupport::TimeWithZone
   utc: &1 2018-11-09 00:00:00.000000000 Z
   zone: !ruby/object:ActiveSupport::TimeZone
