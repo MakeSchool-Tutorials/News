@@ -11,6 +11,8 @@ release_date: !ruby/object:ActiveSupport::TimeWithZone
 cover_photo_path: 
 
 ---
+Update: On November 27th, 2018, Make School announced that the Bachelor in Applied Computer Science program is now fully accredited.
+
 *Written by co-founder Ashu Desai.*
 
 ### Part 1: The Accreditation Process
