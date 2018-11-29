@@ -1,7 +1,7 @@
 ---
 title: Diving In Head First with Marianna Campbell
 custom_slug: diving-in-head-first-with-marianna-campbell
-category: admissions
+category: student_spotlight
 listed: true
 release_date: !ruby/object:ActiveSupport::TimeWithZone
   utc: &1 2018-11-01 00:00:00.000000000 Z
