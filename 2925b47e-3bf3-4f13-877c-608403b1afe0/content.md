@@ -1,7 +1,7 @@
 ---
 title: Building Revenue-Making Businesses with Rinni and Sarin Swift
 custom_slug: building-revenuemaking-businesses-with-rinni-and-sarin-swift
-category: admissions
+category: student_spotlight
 listed: true
 release_date: !ruby/object:ActiveSupport::TimeWithZone
   utc: &1 2018-11-22 00:00:00.000000000 Z
