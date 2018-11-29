@@ -1,7 +1,7 @@
 ---
 title: Engaging in Creative Destruction with Jacob Haff
 custom_slug: engaging-in-creative-destruction-with-jacob-haff
-category: product_college
+category: student_spotlight
 listed: true
 release_date: !ruby/object:ActiveSupport::TimeWithZone
   utc: &1 2018-09-24 00:00:00.000000000 Z
