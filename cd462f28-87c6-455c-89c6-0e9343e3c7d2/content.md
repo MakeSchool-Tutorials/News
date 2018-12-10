@@ -2,7 +2,7 @@
 title: Launching a new model of college
 custom_slug: launching-a-new-model-of-college
 category: news
-listed: false
+listed: true
 release_date: !ruby/object:ActiveSupport::TimeWithZone
   utc: &1 2018-12-10 00:00:00.000000000 Z
   zone: !ruby/object:ActiveSupport::TimeZone
