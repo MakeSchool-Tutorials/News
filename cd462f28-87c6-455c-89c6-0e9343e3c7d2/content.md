@@ -11,6 +11,10 @@ release_date: !ruby/object:ActiveSupport::TimeWithZone
 cover_photo_path: 
 
 ---
+_by Founder Jeremy Rossmann_
+
+---
+
 Over the last two weeks Make School has received a wave of press coverage announcing that we have received final accreditor approval for the launch of [the first fully accredited Bachelor's degree program](https://www.makeschool.com/computer-science/) with no tuition until students are employed.
 
 [TechCrunch ](https://techcrunch.com/2018/11/27/make-school-accreditation/)reported that our program is the first to create an accelerated 2-year path to a Bachelor's degree with a progressive, project-based pedagogy.
