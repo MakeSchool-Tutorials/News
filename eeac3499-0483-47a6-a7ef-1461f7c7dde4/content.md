@@ -1,7 +1,7 @@
 ---
 title: Top 8 Colleges with Project-based Computer Science Degree Programs
 custom_slug: top-8-colleges-with-projectbased-computer-science-degree-programs
-category: product_college
+category: admissions
 listed: false
 release_date: !ruby/object:ActiveSupport::TimeWithZone
   utc: &1 2018-12-17 00:00:00.000000000 Z
