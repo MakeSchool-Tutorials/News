@@ -11,6 +11,10 @@ release_date: !ruby/object:ActiveSupport::TimeWithZone
 cover_photo_path: 
 
 ---
+_by Make School Instructor and Curriculum Designer Adam Braus_
+
+---
+
 How at Make School we're designing a college that maximizes learning and minimizes burnout.
 
 Student burnout is the worst. And at [Make School's College](http://makeschool.com), its the worst for pretty much everyone involved. Most colleges probably would say they don't want students to burn out, but at Make School the situation is more serious.
