@@ -21,6 +21,8 @@ Project-based learning is gaining traction throughout the world of education bec
 
 This is precisely the case with project-based computer science programs. Rather than memorizing and regurgitating, bachelor's students learn by doing and, as a result, graduate with an array of self-led and group projects under their belts, making them more desirable job candidates.
 
+![Photo by Mimi Thian on Unsplash](https://res.cloudinary.com/makeschool/image/upload/v1545356838/Blog/body-image-1-top-colleges-with-cs-programs.jpg "Photo by Mimi Thian on Unsplash")
+
 Here, in no particular order, are eight top colleges that offer computer science bachelor's degrees with a project-based learning component.
 
 [Rochester Institute of Technology](https://www.cs.rit.edu/bs-computer-science-overview)
@@ -38,6 +40,8 @@ One of the few colleges on this list that can claim to offer a truly project-bas
 [Dartmouth College](https://web.cs.dartmouth.edu/undergraduate)
 
 Another traditional degree program, the Dartmouth Department of Computer Science nevertheless prides itself on helping students innovate and create. This Ivy League program offers an optional honors track and a combined bachelor's/master's degree five-year track.
+
+![Photo by Caleb Minear on Unsplash](https://res.cloudinary.com/makeschool/image/upload/v1545358242/Blog/body-image-2-top-colleges-with-cs-programs.jpg "Photo by Caleb Minear on Unsplash")
 
 [Stanford](https://cs.stanford.edu/)
 
