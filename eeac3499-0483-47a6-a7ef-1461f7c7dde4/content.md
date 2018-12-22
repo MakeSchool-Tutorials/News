@@ -15,7 +15,7 @@ _by Make School Writer Angela Bourassa_
 
 ---
 
-With the computer science skills gap only getting wider, colleges and universities across the country are racing to bolster their CS degree programs. But even with that flurry of investment and competition, there is still a substantial shortage of truly project-based computer science degree programs.
+With the computer science skills gap only getting wider, colleges and universities across the country are racing to bolster their computer science degree programs. But even with that flurry of investment and competition, there is still a substantial shortage of truly project-based computer science degree programs.
 
 Project-based learning is gaining traction throughout the world of education because it is a more practical and career-focused approach to learning. Whereas students have traditionally been fed information and asked to regurgitate that information for tests, project-based learning demands that students create projects under their own volition with the supervision and support of a knowledgeable teacher.
 
@@ -35,7 +35,7 @@ The UW-Madison has the distinction of being home to the oldest computer science 
 
 [Carnegie Mellon](https://www.cs.cmu.edu/undergraduate-programs)
 
-One of the few colleges on this list that can claim to offer a truly project-based curriculum, Carnegie Mellon is unique in that it requires CS students to minor in a different subject. The focus is on not just experiential learning, but also a well-rounded education. Courses include such listings as Green Computing and Experimental Animation. Students here are also encouraged to study abroad and/or take internships.
+One of the few colleges on this list that can claim to offer a truly project-based curriculum, Carnegie Mellon is unique in that it requires computer science students to minor in a different subject. The focus is on not just experiential learning, but also a well-rounded education. Courses include such listings as Green Computing and Experimental Animation. Students here are also encouraged to study abroad and/or take internships.
 
 [Dartmouth College](https://web.cs.dartmouth.edu/undergraduate)
 
@@ -57,7 +57,7 @@ Right alongside Stanford, Caltech is another wonderful school for those students
 
 [Make School](https://www.makeschool.com/computer-science)
 
-The youngest college on this list is also one of the only ones that offers a fully project-based learning experience. The Make School Bachelor in Applied Science program takes a real-world approach to teaching both core theory and the latest advances in computer science. Students graduate in just two years, during which time they complete at least half a dozen projects and a summer internship. Make School partners with such companies as Facebook, LinkedIn, and Y Combinator. It is also unique in that it offers an income share agreement option in lieu of (or in combination with) tuition so that students can defer paying for their Bachelor's degree until they begin their careers.
+The youngest college on this list is also one of the only ones that offers a fully project-based learning experience. The Make School Bachelor in Applied Science program takes a real-world approach to teaching - both core theory and the latest advances in computer science. Students graduate in just two years, during which time they complete at least half a dozen projects and a summer internship. Make School partners with such companies as Facebook, LinkedIn, and Y Combinator. It is also unique in that it offers an income share agreement option in lieu of (or in combination with) tuition so that students can defer paying for their Bachelor's degree until they begin their careers.
 
 ---
 
