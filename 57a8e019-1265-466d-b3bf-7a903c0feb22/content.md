@@ -43,7 +43,7 @@ That brings us to one of the biggest factors of student burn out: Context Switch
 
 ## Reduced Context Switching
 
-Neuroscientists have discovered that your brain uses a lot of energy to switch between different tasks. Say you were emailing a friend, but then interrupted yourself to practice piano for 3 minutes, and then you switched to baking cookies. In this case, the energy you spent *switching* between these tasks was far greater than the energy you spent doing any one of them. This inefficient use of mental energy is called context switching, and in our society of infinite phone and internet distractions, it is like poison for completing your goals and becoming who you want to be.
+[Neuroscientists have discovered](https://qz.com/722661/neuroscientists-say-multitasking-literally-drains-the-energy-reserves-of-your-brain/) that your brain uses a lot of energy to switch between different tasks. Say you were emailing a friend, but then interrupted yourself to practice piano for 3 minutes, and then you switched to baking cookies. In this case, the energy you spent *switching* between these tasks was far greater than the energy you spent doing any one of them. This inefficient use of mental energy is called context switching, and in our society of infinite phone and internet distractions, it is like poison for completing your goals and becoming who you want to be.
 
 So maybe your coach tells you about context switching and you turn off your notifications and get more focused  - even then, you still have to go to huddles in the morning, work, lunch, then class in the afternoon, then get home, eat dinner, etc. There is so much context switching just in going to a school - how can you avoid it?
 
