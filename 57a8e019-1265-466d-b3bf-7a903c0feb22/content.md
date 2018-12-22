@@ -31,7 +31,7 @@ Coaches mainly ask questions and tell stories. They must ask permission before p
 
 ## Project-Based Learning
 
-Learning at Make School has always been (and probably always will be) based on doing projects. Whether going step-by-step through a digital online tutorial, hacking on a project in a hackathon, or launching what you hope is the next big startup --- our students learn by doing real projects in the real world.
+Learning at Make School has always been and will always be based on doing projects. Whether going step-by-step through a digital online tutorial, hacking on a project in a hackathon, or launching what you hope is the next big startup  - our students learn by doing real projects in the real world.
 
 It is easy to have rose-colored glasses and assume that no one would burn out or lose motivation if they were doing project-based learning. But actually, like most everything, you have to plan well and ahead of time for project-based learning to stay interesting and lead to actual learning.
 
@@ -43,11 +43,11 @@ That brings us to one of the biggest factors of student burn out: Context Switch
 
 ## Reduced Context Switching
 
-Neuroscientists have discovered that your brain uses a lot of energy to switch between different tasks. Say you were emailing a friend, but then interrupted yourself to practice piano for 3 minutes, and then you switched to baking cookies. In this case, the energy you spent *switching* between these tasks was far greater than the energy you spent doing any one of them. This inefficient use of mental energy is called context switching, and in our society of infinite phone and internet distractions, it is like anthrax for completing your goals and becoming who you want to be.
+Neuroscientists have discovered that your brain uses a lot of energy to switch between different tasks. Say you were emailing a friend, but then interrupted yourself to practice piano for 3 minutes, and then you switched to baking cookies. In this case, the energy you spent *switching* between these tasks was far greater than the energy you spent doing any one of them. This inefficient use of mental energy is called context switching, and in our society of infinite phone and internet distractions, it is like poison for completing your goals and becoming who you want to be.
 
-So maybe your coach tells you about context switching and you turn off your notifications and get more focused --- even then, you still have to go to huddles in the morning, work, lunch, then class in the afternoon, then get home, eat dinner, etc. There is so much context switching just in going to a school - how can you avoid it?
+So maybe your coach tells you about context switching and you turn off your notifications and get more focused  - even then, you still have to go to huddles in the morning, work, lunch, then class in the afternoon, then get home, eat dinner, etc. There is so much context switching just in going to a school - how can you avoid it?
 
-To reduce context switching at Make School, we've set two 3-hour blocks a week where no classes or meetings can be planned --- we call them programming lab. We also silo all of our Science & Letters (the equivalent of General Education) courses so they occur only on Friday. Lastly, we have a fixed schedule that starts every day at the leisurely time of 9:30 am - meaning early-risers can use their mornings, and late-risers are held accountable to not sleeping the whole day away.
+To reduce context switching at Make School, we've set two 3-hour blocks a week where no classes or meetings can be planned  -  we call them programming lab. We also silo all of our Science & Letters (the equivalent of General Education) courses so they occur only on Friday. Lastly, we have a fixed schedule that starts every day at the leisurely time of 9:30 am - meaning early-risers can use their mornings, and late-risers are held accountable to not sleeping the whole day away.
 
 Make School is not perfect (yet!) and so we are still looking for ways to reduce context switching for our students. Moving to something like block scheduling, where students only take 1 - 2 intensive courses per term could really be the right choice!
 
