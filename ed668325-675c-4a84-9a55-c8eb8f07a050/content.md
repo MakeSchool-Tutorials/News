@@ -33,4 +33,4 @@ It's not worth working at a company or with a team that you don't work well with
 
 ---
 
-A huge thanks to Steven for coming out to speak to us! If you want to continually be in the room with mentors like Steven, we encourage you to consider applying to Make School. Our early action deadline is on November 18. [Apply now](https://www.makeschool.com/apply/selected?program=CS).
+A huge thanks to Steven for coming out to speak to us! If you want to continually be in the room with mentors like Steven, we encourage you to consider applying to Make School. Our regular decision deadline is on January 7. [Apply now](https://www.makeschool.com/apply/selected?program=CS).
