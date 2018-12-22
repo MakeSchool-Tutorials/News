@@ -58,3 +58,9 @@ Right alongside Stanford, Caltech is another wonderful school for those students
 [Make School](https://www.makeschool.com/computer-science)
 
 The youngest college on this list is also one of the only ones that offers a fully project-based learning experience. The Make School Bachelor in Applied Science program takes a real-world approach to teaching both core theory and the latest advances in computer science. Students graduate in just two years, during which time they complete at least half a dozen projects and a summer internship. Make School partners with such companies as Facebook, LinkedIn, and Y Combinator. It is also unique in that it offers an income share agreement option in lieu of (or in combination with) tuition so that students can defer paying for their Bachelor's degree until they begin their careers.
+
+---
+
+_Make School is a two-year computer science college based in San Francisco that offers a Bachelor's degree in Applied Computer Science. The focus of Make School is providing product-based learning that prepares students for real-world careers in software development. Students graduate with an average salary of $95k._
+
+_Learn more about Make School's philosophy, courses, and outcomes at https://www.makeschool.com/computer-science._
