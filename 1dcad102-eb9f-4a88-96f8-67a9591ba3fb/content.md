@@ -44,3 +44,9 @@ In-house professionals such as database administrators, data scientists, data an
 Computer science has a tendency to be at the heart of all the most interesting and successful startups of the last ten years. With a creative mind and strong technical skills, the possibilities afforded by a deep knowledge of computer science are quite literally endless.
 
 Of course, skills like leadership, presentation, public speaking, and business management are an important part of the equation. So if entrepreneurship is your main goal with your computer science degree, be sure to seek out a program that focuses on a well-rounded professional education in addition to cutting-edge computer science knowledge.
+
+---
+
+_Make School is a two-year computer science college based in San Francisco that offers a Bachelor's degree in Applied Computer Science. The focus of Make School is providing product-based learning that prepares students for real-world careers in software development. Students graduate with an average salary of $95k._
+
+_Learn more about Make School's philosophy, courses, and outcomes at https://www.makeschool.com/computer-science._
