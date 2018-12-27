@@ -13,7 +13,7 @@ cover_photo_path:
 ---
 The idea of going to college for free might sound like a dream, but for many students, particularly those interested in computer science, it's a real possibility.
 
-What "Free" Really Means - Three Categories
+## What "Free" Really Means - Three Categories
 
 In most cases, "free college" isn't actually completely free. Some top universities, such as those in the Ivy League, offer free tuition to any student who is accepted below a certain income level. The idea is that anyone who gets into the school should be able to attend, regardless of finances. But free tuition usually doesn't extend to books, lodging, and living expenses. For these, many students need to find scholarships or pay their own way.
 
@@ -23,7 +23,7 @@ Other schools offer deferred tuition or an income share agreement. This means th
 
 Let's take a closer look at some of the best free colleges -- fitting into one of the above three categories -- with highly respected computer science degree programs.
 
-Top Free Colleges with Great CS Programs
+## Top Free Colleges with Great Computer Science Programs
 
 [Stanford](https://cs.stanford.edu/)
 
