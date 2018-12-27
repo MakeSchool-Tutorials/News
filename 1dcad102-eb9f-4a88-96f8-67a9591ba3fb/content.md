@@ -2,7 +2,7 @@
 title: What are Some Career Paths for a Computer Science Major?
 custom_slug: what-are-some-career-paths-for-a-computer-science-major
 category: product_college
-listed: false
+listed: true
 release_date: !ruby/object:ActiveSupport::TimeWithZone
   utc: &1 2018-12-26 00:00:00.000000000 Z
   zone: !ruby/object:ActiveSupport::TimeZone
@@ -11,13 +11,15 @@ release_date: !ruby/object:ActiveSupport::TimeWithZone
 cover_photo_path: 
 
 ---
-People who don't work within the field of computer science can sometimes have a limited idea of what someone with a CS degree can do. But the truth of the matter is that having a CS degree doesn't close any doors -- it only opens them.
+People who don't work within the field of computer science can sometimes have a limited idea of what someone with a computer science degree can do. But the truth of the matter is that having a computer science degree doesn't close any doors -- it only opens them.
 
 As our world becomes more and more digitized, computer technology continues to extend its reach into every aspect of our lives. That means that whether your interests lie in education or health, government or the arts, finance or public service; a degree in computer science can help you begin a career in that field.
 
-As the co-founder of Make School, Jeremy Rossman, is fond of pointing out, if you check out the job listings for The New York Times, you'll find a lot more open positions for coders and developers than you will for journalists.
+As founder Jeremy Rossman is fond of pointing out, if you check out the job listings for The New York Times, you'll find a lot more open positions for coders and developers than you will for journalists.
 
-Beyond the range of industries that employ people with CS degrees, another great benefit of studying CS, especially right now, is that people with strong computer science knowledge are in extremely high demand. To put that demand into [real numbers](https://thehill.com/homenews/state-watch/373527-us-economy-faces-impending-skills-gap), the Bureau of Labor Statistics estimates that the US economy is adding about 100,000 information technology jobs every year but currently only 60,000 qualified applicants are entering the workforce annually.
+![Photo by LYCS LYCS on Unsplash](https://res.cloudinary.com/makeschool/image/upload/v1545873275/Blog/cs-career-paths-body-image-1.jpg "Photo by LYCS LYCS on Unsplash")
+
+Beyond the range of industries that employ people with computer science degrees, another great benefit of studying computer science, especially right now, is that people with strong computer science knowledge are in extremely high demand. To put that demand into [real numbers](https://thehill.com/homenews/state-watch/373527-us-economy-faces-impending-skills-gap), the Bureau of Labor Statistics estimates that the US economy is adding about 100,000 information technology jobs every year but currently only 60,000 qualified applicants are entering the workforce annually.
 
 With a bachelor's degree in computer science, there are a plethora of available career paths that fall under the following big umbrellas:
 
@@ -26,6 +28,8 @@ With a bachelor's degree in computer science, there are a plethora of available 
 Many students choose to study computer science because they want to create products, apps, hardware, or software of their own. Actual job titles that fall under this umbrella include full stack web developer, programmer, app developer, and software engineer. This is a career path with a wide range of opportunities in everything from tiny startups to giant tech conglomerates. Developers can also make a great living working freelance or creating new projects on their own.
 
 Whether you're interested in creating a platform that helps companies monitor their carbon footprint or an addictive game in the vein of Candy Crush, development is a popular path with many lucrative and potentially world-changing opportunities.
+
+![Photo by rawpixel on Unsplash](https://res.cloudinary.com/makeschool/image/upload/v1545873274/Blog/cs-career-paths-body-image-2.jpg "Photo by rawpixel on Unsplash")
 
 ## Consulting
 
@@ -39,4 +43,4 @@ In-house professionals such as database administrators, data scientists, data an
 
 Computer science has a tendency to be at the heart of all the most interesting and successful startups of the last ten years. With a creative mind and strong technical skills, the possibilities afforded by a deep knowledge of computer science are quite literally endless.
 
-Of course, skills like leadership, presentation, public speaking, and business management are an important part of the equation. So if entrepreneurship is your main goal with your CS degree, be sure to seek out a program that focuses on a well-rounded professional education in addition to cutting-edge computer science knowledge.
+Of course, skills like leadership, presentation, public speaking, and business management are an important part of the equation. So if entrepreneurship is your main goal with your computer science degree, be sure to seek out a program that focuses on a well-rounded professional education in addition to cutting-edge computer science knowledge.
