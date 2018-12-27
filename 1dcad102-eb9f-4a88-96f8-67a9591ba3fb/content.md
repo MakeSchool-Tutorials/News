@@ -1,7 +1,7 @@
 ---
 title: What are Some Career Paths for a Computer Science Major?
 custom_slug: what-are-some-career-paths-for-a-computer-science-major
-category: product_college
+category: admissions
 listed: true
 release_date: !ruby/object:ActiveSupport::TimeWithZone
   utc: &1 2018-12-26 00:00:00.000000000 Z
