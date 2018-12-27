@@ -25,30 +25,30 @@ Let's take a closer look at some of the best free colleges -- fitting into one o
 
 ## Top Free Colleges with Great Computer Science Programs
 
-[Stanford](https://cs.stanford.edu/)
+**[Stanford](https://cs.stanford.edu/)**
 
 The top of the list has to be Stanford. The computer science department at Stanford is consistently ranked as one of the very best in the country, and if you are able to get into Stanford, the school's excessive endowment will make it possible for you to attend. [As of 2018](https://financialaid.stanford.edu/undergrad/how/parent.html), any student whose parents make less than $65,000 per year can attend Stanford completely free. Any student whose parents make less than $125,00 per year can attend tuition free.
 
-[Harvard](https://www.seas.harvard.edu/computer-science)
+**[Harvard](https://www.seas.harvard.edu/computer-science)**
 
 Harvard's computer science program has been ranked as the fourth best in the world by [The Best Schools](https://thebestschools.org/features/best-computer-science-programs-in-the-world/). Harvard's name obviously speaks for itself (maybe a bit too loudly). Another school with an exceptional endowment, every student who gets in can expect to attend. Free tuition is available to low-income students.
 
-[Princeton](https://www.cs.princeton.edu/)
+**[Princeton](https://www.cs.princeton.edu/)**
 
 Are you starting to see a trend? Princeton's computer science program comes in fifth on [The Best Schools](https://thebestschools.org/features/best-computer-science-programs-in-the-world/) list. Evidently, 80% of all Princeton students graduate completely debt free.
 
-[MIT](https://www.eecs.mit.edu/)
+**[MIT](https://www.eecs.mit.edu/)**
 
 The Massachusetts Institute of Technology is many a prospective-CS-major's dream. With an acceptance rate of just 8%, it's one of the most selective school's on the list, but with a 3:1 student to faculty ratio and free tuition for any student with family income under $90,000, it's certainly deserving of a spot on this list.
 
-[United States Air Force Academy](https://www.usafa.edu/academic/computer-science/)
+**[United States Air Force Academy](https://www.usafa.edu/academic/computer-science/)**
 
 If military service is of interest of you, the general consensus seems to be that the Air Force has the most opportunities for students interested in computer science, with the Naval Academy taking a close second place. With either school, you will need to meet both physical and intellectual requirements and agree to a set term of military service once your degree is complete.
 
-[Purdue University](https://www.cs.purdue.edu/)
+**[Purdue University](https://www.cs.purdue.edu/)**
 
 Purdue was one of the first major US schools to offer an income share agreement (ISA) option, meaning that students could choose to pay a portion of their income to the school after graduating instead of paying tuition. The CS program at Purdue is well respected and growing.
 
-[Make School](https://www.makeschool.com/computer-science)
+**[Make School](https://www.makeschool.com/computer-science)**
 
 The youngest school on the list is also the most cutting-edge in terms of its approach to computer science education. At Make School, students are treated like junior developers for the duration of their two-year bachelor's program and expected to complete at least half a dozen CS projects of their own design. Students retain full rights to their work and have opportunities to meet with, learn from, and in many cases intern for top tech execs in and around Silicon Valley. In addition, students at Make School can defer the costs of tuition, room and board, and living expenses with a capped income share agreement.
