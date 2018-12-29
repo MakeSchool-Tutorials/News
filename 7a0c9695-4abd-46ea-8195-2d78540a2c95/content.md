@@ -1,7 +1,7 @@
 ---
 title: 'Your Questions Answered: Make School''s Preview Weekend'
 custom_slug: preview-weekend-recap-part-1
-category: product_college
+category: admissions
 listed: true
 release_date: !ruby/object:ActiveSupport::TimeWithZone
   utc: &1 2018-06-28 00:00:00.000000000 Z
@@ -23,11 +23,11 @@ _The Instructors: Adam Braus (Product Development, Web Development), Dan Morse (
 
 __Alan__: At Make School, we want to make you a success, and that requires a foundation in one of two things: either mobile development or web development. In addition to that, you can build a lot of other things. You can do Data Science as a kind of minor, for example, but you'll be incorporating Data Science into either mobile or web applications that you build. Entrepreneurship is also an add on -- a sort of minor -- here at Make School.
 
-## How do I decide whether Make School or a university is better for me?
+## How do I decide whether Make School or a traditional university is better for me?
 
-__Alan__: It depends on your goals. We've had two or three students out of more than a hundred come in and realize that Make School is not right for them, and we then help them go back into a university. In particular, I'm thinking of a student who I helped get an internship at NASA, and he realized at the internship that he wanted to do research in AI and computer science at a deep level, and a university was the right place for him, so we helped him go back.
+__Alan__: It depends on your goals. We've had two or three students out of more than a hundred come in and realize that Make School is not right for them, and we then help them go back into a traditional university. In particular, I'm thinking of a student who I helped get an internship at NASA, and he realized at the internship that he wanted to do research in AI and computer science at a deep level, and a traditional university was the right place for him, so we helped him go back.
 
-So, the way to think about it is, what are your goals? If you want to be a researcher and publish things, probably a university is the right place for you. But if you want to build applications, work in industry, and actually provide value to users, Make School is a much better place for you, in my opinion.
+So, the way to think about it is, what are your goals? If you want to be a researcher and publish things, probably a traditional university is the right place for you. But if you want to build applications, work in industry, and actually provide value to users, Make School is a much better place for you, in my opinion.
 
 ## If I'm not positive I want to go into tech, should I still consider Make School?
 
