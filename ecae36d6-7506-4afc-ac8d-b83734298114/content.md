@@ -2,9 +2,9 @@
 title: Free Colleges with Strong Computer Science Programs
 custom_slug: free-colleges-with-strong-computer-science-programs
 category: admissions
-listed: false
+listed: true
 release_date: !ruby/object:ActiveSupport::TimeWithZone
-  utc: &1 2018-12-26 00:00:00.000000000 Z
+  utc: &1 2019-01-03 00:00:00.000000000 Z
   zone: !ruby/object:ActiveSupport::TimeZone
     name: Etc/UTC
   time: *1
@@ -20,6 +20,8 @@ In most cases, "free college" isn't actually completely free. Some top universit
 America's top military academies are also free -- you can attend, get all of your supplies, and live on campuses for free. But getting into these schools, like the Ivy League, isn't exactly easy, and you will need to sign a contract of military service that usually extends about seven years past your graduation. During that time you'll have a well-paid and respected military job, but you won't be able to separate from the military until your time is served.
 
 Other schools offer deferred tuition or an income share agreement. This means that the schools are free to attend and then, once you graduate, you'll pay for your education out of your income. This choice is becoming increasingly popular amongst majors that lead to high paying careers, because the schools have every incentive to help the students find great jobs when they graduate, and students avoid the serious burden of student loan debt.
+
+![Photo by Sylvia Yang on Unsplash](https://res.cloudinary.com/makeschool/image/upload/v1547505815/Blog/free-cs-programs-body-1-sylvia-yang-unsplash.jpg "Photo by Sylvia Yang on Unsplash")
 
 Let's take a closer look at some of the best free colleges -- fitting into one of the above three categories -- with highly respected computer science degree programs.
 
@@ -41,6 +43,8 @@ Are you starting to see a trend? Princeton's computer science program comes in f
 
 The Massachusetts Institute of Technology is many a prospective-CS-major's dream. With an acceptance rate of just 8%, it's one of the most selective school's on the list, but with a 3:1 student to faculty ratio and free tuition for any student with family income under $90,000, it's certainly deserving of a spot on this list.
 
+![Photo by Mimi Thian on Unsplash](https://res.cloudinary.com/makeschool/image/upload/v1547505814/Blog/free-cs-programs-body-2-mimi-thian-unsplash.jpg "Photo by Mimi Thian on Unsplash")
+
 **[United States Air Force Academy](https://www.usafa.edu/academic/computer-science/)**
 
 If military service is of interest of you, the general consensus seems to be that the Air Force has the most opportunities for students interested in computer science, with the Naval Academy taking a close second place. With either school, you will need to meet both physical and intellectual requirements and agree to a set term of military service once your degree is complete.
@@ -52,3 +56,9 @@ Purdue was one of the first major US schools to offer an income share agreement 
 **[Make School](https://www.makeschool.com/computer-science)**
 
 The youngest school on the list is also the most cutting-edge in terms of its approach to computer science education. At Make School, students are treated like junior developers for the duration of their two-year bachelor's program and expected to complete at least half a dozen CS projects of their own design. Students retain full rights to their work and have opportunities to meet with, learn from, and in many cases intern for top tech execs in and around Silicon Valley. In addition, students at Make School can defer the costs of tuition, room and board, and living expenses with a capped income share agreement.
+
+---
+
+_Make School is a two-year computer science college based in San Francisco that offers a Bachelor's degree in Applied Computer Science. The focus of Make School is providing product-based learning that prepares students for real-world careers in software development. Students graduate with an average salary of $95k._
+
+_Learn more about Make School's philosophy, courses, and outcomes at https://www.makeschool.com/computer-science._
