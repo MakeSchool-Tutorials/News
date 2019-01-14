@@ -11,6 +11,10 @@ release_date: !ruby/object:ActiveSupport::TimeWithZone
 cover_photo_path: 
 
 ---
+_by Make School Instructor and Curriculum Designer Adam Braus_
+
+---
+
 Student burn-out is the worst. And at [Make School](http://makeschool.com), it can be the worst for pretty much everyone involved. Most colleges will obviously say they don't want their students to burn out, but at Make School the problem is more urgent.
 
 Student burn-out matters to us so much because we pay our students' tuition for them with the promise that they will share 20% of their future income with us for a few years after graduation. If they burn out, how likely are they going to become successful? Ultimately student burn-out hurts not just our students, but Make School as well in a very real way.
