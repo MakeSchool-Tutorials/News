@@ -11,6 +11,10 @@ release_date: !ruby/object:ActiveSupport::TimeWithZone
 cover_photo_path: 
 
 ---
+_by Make School Writer Angela Bourassa_
+
+---
+
 People who don't work within the field of computer science can sometimes have a limited idea of what someone with a computer science degree can do. But the truth of the matter is that having a computer science degree doesn't close any doors -- it only opens them.
 
 As our world becomes more and more digitized, computer technology continues to extend its reach into every aspect of our lives. That means that whether your interests lie in education or health, government or the arts, finance or public service; a degree in computer science can help you begin a career in that field.
