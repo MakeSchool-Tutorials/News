@@ -11,6 +11,10 @@ release_date: !ruby/object:ActiveSupport::TimeWithZone
 cover_photo_path: 
 
 ---
+_by Make School Writer Angela Bourassa_
+
+---
+
 The idea of going to college for free might sound like a dream, but for many students, particularly those interested in computer science, it's a real possibility.
 
 ## What "Free" Really Means - Three Categories
