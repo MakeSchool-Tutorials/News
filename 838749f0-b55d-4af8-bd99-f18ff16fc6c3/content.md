@@ -11,6 +11,10 @@ release_date: !ruby/object:ActiveSupport::TimeWithZone
 cover_photo_path: 
 
 ---
+_by Make School Content Manager Komal Desai_
+
+---
+
 Want to be a successful software engineer someday? Learning programming won't get you there. Engineers who are successful in any company big or small are first and foremost product developers. They understand products and the people that use them; pain points and preferred solutions. So how do you start learning to build products? Through a combination of a logical identification of the problems in the industry you're building a solution for, research about the current landscape, and an analysis of your potential users. All this happens even before your first wireframe.
 
 -   Industry Selection -- what problem did you select and why? Hypothesis on solutions? Skepticisms? Curiosities? Questions?
