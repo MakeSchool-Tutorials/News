@@ -1,7 +1,7 @@
 ---
 title: Fox Business Features Make School and Founder Jeremy Rossmann
 custom_slug: fox-business-features-make-school-and-founder-jeremy-rossmann
-category: product_college
+category: news
 listed: true
 release_date: !ruby/object:ActiveSupport::TimeWithZone
   utc: &1 2019-01-18 00:00:00.000000000 Z
