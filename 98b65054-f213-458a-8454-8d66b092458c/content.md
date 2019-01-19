@@ -1,6 +1,6 @@
 ---
-title: Fox Business Features Make School and Founder Jeremy Rossmann
-custom_slug: fox-business-features-make-school-and-founder-jeremy-rossmann
+title: Fox Business Features Founder Jeremy Rossmann in Make School Segment
+custom_slug: fox-business-features-founder-jeremy-rossmann-in-make-school-segment
 category: news
 listed: true
 release_date: !ruby/object:ActiveSupport::TimeWithZone
