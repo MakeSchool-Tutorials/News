@@ -29,7 +29,7 @@ During her time at the Make School, Leslie had the unique opportunity to work on
 
 Another real-world problem that Leslie actively dedicates her time to is the lack of diversity in the tech world. While Make School has made gains in increasing the diversity of its students - a third of the current class comes from underrepresented backgrounds in tech, greater than the industry average - getting to that point has been a process. And the goal of reaching gender parity is still one that Make School is trying to meet.
 
-“I was one of a handful of female students at the beginning of my year, and by the end of the first semester, I was the only female student left,” Leslie recalled. “When I started interviewing for my summer internship, the only females I spoke to throughout the interview process were at an all-female startup and at Lever.” Leslie ended up taking an internship at Lever, where diversity and inclusion are a big part of the company culture. 
+“I was one of a handful of female students at the beginning of my year, and by the end of the first semester, I was the only female student left,” Leslie recalled. “When I started interviewing for my summer internship, the only women I spoke to throughout the interview process were at an all-female startup and at Lever.” Leslie ended up taking an internship at Lever, where diversity and inclusion are a big part of the company culture. 
 
 Leslie went on, “Even though I was no stranger to being the only woman in a room, the level of sexism, discrimination, and unprofessionalism I experienced during my interviews shocked me. It didn't feel great, and it's not easy to discuss those sorts of issues with male classmates.”
 
