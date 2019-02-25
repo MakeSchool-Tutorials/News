@@ -33,15 +33,19 @@ RIT's computer science major places an emphasis on theory and fundamentals, but 
 
 The UW-Madison has the distinction of being home to the oldest computer science department in the country. While this is a traditional degree program, students here have opportunities to participate in faculty and student projects through programs like the Undergraduate Projects Lab.
 
+[Make School](https://www.makeschool.com/computer-science)
+
+The youngest college on this list is also one of the only ones to offer a fully project-based learning experience. The Make School Bachelor in Applied Science program takes a real-world approach to teaching - both core theory and the latest advances in computer science. Students graduate in just two years, during which time they complete at least half a dozen projects and a summer internship. Make School partners with such companies as Facebook, LinkedIn, and Y Combinator. It is also unique in that it offers an income share agreement option in lieu of (or in combination with) tuition so that students can defer paying for their Bachelor's degree until they begin their careers.
+
 [Carnegie Mellon](https://www.cs.cmu.edu/undergraduate-programs)
 
 One of the few colleges on this list that can claim to offer a truly project-based curriculum, Carnegie Mellon is unique in that it requires computer science students to minor in a different subject. The focus is on not just experiential learning, but also a well-rounded education. Courses include such listings as Green Computing and Experimental Animation. Students here are also encouraged to study abroad and/or take internships.
 
+![Photo by Caleb Minear on Unsplash](https://res.cloudinary.com/makeschool/image/upload/v1545358242/Blog/body-image-2-top-colleges-with-cs-programs.jpg "Photo by Caleb Minear on Unsplash")
+
 [Dartmouth College](https://web.cs.dartmouth.edu/undergraduate)
 
 Another traditional degree program, the Dartmouth Department of Computer Science nevertheless prides itself on helping students innovate and create. This Ivy League program offers an optional honors track and a combined bachelor's/master's degree five-year track.
-
-![Photo by Caleb Minear on Unsplash](https://res.cloudinary.com/makeschool/image/upload/v1545358242/Blog/body-image-2-top-colleges-with-cs-programs.jpg "Photo by Caleb Minear on Unsplash")
 
 [Stanford](https://cs.stanford.edu/)
 
@@ -49,15 +53,11 @@ For students interested in careers in research, you really can't do better than 
 
 [Virginia Polytechnic Institute](http://www.cs.vt.edu/)
 
-Virginia Tech is yet another school that offers traditional coursework, but supplemented by a focus on industry partnerships. Current industry partners include Google, IBM, and Microsoft.
+Virginia Tech is yet another school that offers traditional coursework supplemented by a focus on industry partnerships. Current industry partners include Google, IBM, and Microsoft.
 
 [California Institute of Technology](http://cms.caltech.edu/academics/ugrad_cs)
 
 Right alongside Stanford, Caltech is another wonderful school for those students interested in research-based careers. Students here can participate in research relating to robotics, machine learning, graphics, and more.
-
-[Make School](https://www.makeschool.com/computer-science)
-
-The youngest college on this list is also one of the only ones that offers a fully project-based learning experience. The Make School Bachelor in Applied Science program takes a real-world approach to teaching - both core theory and the latest advances in computer science. Students graduate in just two years, during which time they complete at least half a dozen projects and a summer internship. Make School partners with such companies as Facebook, LinkedIn, and Y Combinator. It is also unique in that it offers an income share agreement option in lieu of (or in combination with) tuition so that students can defer paying for their Bachelor's degree until they begin their careers.
 
 ---
 
