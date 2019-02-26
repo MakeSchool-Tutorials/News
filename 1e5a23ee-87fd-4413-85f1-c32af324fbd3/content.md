@@ -2,7 +2,7 @@
 title: 4 Tips for Making Friends in College
 custom_slug: 4-tips-for-making-friends-in-college
 category: product_college
-listed: false
+listed: true
 release_date: !ruby/object:ActiveSupport::TimeWithZone
   utc: &1 2019-02-26 00:00:00.000000000 Z
   zone: !ruby/object:ActiveSupport::TimeZone
@@ -49,7 +49,7 @@ Now imagine you say hello and find out that the person went to the same movie as
 
 Either you build a relationship, or you don't. Only good things can happen!
 
-## 2. People want to be your friend.
+### 2. People want to be your friend.
 
 You're a really cool person. There's something about you that is unique and weird and awesome, and the other people at your school want to get to know what that is. Because everyone else is in the same boat as you -- they all want to make friends.
 
