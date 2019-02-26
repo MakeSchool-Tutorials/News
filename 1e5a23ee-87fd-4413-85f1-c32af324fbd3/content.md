@@ -35,6 +35,8 @@ Once you're at your chosen school, the advice is pretty straight-forward: Get ou
 
 You've probably already heard the standard advice of keeping your dorm room door open, spending time in common areas, going to all the freshman meetups, and joining clubs. I won't repeat all of that (at least not any more than I already have). Instead, I'll give you advice to help make all of those steps easier to do, especially if you're not a social butterfly by nature.
 
+![Community photo by Omar Lopez on Unsplash](https://res.cloudinary.com/makeschool/image/upload/v1551218251/Blog/community-body-1-modified-omar-lopez-742113-unsplash.jpg "Community photo by Omar Lopez on Unsplash")
+
 ### 1. Only good things can happen.
 
 This is a mantra that you should repeat to yourself any time you ask a new person to join you for lunch or say hello to the person sitting next to you in class. Only good things can happen. It's true.
@@ -54,6 +56,8 @@ Either you build a relationship, or you don't. Only good things can happen!
 You're a really cool person. There's something about you that is unique and weird and awesome, and the other people at your school want to get to know what that is. Because everyone else is in the same boat as you -- they all want to make friends.
 
 If you're the person with the guts to go up and say hello, nine times out of ten that person will be grateful and excited that you did. And that tenth time, when you happen to pick a real dud -- again -- nothing bad will happen. Just walk away and try again.
+
+![Community photo by rawpixel on Unsplash](https://res.cloudinary.com/makeschool/image/upload/v1551218251/Blog/community-body-2-modified-rawpixel-788597-unsplash.jpg "Community photo by rawpixel on Unsplash")
 
 ### 3. Find a partner in crime.
 
