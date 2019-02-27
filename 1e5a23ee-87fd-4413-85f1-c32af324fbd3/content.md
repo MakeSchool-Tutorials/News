@@ -1,7 +1,7 @@
 ---
 title: 4 Tips for Making Friends in College
 custom_slug: 4-tips-for-making-friends-in-college
-category: product_college
+category: admissions
 listed: true
 release_date: !ruby/object:ActiveSupport::TimeWithZone
   utc: &1 2019-02-26 00:00:00.000000000 Z
