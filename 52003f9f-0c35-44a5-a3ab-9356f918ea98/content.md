@@ -17,7 +17,7 @@ Tia started at [Make School](https://www.makeschool.com/?utm_source=medium&utm_m
 
 Looking back at the difficulties she faced in her old college classes, Tia realizes, "The classes I didn't do well in were all theoretical. We were working in textbooks and doing problems in textbooks, and when you're learning tech, if you're learning from a textbook it's already outdated, because everything moves so fast." She continues, "In one of those classes we were learning Python, and even though that's one of the easiest coding languages to learn, I just could not understand the code without the application. That was the underlying issue."
 
-The thing that Tia says she enjoys the most about the Make School environment is the freedom. "Make School provides any and all resources that they can to enable the students to do almost anything. You have to show the initiative and you have to put in the effort, but as long as you do that, they're willing to go above and beyond to make sure that you're able to achieve your goals. Combining that with the fact that it's project-based learning -- so I can work on whatever I want to work on -- has been a very freeing experience."
+The thing that Tia says she enjoys the most about the Make School environment is the freedom. "Make School provides any and all resources that they can to enable the students to do almost anything. You have to show the initiative and you have to put in the effort, but as long as you do that, they're willing to go above and beyond to make sure that you're able to achieve your goals. Combining that with the fact that its project-based learning -- so I can work on whatever I want to work on -- has been a very freeing experience."
 
 ![Page Planner Screenshot] (https://res.cloudinary.com/makeschool/image/upload/v1537562677/Blog/tia-king-project.png "Page Planner screenshot")
 
@@ -37,8 +37,9 @@ Tia notes, "It's a huge project that just keeps getting bigger as I uncover more
 
 Clearly, Tia is someone who loves to learn and grow, and she found an environment that she thrives in at Make School. "Because of the mixture of how I ended up at Make School and the ideology that Make School has, I've learned that sometimes what works for me doesn't work for the majority, and I need to be really in tune with myself and what I want in order to do the things that make the most sense for me."
 
-Tia goes on, "Between the coaching and the classes and talking with Jeremy (Co-founder at Make School) -- because Jeremy always makes time to talk with the students -- it's all encouraged me to live my own truth, whether personally or in my career, and that has given me a confidence boost as I go out into the world as a black woman in tech, you know? I'm going to be able to do the things that I want -- that's a given -- but the way I want to get there is all up to me."\
-To learn more about Tia and to follow her projects, follow her on [her website](https://www.makeschool.com/portfolio/TJ-King?utm_source=medium&utm_medium=referral&utm_campaign=medium-student-spotlight-tia-king&utm_content=).
+Tia goes on, "Between the coaching and the classes and talking with Jeremy (Co-founder at Make School) -- because Jeremy always makes time to talk with the students -- it's all encouraged me to live my own truth, whether personally or in my career, and that has given me a confidence boost as I go out into the world as a black woman in tech, you know? I'm going to be able to do the things that I want -- that's a given -- but the way I want to get there is all up to me."
+
+In the past year, Tia has joined the team at Uber. To learn more about her work, follow Tia on [her website](https://www.makeschool.com/portfolio/TJ-King?utm_source=medium&utm_medium=referral&utm_campaign=medium-student-spotlight-tia-king&utm_content=).
 
 * * * * *
 
