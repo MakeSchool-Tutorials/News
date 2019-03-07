@@ -1,7 +1,7 @@
 ---
 title: Should I Study Computer Science or Computer Engineering in College?
 custom_slug: should-i-study-computer-science-or-computer-engineering-in-college
-category: product_college
+category: admissions
 listed: true
 release_date: !ruby/object:ActiveSupport::TimeWithZone
   utc: &1 2019-03-06 00:00:00.000000000 Z
