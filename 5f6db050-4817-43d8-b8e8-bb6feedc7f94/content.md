@@ -2,7 +2,7 @@
 title: Should I Study Computer Science or Computer Engineering in College?
 custom_slug: should-i-study-computer-science-or-computer-engineering-in-college
 category: product_college
-listed: true
+listed: false
 release_date: !ruby/object:ActiveSupport::TimeWithZone
   utc: &1 2019-03-06 00:00:00.000000000 Z
   zone: !ruby/object:ActiveSupport::TimeZone
@@ -34,6 +34,7 @@ It's not quite as simple as "software v. hardware," but that can be a helpful wa
 The easiest way to choose between a computer science degree and a computer engineering degree is to consider what you want to do with your degree when you graduate. If you want to design the next great supercomputer or a robot that could be used by NASA, then computer engineering is your field. If you want to design apps, operating systems, or algorithms that will revolutionize the way the world works, you're probably better served by a computer science degree.
 
 Here are some possible job titles for computer engineering students:
+
 -   systems engineer
 -   hardware engineer
 -   network engineer
@@ -47,6 +48,7 @@ Here are some possible job titles for computer engineering students:
 -   sustainability engineer
 
 And here are some common job titles held by people who study computer science:
+
 -   programmer
 -   computer scientist
 -   software designer
