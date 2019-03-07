@@ -17,7 +17,7 @@ _by Angela Bourassa_
 
 By studying either computer science or computer engineering, you can enjoy excellent job prospects, a great starting salary, and the potential to make significant strides in the field of technology. The two areas of study have a lot of overlap, so when the time comes to choose which track you want to follow, how should you decide?
 
-Understanding Your Options
+## Understanding Your Options
 
 Let's start with some basic definitions.
 
@@ -29,7 +29,7 @@ Like computer scientists, computer engineers can design for either business user
 
 It's not quite as simple as "software v. hardware," but that can be a helpful way to remember the core differences between computer science and computer engineering.
 
-Choosing Between Computer Science and Computer Engineering
+## Choosing Between Computer Science and Computer Engineering
 
 The easiest way to choose between a computer science degree and a computer engineering degree is to consider what you want to do with your degree when you graduate. If you want to design the next great supercomputer or a robot that could be used by NASA, then computer engineering is your field. If you want to design apps or operating systems that will make people's lives better, you're probably better served by a computer science degree.
 
@@ -77,10 +77,16 @@ And here are some common job titles held by people who study computer science:
 
 -   mobile app developer
 
-What If I'm Not Sure What I Want to Do?
+## What If I'm Not Sure What I Want to Do?
 
 As previously mentioned, there is a lot of overlap between these two fields. Any good computer science program will also teach students some fundamental computer engineering, and any good computer engineering program will teach its students about programming. The distinction is a matter of focus. Whereas a computer engineer might spend the majority of their program focusing on the hardware aspects of computing, a computer science student will spend that time learning to develop their own software solutions and apps.
 
 In terms of demand and salary, the prospects are very similar for both fields, so such considerations should have no impact on your decision.
 
 What matters most is that you find a program that lets you explore your interests and walk away with the skills and knowledge you need to jump into a rewarding and fulfilling career.
+
+---
+
+_Make School is a two-year computer science college based in San Francisco that offers a Bachelor's degree in Applied Computer Science. The focus of Make School is providing product-based learning that prepares students for real-world careers in software development. Students graduate with an average salary of $95k._
+
+_Learn more about Make School's philosophy, courses, and outcomes at https://www.makeschool.com/computer-science._
