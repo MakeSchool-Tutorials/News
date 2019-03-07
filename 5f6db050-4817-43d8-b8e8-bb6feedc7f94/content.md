@@ -2,7 +2,7 @@
 title: Should I Study Computer Science or Computer Engineering in College?
 custom_slug: should-i-study-computer-science-or-computer-engineering-in-college
 category: product_college
-listed: false
+listed: true
 release_date: !ruby/object:ActiveSupport::TimeWithZone
   utc: &1 2019-03-06 00:00:00.000000000 Z
   zone: !ruby/object:ActiveSupport::TimeZone
@@ -28,6 +28,8 @@ Computer engineering majors bring computer science and electrical engineering to
 Like computer scientists, computer engineers can design for either business users or commercial users. A computer engineer might design a new microprocessor or a new supercomputer, and a computer scientist would design the operating systems for both.
 
 It's not quite as simple as "software v. hardware," but that can be a helpful way to remember the core differences between computer science and computer engineering.
+
+![Photo by rawpixel on Unsplash](https://res.cloudinary.com/makeschool/image/upload/v1551922624/Blog/cs-vs-ce-body-1-modified-rawpixel-714365-unsplash.jpg "Photo by rawpixel on Unsplash")
 
 ## Choosing Between Computer Science and Computer Engineering
 
@@ -59,6 +61,8 @@ And here are some common job titles held by people who study computer science:
 -   web designer
 -   UI/UX designer
 -   mobile app developer
+
+![Photo by Trust "Tru" Katsande on Unsplash](https://res.cloudinary.com/makeschool/image/upload/v1551922610/Blog/cs-vs-ce-body-2-modified-trust-tru-katsande-599008-unsplash.jpg "Photo by Trust "Tru" Katsande on Unsplash")
 
 ## What If I'm Not Sure What I Want to Do?
 
