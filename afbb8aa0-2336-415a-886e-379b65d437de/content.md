@@ -2,7 +2,7 @@
 title: Here's Why You Should Be Hiring Diverse Talent
 custom_slug: heres-why-you-should-be-hiring-diverse-talent
 category: product_college
-listed: true
+listed: false
 release_date: !ruby/object:ActiveSupport::TimeWithZone
   utc: &1 2019-03-20 00:00:00.000000000 Z
   zone: !ruby/object:ActiveSupport::TimeZone
@@ -43,10 +43,10 @@ On the whole, the tech industry still has [a long way to go](https://www.techrep
 
 If your growing tech company or tiny startup is looking for the best talent -- talent with diverse experiences, ideas, values, and passions -- we invite you to attend the upcoming Make School [Demo Night](https://www.eventbrite.com/e/make-school-demo-night-tickets-55384763318) on Tuesday, March 26, in San Francisco. At Demo Night, you will have the opportunity to meet Make School students and see an array of projects that showcase their creativity, drive, collaborative spirit, and ambition. The presented projects have been built by students using iOS, React, Node.js, Python, Go, and various Data Science tools and methodologies.
 
-                                     Make School Demo Night
-                            Tuesday, March 26th, 2019; 6pm-9pm
-                                 555 Post Street, San Francisco
-                                      [Learn more and RSVP](https://www.eventbrite.com/e/make-school-demo-night-tickets-55384763318)
+### Make School Demo Night
+### Tuesday, March 26th, 2019; 6pm-9pm
+### 555 Post Street, San Francisco
+### [Learn more and RSVP](https://www.eventbrite.com/e/make-school-demo-night-tickets-55384763318)
 
 We look forward to seeing you at Demo Night and introducing you to the array of unique and talented young developers here at Make School.
 
