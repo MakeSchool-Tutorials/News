@@ -1,8 +1,8 @@
 ---
 title: Here's Why You Should Be Hiring Diverse Talent
 custom_slug: heres-why-you-should-be-hiring-diverse-talent
-category: product_college
-listed: false
+category: news
+listed: true
 release_date: !ruby/object:ActiveSupport::TimeWithZone
   utc: &1 2019-03-20 00:00:00.000000000 Z
   zone: !ruby/object:ActiveSupport::TimeZone
@@ -11,6 +11,10 @@ release_date: !ruby/object:ActiveSupport::TimeWithZone
 cover_photo_path: 
 
 ---
+_by Angela Bourassa_
+
+---
+
 We are at an interesting point in our country's history; a point where women, people of color, people with disabilities, and the LGBTQ+ community are getting a real platform for the first time. In the workforce, executives and boards are starting to not just accept but embrace the principle that hiring diverse talent creates greater success at every level -- including the bottom line.
 
 Companies that make a conscious effort to seek out diverse talent don't always have an easy task ahead of them. The tried-and-true method of hiring top grads from top schools sounds appealing, but when those grads come from the same privileged backgrounds and all had the same academic experience and share the same basic interests and career goals and have the same cultural touchstones, that homogeneity will ultimately lead to stagnation.
