@@ -17,7 +17,7 @@ Companies that make a conscious effort to seek out diverse talent don't always h
 
 When different viewpoints, life experiences, interests, and passions are brought into the mix, the conversation shifts. People learn from one another. Doors are opened. Creativity blossoms. Productivity soars. And toxic workplace behaviors -- such as discrimination and sexual harassment -- decrease.
 
-Consider the facts:
+**Consider the facts:**
 
 -   [Research](https://www.wonolo.com/blog/6-benefits-of-having-a-diverse-workforce/) out of the Harvard Business Review shows that workplace cultures that promote diversity help everyone -- not just "diverse" employees -- feel more included, which contributes to a 60% improvement in decision-making.
 
