@@ -11,7 +11,7 @@ release_date: !ruby/object:ActiveSupport::TimeWithZone
 cover_photo_path: 
 
 ---
-# From Top Computer Science Programs to Tiny Liberal Arts Colleges, These Factors Will Help You Find Your Ideal School
+## From Top Computer Science Programs to Tiny Liberal Arts Colleges, These Factors Will Help You Find Your Ideal School
 
 _by Angela Bourassa_
 
