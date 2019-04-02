@@ -43,18 +43,11 @@ On the whole, the tech industry still has [a long way to go](https://www.techrep
 
 > **And another found that diversity initiatives could net the tech industry an additional $400 billion per year.**
 
-## Meet Your Next Great Hire at Demo Night
+## Meet Your Next Great Hire at Make School
 
-If your growing tech company or tiny startup is looking for the best talent -- talent with diverse experiences, ideas, values, and passions -- we invite you to attend the upcoming Make School [Demo Night](https://www.eventbrite.com/e/make-school-demo-night-tickets-55384763318) on Tuesday, March 26, in San Francisco. At Demo Night, you will have the opportunity to meet Make School students and see an array of projects that showcase their creativity, drive, collaborative spirit, and ambition. The presented projects have been built by students using iOS, React, Node.js, Python, Go, and various Data Science tools and methodologies.
+If your growing tech company or tiny startup is looking for the best talent -- talent with diverse experiences, ideas, values, and passions -- we invite you to connect with us at hello@makeschool.com.
 
-<dl>
-<dd><b>Make School Demo Night</b></dd>
-<dd><b>Tuesday, March 26th, 2019; 6pm-9pm</b></dd>
-<dd><b>555 Post Street, San Francisco</b></dd>
-<dd><b><a href="https://www.eventbrite.com/e/make-school-demo-night-tickets-55384763318">Learn more and RSVP</a href></b></dd>
-</dl>
-
-We look forward to seeing you at Demo Night and introducing you to the array of unique and talented young developers here at Make School.
+We look forward to introducing you to the array of unique and talented young developers here at Make School.
 
 ---
 
