@@ -45,7 +45,7 @@ On the whole, the tech industry still has [a long way to go](https://www.techrep
 
 ## Meet Your Next Great Hire at Make School
 
-If your growing tech company or tiny startup is looking for the best talent -- talent with diverse experiences, ideas, values, and passions -- we invite you to connect with us at hello@makeschool.com.
+If your growing tech company or tiny startup is looking for the best talent -- talent with diverse experiences, ideas, values, and passions -- we invite you to connect with us at jeff@makeschool.com.
 
 We look forward to introducing you to the array of unique and talented young developers here at Make School.
 
