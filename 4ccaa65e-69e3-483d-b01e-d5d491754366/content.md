@@ -1,7 +1,7 @@
 ---
 title: Your Professors and Instructors in College Matter
-custom_slug: why-your-professors-and-instructors-in-college-matter
-category: product_college
+custom_slug: your-professors-and-instructors-in-college-matter
+category: admissions
 listed: true
 release_date: !ruby/object:ActiveSupport::TimeWithZone
   utc: &1 2019-04-17 00:00:00.000000000 Z
@@ -49,6 +49,6 @@ In short, do whatever it takes to ensure that your chosen program will provide y
 
 ---
 
-Make School is a two-year computer science college based in San Francisco that offers a Bachelor's degree in Applied Computer Science. The focus of Make School is providing product-based learning that prepares students for real-world careers in software development. Students graduate with an average salary of $95k.
+_Make School is a two-year computer science college based in San Francisco that offers a Bachelor's degree in Applied Computer Science. The focus of Make School is providing product-based learning that prepares students for real-world careers in software development. Students graduate with an average salary of $95k.
 
-Learn more about Make School's philosophy, courses, and outcomes at https://www.makeschool.com/computer-science.
+Learn more about Make School's philosophy, courses, and outcomes at https://www.makeschool.com/computer-science._
