@@ -67,4 +67,4 @@ Where you go to school is about your education, the start of your adult life, an
 
 _Make School is a two-year computer science college based in San Francisco that offers a Bachelor's degree in Applied Computer Science. The focus of Make School is providing product-based learning that prepares students for real-world careers in software development. Students graduate with an average salary of $95k._
 
-_Learn more about Make School's philosophy, courses, and outcomes at https://www.makeschool.com/computer-science._
+_Learn more about Make School's philosophy, courses, and outcomes at https://www.makeschool.com/computer-science-degree._
