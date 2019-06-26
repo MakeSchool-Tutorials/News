@@ -29,7 +29,7 @@ Like computer scientists, computer engineers can design for either business user
 
 It's not quite as simple as "software v. hardware," but that can be a helpful way to remember the core differences between computer science and computer engineering.
 
-![Women in Tech, woman programming on laptop - Photo by rawpixel on Unsplash](https://res.cloudinary.com/makeschool/image/upload/t_fit_780_520/v1551922624/Blog/cs-vs-ce-body-1-modified-rawpixel-714365-unsplash.jpg "Photo by rawpixel on Unsplash")
+![Women in Tech, woman programming on laptop - Photo by rawpixel on Unsplash](https://res.cloudinary.com/makeschool/image/upload/t_fit_780_520/v1551922624/Blog/cs-vs-ce-body-1-modified-rawpixel-714365-unsplash-opt.jpg "Photo by rawpixel on Unsplash")
 
 ## Choosing Between Computer Science and Computer Engineering
 
@@ -62,7 +62,7 @@ And here are some common job titles held by people who study computer science:
 -   UI/UX designer
 -   mobile app developer
 
-![Diversity in Tech, man programming on laptop - Photo by Trust "Tru" Katsande on Unsplash](https://res.cloudinary.com/makeschool/image/upload/t_fit_780_520/v1551922610/Blog/cs-vs-ce-body-2-modified-trust-tru-katsande-599008-unsplash.jpg "Photo by Trust "Tru" Katsande on Unsplash")
+![Diversity in Tech, man programming on laptop - Photo by Trust "Tru" Katsande on Unsplash](https://res.cloudinary.com/makeschool/image/upload/t_fit_780_520/v1551922610/Blog/cs-vs-ce-body-2-modified-trust-tru-katsande-599008-unsplash-opt.jpg "Photo by Trust "Tru" Katsande on Unsplash")
 
 ## What If I'm Not Sure What I Want to Do?
 
