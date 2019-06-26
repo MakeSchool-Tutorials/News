@@ -33,7 +33,7 @@ If you have a few different things you might want to do, you can make a list of 
 
 And if you have absolutely no idea what you want to do, that's ok, too. Not being sure about your future is helpful, because it helps you limit your search to schools that aren't overly specialized and offer a lot of great departments to choose from.
 
-![Photo by Element5 Digital on Unsplash](https://res.cloudinary.com/makeschool/image/upload/v1554161384/Blog/how-to-choose-college-body-2-modified-element5-digital-352046-unsplash.jpg "Photo by Element5 Digital on Unsplash")
+![Photo by Element5 Digital on Unsplash](https://res.cloudinary.com/makeschool/image/upload/t_fit_780_520/v1554161384/Blog/how-to-choose-college-body-2-modified-element5-digital-352046-unsplash.jpg "Photo by Element5 Digital on Unsplash")
 
 ## 2. Where do you want to study?
 
@@ -55,7 +55,7 @@ This is the last item on the list because it's important, but you shouldn't nece
 
 But you also need to remember that student debt is no joke. It's a serious crisis in this country and one that you don't want to get buried under. If paying for college is a key concern for you, you'll definitely want to consider public schools in your state and schools that offer [modern payment options](https://www.makeschool.com/blog/understanding-your-tuition-options-income-share-agreements-and-more) like income share agreements. This model allows you to attend a school tuition-free and then pay for your education with a portion of your paycheck after you graduate.
 
-![Photo by Alexis Brown on Unsplash](https://res.cloudinary.com/makeschool/image/upload/v1554161430/Blog/how-to-choose-college-body-1-modified-alexis-brown-85793-unsplash.jpg "Photo by Alexis Brown on Unsplash")
+![Photo by Alexis Brown on Unsplash](https://res.cloudinary.com/makeschool/image/upload/t_fit_780_520/v1554161430/Blog/how-to-choose-college-body-1-modified-alexis-brown-85793-unsplash.jpg "Photo by Alexis Brown on Unsplash")
 
 ## Factors that Should NOT Determine Where You Go to School
 
