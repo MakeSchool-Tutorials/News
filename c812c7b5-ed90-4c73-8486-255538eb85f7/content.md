@@ -1,7 +1,7 @@
 ---
 title: Former Stanford Career Services Director Joins Startup College
 custom_slug: former-stanford-career-services-director-joins-startup-college
-category: product_college
+category: news
 listed: true
 release_date: !ruby/object:ActiveSupport::TimeWithZone
   utc: &1 2019-10-21 00:00:00.000000000 Z
