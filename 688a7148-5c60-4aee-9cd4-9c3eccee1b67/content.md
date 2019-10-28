@@ -31,11 +31,14 @@ As I spoke with Elliot, he was in between classes, working on the final concept 
 
 **Ellie:** Congratulations to you and the team on the big win, Elliot! What was your project?
 
+
 **Elliot:** Thanks! I'm really proud of everyone. We developed a gamified web/mobile and VR app experience meant to incentivize and educate our generation about space science as they enter into a mission beyond our solar system to rescue our Planet Earth.
+
 
 **Ellie:** Sounds awesome. Can you walk me through the experience?
 
-It's called [MiTerra](https://2019.spaceappschallenge.org/challenges/living-our-world/1up-nasa-earth/teams/weplanet/project) which means "My Land" in Latin.
+
+**Elliot:** It's called [MiTerra](https://2019.spaceappschallenge.org/challenges/living-our-world/1up-nasa-earth/teams/weplanet/project) which means "My Land" in Latin.
 
 The idea is that you are put in 8000 AC (After Catastrophe), when Earth no longer exists. You're on a mission as an astronaut from the Space Force and are presented with these planets that are going through catastrophes.
 
@@ -49,11 +52,15 @@ On the last planet, you're taken to Earth and everything you learned from the pr
 
 The idea is to create a platform that is educational for kids so they can learn solutions for these challenges and help us create a better future.
 
+
 **Ellie:** That's quite ambitious for a weekend hackathon! Is there anything that you've learned while at Make School that you feel helped you achieve this?
+
 
 **Elliot:** Teamwork. Here at Make School, we get to collaborate with different people from different backgrounds, which was definitely helpful to be able to accommodate everyone's individual skills to the team. And since we were constantly shipping products, I felt like it was easier for us in that short period of time to actually deploy a product. I don't think we would have been able to ship a project without that experience. And being able to collaborate with other team members is a very important skill in the workforce that not a lot of people get to experience in school.
 
+
 **Ellie:** Do you have any advice for students who may be considering getting into computer science or joining Make School?
+
 
 **Elliot:** I think a lot of people think that programming is very hard and challenging and constantly face Imposter Syndrome where they think they're not good enough. When I came to Make School, I didn't have that much experience. I had done a bootcamp, which I felt was a little bit of a waste of money and I didn't learn a lot, so when I came to Make School, initially I thought I wasn't good enough. I think that this is a superficial thing we create, and I feel like with hard work and dedication, you can do anything you want. It's more of a mindset that you have to be prepared for. Not just at Make School, but any environment where you're capable of doing something. It might take you a little bit to learn it all but if you put time and effort, you will do it and not give up.
 
