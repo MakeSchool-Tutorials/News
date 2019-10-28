@@ -1,10 +1,10 @@
 ---
 title: Make School Students Win NASA Hackathon
 custom_slug: make-school-students-win-nasa-hackathon
-category: product_college
+category: news
 listed: true
 release_date: !ruby/object:ActiveSupport::TimeWithZone
-  utc: &1 2019-10-26 00:00:00.000000000 Z
+  utc: &1 2019-10-24 00:00:00.000000000 Z
   zone: !ruby/object:ActiveSupport::TimeZone
     name: Etc/UTC
   time: *1
