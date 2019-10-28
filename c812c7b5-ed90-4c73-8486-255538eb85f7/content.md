@@ -2,7 +2,7 @@
 title: Former Stanford Career Services Director Joins Startup College
 custom_slug: former-stanford-career-services-director-joins-startup-college
 category: product_college
-listed: false
+listed: true
 release_date: !ruby/object:ActiveSupport::TimeWithZone
   utc: &1 2019-10-21 00:00:00.000000000 Z
   zone: !ruby/object:ActiveSupport::TimeZone
@@ -20,4 +20,4 @@ Make School's unique bachelor's degree in applied computer science was developed
 "Make School brings together the best of both worlds: a world-class liberal arts education combined with a practitioner-led, project-based curriculum focused on today's most in-demand skills," said D'Andria. "I'm excited to work with a brilliant, diverse student population that is poised to become the next generation of leaders in the tech industry."
 
 ## ABOUT MAKE SCHOOL
-**Make School is redesigning higher education for the 21st century. Our emphasis is on ensuring relevance for the modern economy and accessibility to students of all backgrounds. For more, visit [makeschool.com](https://c212.net/c/link/?t=0&l=en&o=2607782-1&h=2992074348&u=https%3A%2F%2Fwww.makeschool.com%2Fpress&a=makeschool.com).
+Make School is redesigning higher education for the 21st century. Our emphasis is on ensuring relevance for the modern economy and accessibility to students of all backgrounds. For more, visit [makeschool.com](https://c212.net/c/link/?t=0&l=en&o=2607782-1&h=2992074348&u=https%3A%2F%2Fwww.makeschool.com%2Fpress&a=makeschool.com).
