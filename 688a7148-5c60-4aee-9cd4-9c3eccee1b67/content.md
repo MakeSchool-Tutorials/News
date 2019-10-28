@@ -2,7 +2,7 @@
 title: Make School Students Win NASA Hackathon
 custom_slug: make-school-students-win-nasa-hackathon
 category: product_college
-listed: false
+listed: true
 release_date: !ruby/object:ActiveSupport::TimeWithZone
   utc: &1 2019-10-26 00:00:00.000000000 Z
   zone: !ruby/object:ActiveSupport::TimeZone
@@ -57,4 +57,4 @@ Elliot: I think a lot of people think that programming is very hard and challeng
 
 *Read more about MiTerra's award-winning project and stay updated on the final winners *[*here.*](https://2019.spaceappschallenge.org/challenges/living-our-world/1up-nasa-earth/teams/weplanet/project)
 
-*Curious about Make School? You can learn more about our two-year Bachelor's Degree in Applied Computer Science and apply to become one of our next wave of hackathon winners h*[*ere*](https://apply.makeschool.com/apply/)*.*
+*Curious about Make School? You can learn more about our two-year Bachelor's Degree in Applied Computer Science and apply to become one of our next wave of hackathon winners *[*here*](https://apply.makeschool.com/apply/)*.*
