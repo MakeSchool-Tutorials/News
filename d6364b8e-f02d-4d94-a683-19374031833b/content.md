@@ -1,7 +1,7 @@
 ---
 title: The Refugee Dream — Careers, Not Jobs
 custom_slug: the-refugee-dreamcareers-not-jobs
-category: summer_academy
+category: admissions
 listed: true
 release_date: !ruby/object:ActiveSupport::TimeWithZone
   utc: &1 2017-09-16 00:00:00.000000000 Z
@@ -59,6 +59,8 @@ In the end, these students are working so hard because they want careers that ar
 If anything, what I want to impart with this interview is a realization that there are students who are, in fact, way more motivated to learn about computer science than many of us here are. By volunteering with Make School or other organizations that Make School partners with, we can directly impact the career choices these students have. At the end of the day, we all collectively want the same things — better futures for ourselves and our families. And so we should be able to empathize with these students and donate our time and/or money.
 
 Malcolm X famously said ‘Education is the passport to the future’ and the reality is that so many students don’t actually have access to that passport.
+
+<div id=“form_3b93394e-ad50-44c5-a59a-0d7bdeec0970”>Loading...</div><script async=“async” src=“https://apply.makeschool.com/register/?id=3b93394e-ad50-44c5-a59a-0d7bdeec0970&amp;output=embed&amp;div=form_3b93394e-ad50-44c5-a59a-0d7bdeec0970“>/**/</script>
 
 ---
 
