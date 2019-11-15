@@ -60,8 +60,6 @@ If anything, what I want to impart with this interview is a realization that the
 
 Malcolm X famously said ‘Education is the passport to the future’ and the reality is that so many students don’t actually have access to that passport.
 
-<div id=“form_3b93394e-ad50-44c5-a59a-0d7bdeec0970”>Loading...</div><script async=“async” src=“https://apply.makeschool.com/register/?id=3b93394e-ad50-44c5-a59a-0d7bdeec0970&amp;output=embed&amp;div=form_3b93394e-ad50-44c5-a59a-0d7bdeec0970“>/**/</script>
-
 ---
 
 *A special thank you to all the members of our community who helped us provide laptops to these bright, ambitious students. We are grateful for your support as we continue to embark on initiatives like the one in Beirut.*
