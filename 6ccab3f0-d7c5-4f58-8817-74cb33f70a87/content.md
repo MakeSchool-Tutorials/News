@@ -61,7 +61,6 @@ Most of the people who go here are from different places and have different idea
 
 You can check out Aleia’s blog, portfolio, and learn more about becoming a student at Make School at the links below:
 
-Portfolio:
 [Portfolio](https://www.makeschool.com/portfolio/Aleia-Knight)
 [Blog](https://medium.com/@aleia.knight)
 
