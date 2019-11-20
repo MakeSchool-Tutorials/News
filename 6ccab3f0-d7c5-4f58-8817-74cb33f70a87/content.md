@@ -13,6 +13,8 @@ cover_photo_path:
 ---
 Meet Aleia Knight.
 
+(https://files.slack.com/files-pri/T02SV8Q90-FQST2NMEJ/download/img_6305.jpg)
+
 Aleia grew up in a small city in South Atlanta, Georgia called Fairburn. The middle child of five, Aleia first watched her two older sisters go to college, before returning home to pursue other things.
 
 --
