@@ -61,8 +61,4 @@ _Most of the people who go here are from different places and have different ide
 
 --
 
-You can check out Aleia’s blog, portfolio, and learn more about becoming a student at Make School at the links below:
-
-[Portfolio](https://www.makeschool.com/portfolio/Aleia-Knight)
-
-[Blog](https://medium.com/@aleia.knight)
+You can check out Aleia's [blog](https://medium.com/@aleia.knight), [portfolio](https://www.makeschool.com/portfolio/Aleia-Knight), and learn more about the community at Make School [here](https://www.makeschool.com/computer-science-degree/community).
