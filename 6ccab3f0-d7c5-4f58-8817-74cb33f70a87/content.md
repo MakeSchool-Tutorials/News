@@ -13,8 +13,6 @@ cover_photo_path:
 ---
 Meet Aleia Knight.
 
-![Aleia Knight](https://res.cloudinary.com/makeschool/image/upload/v1580248589/Blog/Aleia_Knight_Profile_Pic.jpg)
-
 Aleia grew up in a small city in South Atlanta, Georgia called Fairburn. The middle child of five, Aleia first watched her two older sisters go to college, before returning home to pursue other things.
 
 --
@@ -46,6 +44,10 @@ _I applied to Intel, but didn’t think I was going to get it. I had like half t
 _At Intel, there was a lot of taking apart hardware and putting it back together. I started to realize I could do software and learn even more. So from there, I decided I wanted to work on more code-based projects._
 
 _That led me to hearing about a podcast Jeremy [Make School’s CEO], was on called “Learn to Code with Me.” Next thing I know, I was diving into Make School. I came to Preview Weekend, took a class and was like “This is it. I’m going to Make School!”_
+
+--
+
+![Aleia Knight](https://res.cloudinary.com/makeschool/image/upload/v1580248589/Blog/Aleia_Knight_Profile_Pic.jpg)
 
 --
 
