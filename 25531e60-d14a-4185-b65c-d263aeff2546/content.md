@@ -15,9 +15,7 @@ When Alirie Gray heard about [Make School](https://www.makeschool.com/product-co
 
 Alirie still wanted to finish her physics degree, but she'd been taking a lot more computer science courses than physics courses at her university. "Then last year, a friend approached me about making a prototype for a 3D game. I recruited a couple of my coding friends and we spent the summer creating the game, staying up until 4am more days than not, and I realized this was what I wanted to spend my time doing. I knew [Make School] would be perfect for me."
 
-She went on, "After I got accepted that summer, I withdrew from university to attend [Make School], and I haven't regretted it once." Throughout the course of her first year, Alirie took several courses that she loved, but her favorite was the Tweet Generator course with instructor Alan Davis. She said, "It's hard to overstate Alan's skill as a teacher. He's absolutely the best teacher I've had to date, in any subject."
-
-![Alirie headshot](https://res.cloudinary.com/makeschool/image/upload/v1529088527/Blog/alirie-headshot.jpg)
+She went on, "After I got accepted that summer, I withdrew from university to attend [Make School], and I haven't regretted it once." Throughout the course of her first year, Alirie took several courses that she loved, but her favorite was the Tweet Generator course with instructor Alan Davis. She said, "It's hard to overstate Alan's skill as a teacher."
 
 "In that class there's just one project -- the Tweet generator," Alirie continued, "but through that project you're learning best practices in software development and data structures. We had a lot of code reviews, so we learned how to structure code really well, and we wrote a Python program that used probability to generate semi-grammatical sentences. I used BuzzFeed article titles and some of the works of Karl Marx as my body of text to create a Marxist Clickbait Generator."
 
@@ -33,7 +31,7 @@ Alirie noted, "One of the best things about [Make School] was that we had a few 
 
 That engagement may be what Alirie likes best about Make School. "I loved being surrounded by [peers](https://www.makeschool.com/product-college/community) who are passionate about making things and instructors who are willing to go above and beyond to help us succeed. It's difficult to be unmotivated when everyone around you is so excited about what they are doing and bringing so much energy to the table every day. I also loved the opportunity to work on projects that I'm passionate about as a part of the curriculum."
 
-She added, "In college, I had to choose between my passion projects and my schoolwork. At [Make School], they are the same thing. And I learned more coding there than I ever did in any college class."
+She added, "In college, I had to choose between my passion projects and my schoolwork. At [Make School], they are the same thing."
 
 Alirie has since taken her Make School education and transformed it into a full-time position at [InfluxData](https://www.influxdata.com/), a Y-Combinator backed company that provides clients with a database engine that makes it easier to analyze time-based data. To learn more about Alirie and to follow her projects, check out her website, [aliriegray.com](http://www.aliriegray.com/), and follow her on [GitHub](https://github.com/AlirieGray).
 
