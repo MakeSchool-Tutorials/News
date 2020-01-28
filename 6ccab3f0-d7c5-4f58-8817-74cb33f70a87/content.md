@@ -47,7 +47,7 @@ _That led me to hearing about a podcast Jeremy [Make School’s CEO], was on cal
 
 --
 
-![Aleia Knight](https://res.cloudinary.com/makeschool/image/upload/v1580248589/Blog/Aleia_Knight_Profile_Pic.jpg)
+![Aleia Knight](https://res.cloudinary.com/makeschool/image/upload/v1580248811/Blog/Aleia_Knight_Zoomed_Out.jpg)
 
 --
 
