@@ -35,5 +35,5 @@ I would also like to share a daily checklist that has helped me while in isolati
 
 The next few weeks will be a challenge to your mental and physical health. Connecting (and reconnecting) with loved ones, staying physically active, and [seeking out professional help if you need it](https://www.betterhelp.com/) are critical to all of our well-being. It will be tempting to consume the endless amount of news over the coming weeks, but I urge our community of makers to take this opportunity to learn and create.
 
-Separate but together, we will make it through this,\ 
+Separate but together, we will make it through this,  \ 
 Jeremy and Ashu
