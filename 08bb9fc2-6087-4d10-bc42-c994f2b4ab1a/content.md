@@ -2,7 +2,7 @@
 title: A Message of Solidarity to our Community
 custom_slug: a-message-of-solidarity-to-our-community
 category: news
-listed: false
+listed: true
 release_date: !ruby/object:ActiveSupport::TimeWithZone
   utc: &1 2020-03-27 00:00:00.000000000 Z
   zone: !ruby/object:ActiveSupport::TimeZone
