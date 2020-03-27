@@ -1,6 +1,6 @@
 ---
-title: A Message of Hope and Solidarity to our Community
-custom_slug: a-message-of-hope-and-solidarity-to-our-community
+title: A Message of Solidarity to our Community
+custom_slug: a-message-of-solidarity-to-our-community
 category: news
 listed: false
 release_date: !ruby/object:ActiveSupport::TimeWithZone
