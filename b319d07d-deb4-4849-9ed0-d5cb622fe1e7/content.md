@@ -42,7 +42,7 @@ Internally at the organization, seeking accreditation feels like a coming of age
 In addition to seeking accreditation, we’ve had a few recent changes that have bolstered the operational core of our organization and reflect our maturation. We’ve rounded out our leadership team with our new Dean, Anne Spalding, and Head of Operations, Erin Cooney. Anne spent the first 15 years of her career teaching university computer science before helping found and run Dev Bootcamp and build internal developer training at Uber. Erin comes from a strong finance background and helped run operations for Andela — a high profile coding school in Africa — as they scaled up to 1000 students. We’ve strengthened our team with thoughtful individuals carrying work experience across academia — including Stanford and Harvard — and the tech industry.
 
 
-![Make School Staff](https://res.cloudinary.com/makeschool/image/upload/s--EHKAZW_C--/v1538427332/Blog/makeschool-staff.jpg)
+![Make School Staff](https://res.cloudinary.com/makeschool/image/upload/v1591132849/About/ms_team_jan_2020.jpg)
 *Our faculty and staff*
 
 
