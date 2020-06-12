@@ -2,7 +2,7 @@
 title: A Message in Solidarity with the Black Community
 custom_slug: a-message-in-solidarity-with-the-black-community
 category: news
-listed: false
+listed: true
 release_date: !ruby/object:ActiveSupport::TimeWithZone
   utc: &1 2020-06-12 00:00:00.000000000 Z
   zone: !ruby/object:ActiveSupport::TimeZone
