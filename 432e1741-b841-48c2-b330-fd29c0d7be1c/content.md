@@ -54,7 +54,7 @@ We also want to share with all of you a list of resources to help you support th
         -   Supporting [Black Designers](https://blackswho.design/)
         -   Supporting [Black Founders](http://blackfounders.com/)
 
-While the protests of this past week have done much-needed work in raising awareness for the current issues, the work is by no means done. We are taking the time to listen and process and will update our community with more concrete steps we are taking in support of the movement over the coming weeks.
+While the protests of these past weeks have done much-needed work in raising awareness for the current issues, the work is by no means done. We are taking the time to listen and process and will update our community with more concrete steps we are taking in support of the movement over the coming weeks.
 
 Best,
 The Make School Team
