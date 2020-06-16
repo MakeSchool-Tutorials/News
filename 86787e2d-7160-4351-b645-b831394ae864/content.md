@@ -1,8 +1,8 @@
 ---
 title: 'Understanding Your Tuition Options: Income Share Agreements and More'
 custom_slug: understanding-your-tuition-options-income-share-agreements-and-more
-category: product_college
-listed: true
+category: admissions
+listed: false
 release_date: !ruby/object:ActiveSupport::TimeWithZone
   utc: &1 2018-06-25 00:00:00.000000000 Z
   zone: !ruby/object:ActiveSupport::TimeZone
