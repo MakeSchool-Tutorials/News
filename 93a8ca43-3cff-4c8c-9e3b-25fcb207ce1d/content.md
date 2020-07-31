@@ -20,6 +20,7 @@ As you spend your final weeks preparing for your new adventure, I'm sure you hav
 Let's start at the beginning with your first term, which will begin at **9:30 AM (PT) on Wednesday, August 19th**. During this 7 week period, you'll learn the foundations of software engineering, programming, and web development, as well as expand your writing and critical thinking skills.
 
 All incoming juniors will take four courses:
+
 - **SPD 1.1: Introduction to Product Development**
 Learn the foundational skills to become a successful engineer. Topics include Github/Unix and other dev tools, Agile Development, Productivity, Communication, finding mentors, teamwork, job search, health habits, and more.
 - **CS 1.0: Introduction to Programming**
@@ -95,6 +96,7 @@ Most importantly, Project-Based Learning allows you to build products on real is
 ##Whew! That's a lot of information!
 
 **Don't worry, we'll go over all of this once you're onsite and answer any questions you still have.** In the meantime, we'll be sending a few more emails with these topics:
+
 - **Diagnostic Project:** For those of you with previous programming or web experience, you can build a small project to help us assess which level of CS or WEB you should start in.  If you have no previous experience, then you don't need to complete this, we've got an awesome introductory course waiting for you.
 - **Pre Work:** We'll need you to set up your Mac Laptop with the software and systems you'll need onsite.  Since this can take some time, we'll be sending you a tutorial to help you get started.  There will also be time during orientation to complete this if you need help.
 - **Orientation:** More details about orientation - which starts on Friday, August 14th - are coming soon.
