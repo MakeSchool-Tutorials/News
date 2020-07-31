@@ -23,12 +23,12 @@ Let's start at the beginning with your first term, which will begin at **9:30 AM
 
 All incoming juniors will take four courses:
 
-- *SPD 1.1: Introduction to Product Development:* Learn the foundational skills to become a successful engineer. Topics include Github/Unix and other dev tools, Agile Development, Productivity, Communication, finding mentors, teamwork, job search, health habits, and more.
-- *CS 1.0: Introduction to Programming:* Learn the fundamentals of programming including variables, data types, conditionals, control flow, loops, lists, file input and output, and functions.
+- <u>*SPD 1.1: Introduction to Product Development:*</u> Learn the foundational skills to become a successful engineer. Topics include Github/Unix and other dev tools, Agile Development, Productivity, Communication, finding mentors, teamwork, job search, health habits, and more.
+- <u>*CS 1.0: Introduction to Programming:*</u> Learn the fundamentals of programming including variables, data types, conditionals, control flow, loops, lists, file input and output, and functions.
    - If you already have programming experience, you'll start in the second CS course: CS 1.1: Object-Oriented Programming 
-- *WEB 1.0: Web Foundations:* Learn the foundations of HTML, CSS, and JavaScript which are the building blocks of any web application. 
+- <u>*WEB 1.0: Web Foundations:*</u> Learn the foundations of HTML, CSS, and JavaScript which are the building blocks of any web application. 
    - If you already have experience building web pages, you'll start in the second WEB course: WEB 1.1: Web Architecture 
-- *Science & Letters:* Learn the fundamentals of communication, critical thinking, and science with one of the nine required semester-long courses that compliment your technical courses.
+- <u>*Science & Letters:*</u> Learn the fundamentals of communication, critical thinking, and science with one of the nine required semester-long courses that compliment your technical courses.
    - Most students will start in EC 1: Effective Communications 1: Learn to effectively critique communicative works and to engage the process of drafting, feedback, and revision in order to produce their own well-designed, carefully researched written texts, oral presentations, and visual communications.
    - Students with previous college credit may start in one of the other courses.
 
@@ -40,11 +40,11 @@ Each course meets for 5.5 hours a week in one, two, or sometimes three sessions.
 
 **Wait, I have questions!**
 
-- *When do I register?*
+- <u>*When do I register?*</u>
    - Since all students take the same courses, you'll be automatically registered for Term 1 courses and will finalize your schedule during orientation. 
-- *When do I find out which CS or WEB course I'll be taking?*
+- <u>*When do I find out which CS or WEB course I'll be taking?*</u>
    - We'll be sending a diagnostic email soon.  You'll have the chance to work on some fun projects to help us understand which course is the best fit for you. 
-- *When do I choose courses in the area (concentration) I want to study?*
+- <u>*When do I choose courses in the area (concentration) I want to study?*</u>
    - In Term 2, which starts in mid-October, you'll choose one of the 4 concentrations (Mobile, Data Science, Front End Web, Back End Web) and take your first concentration class.  You can read more about the concentrations and courses in the [course catalog](https://docs.google.com/document/d/1a1i2jwXqx__URpWvUf8z8E9iwcdJ05QsPnbjs7Z83Us/preview#heading=h.pwf4kehdczyo) and we'll have sessions in Term 1 to help you decide.
 
 **In addition to courses, learning, transformation, and (definitely) fun at Make School takes place through our student-centered community.**
@@ -55,19 +55,19 @@ We know - the pandemic stinks. We really wish we could greet you all in person, 
 
 **Community building during Term 1:**
 
-- *Small Group Hangouts:* Deep Connection: A place to hear the life story of 10 other teammates. You'll start and end your week with this group, reflecting on how you can improve. We learn better together than alone.
-- *In-class community:* Energizers: Instructors often start class with a quick "breakout" activity in groups of 4-5. These might be "share a fun fact about where you grew up or" "show your partners your favorite app. These allow you to connect with a wide variety of friends around different topics.
-- *Peer mentors:* Senior students have volunteered to mentor incoming juniors. Keep an eye out - they will be recruiting mentees during orientation!
-- *Coaching:* Each student will connect with a coach for a one-on-one personal relationship outside the classroom. The coach is your go-to person if you feel lost and a confidant as you face challenges. They work for you!
+- <u>*Small Group Hangouts:*</u> Deep Connection: A place to hear the life story of 10 other teammates. You'll start and end your week with this group, reflecting on how you can improve. We learn better together than alone.
+- <u>*In-class community:*</u> Energizers: Instructors often start class with a quick "breakout" activity in groups of 4-5. These might be "share a fun fact about where you grew up or" "show your partners your favorite app. These allow you to connect with a wide variety of friends around different topics.
+- <u>*Peer mentors:*</u> Senior students have volunteered to mentor incoming juniors. Keep an eye out - they will be recruiting mentees during orientation!
+- <u>*Coaching:*</u> Each student will connect with a coach for a one-on-one personal relationship outside the classroom. The coach is your go-to person if you feel lost and a confidant as you face challenges. They work for you!
 
 **What's that ... you want MORE community? Alright then...**
 
-- *Async community:* The Slack communication platform is a place to connect too! Channels like #random #medium-mafia #help-with-code more surprises coming along. You'll also see lots of staff members posting their profiles and students posting too.
-- *Events:* Every week there are student-led and staff-led events. We have game nights, social justice dialogues, guest speakers. Get pumped!! You can host something too. Student council may have some tricks up their sleeves too.
-- *Clubs:* Students have the opportunity to lead their own clubs.
-- *Teaching assistants:* Each class has a teaching assistant, someone who knows the material and can help unblock you when you are stuck. These are often senior students who have already completed the class.
-- *Cowork:* Weekly coworking session where you can meet with teaching assistants and instructors to get help on your projects, time management skills, and other support.
-- *Student Experience Team:* The student experience team is entirely dedicated to ensuring you enjoy your time at Make School. Reach out to them to give feedback on the program or talk about your personal desires for your experience.
+- <u>*Async community:*</u> The Slack communication platform is a place to connect too! Channels like #random #medium-mafia #help-with-code more surprises coming along. You'll also see lots of staff members posting their profiles and students posting too.
+- <u>*Events:*</u> Every week there are student-led and staff-led events. We have game nights, social justice dialogues, guest speakers. Get pumped!! You can host something too. Student council may have some tricks up their sleeves too.
+- <u>*Clubs:*</u> Students have the opportunity to lead their own clubs.
+- <u>*Teaching assistants:*</u> Each class has a teaching assistant, someone who knows the material and can help unblock you when you are stuck. These are often senior students who have already completed the class.
+- <u>*Cowork:*</u> Weekly coworking session where you can meet with teaching assistants and instructors to get help on your projects, time management skills, and other support.
+- <u>*Student Experience Team:*</u> The student experience team is entirely dedicated to ensuring you enjoy your time at Make School. Reach out to them to give feedback on the program or talk about your personal desires for your experience.
 
 ##That all sounds awesome, but what happens after Term 1? What does the rest of the program look like?
 
@@ -81,10 +81,10 @@ Most importantly, Project-Based Learning allows you to build products on real is
 
 **The courses required consist of the following:**
 
-- *Foundational Courses:* Master the basics of computer science and full-stack web development and learn the basic skills and tools of the software development process.  These five courses are taken in a student's first terms at Make School and are the foundation of all the technical courses.
-- *Software Product Development (SPD):*  A blend of technical and general skills that all software engineers and employees must master to be successful developers and engineers. There are ten SPD courses that are taken every term.
-- *Concentration Courses and Electives:* Students choose one of the four concentrations (Mobile, Data Science, Back End Web, Front End Web) as well as electives in Computer Science or another concentration.
-- *Intensives (INT):* Week-long immersive product development courses offered three times a year, where students build a product from start to finish in either individual, team or industry collaboration
+- <u>*Foundational Courses:*</u> Master the basics of computer science and full-stack web development and learn the basic skills and tools of the software development process.  These five courses are taken in a student's first terms at Make School and are the foundation of all the technical courses.
+- <u>*Software Product Development (SPD):*</u> A blend of technical and general skills that all software engineers and employees must master to be successful developers and engineers. There are ten SPD courses that are taken every term.
+- <u>*Concentration Courses and Electives:*</u> Students choose one of the four concentrations (Mobile, Data Science, Back End Web, Front End Web) as well as electives in Computer Science or another concentration.
+- <u>*Intensives (INT):*</u> Week-long immersive product development courses offered three times a year, where students build a product from start to finish in either individual, team or industry collaboration
 - <u>*Supervised Work Experience (SWE):*</u> An internship experience taken in the first or second summer.
 
 **Here is a sample 2 year schedule:**
@@ -95,13 +95,14 @@ Most importantly, Project-Based Learning allows you to build products on real is
 
 **Don't worry, we'll go over all of this once you're onsite and answer any questions you still have.** In the meantime, we'll be sending a few more emails with these topics:
 
-- *Diagnostic Project:* For those of you with previous programming or web experience, you can build a small project to help us assess which level of CS or WEB you should start in.  If you have no previous experience, then you don't need to complete this, we've got an awesome introductory course waiting for you.
-- *Pre Work:* We'll need you to set up your Mac Laptop with the software and systems you'll need onsite.  Since this can take some time, we'll be sending you a tutorial to help you get started.  There will also be time during orientation to complete this if you need help.
-- *Orientation:* More details about orientation - which starts on Friday, August 14th - are coming soon.
+- <u>*Diagnostic Project:*</u> For those of you with previous programming or web experience, you can build a small project to help us assess which level of CS or WEB you should start in.  If you have no previous experience, then you don't need to complete this, we've got an awesome introductory course waiting for you.
+- <u>*Pre Work:*</u> We'll need you to set up your Mac Laptop with the software and systems you'll need onsite.  Since this can take some time, we'll be sending you a tutorial to help you get started.  There will also be time during orientation to complete this if you need help.
+- <u>*Orientation:*</u> More details about orientation - which starts on Friday, August 14th - are coming soon.
 
 Can't wait to meet all of you and support you on this journey!
 
 Best,<br/>
-**Dr. Anne Spalding** | _Dean, Make School_
+**Dr. Anne Spalding**<br/>
+_Dean, Make School_
 
 ![Dean Dr. Anne Spalding](https://res.cloudinary.com/makeschool/image/upload/v1566331962/Faculty/Spalding_Anne.jpg "Dean Dr. Anne Spalding")
