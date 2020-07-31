@@ -21,18 +21,14 @@ Let's start at the beginning with your first term, which will begin at **9:30 AM
 
 All incoming juniors will take four courses:
 
-- **SPD 1.1: Introduction to Product Development**
-Learn the foundational skills to become a successful engineer. Topics include Github/Unix and other dev tools, Agile Development, Productivity, Communication, finding mentors, teamwork, job search, health habits, and more.
-- **CS 1.0: Introduction to Programming**
-Learn the fundamentals of programming including variables, data types, conditionals, control flow, loops, lists, file input and output, and functions.
-...- If you already have programming experience, you'll start in the second CS course: CS 1.1: Object-Oriented Programming 
-- **WEB 1.0: Web Foundations**
-Learn the foundations of HTML, CSS, and JavaScript which are the building blocks of any web application. 
-...- If you already have experience building web pages, you'll start in the second WEB course: WEB 1.1: Web Architecture 
-- **Science & Letters**
-Learn the fundamentals of communication, critical thinking, and science with one of the nine required semester-long courses that compliment your technical courses.
-...- Most students will start in EC 1: Effective Communications 1: Learn to effectively critique communicative works and to engage the process of drafting, feedback, and revision in order to produce their own well-designed, carefully researched written texts, oral presentations, and visual communications.
-...- Students with previous college credit may start in one of the other courses.
+- **SPD 1.1: Introduction to Product Development:** Learn the foundational skills to become a successful engineer. Topics include Github/Unix and other dev tools, Agile Development, Productivity, Communication, finding mentors, teamwork, job search, health habits, and more.
+- **CS 1.0: Introduction to Programming:** Learn the fundamentals of programming including variables, data types, conditionals, control flow, loops, lists, file input and output, and functions.
+   - If you already have programming experience, you'll start in the second CS course: CS 1.1: Object-Oriented Programming 
+- **WEB 1.0: Web Foundations:** Learn the foundations of HTML, CSS, and JavaScript which are the building blocks of any web application. 
+   - If you already have experience building web pages, you'll start in the second WEB course: WEB 1.1: Web Architecture 
+- **Science & Letters:** Learn the fundamentals of communication, critical thinking, and science with one of the nine required semester-long courses that compliment your technical courses.
+   - Most students will start in EC 1: Effective Communications 1: Learn to effectively critique communicative works and to engage the process of drafting, feedback, and revision in order to produce their own well-designed, carefully researched written texts, oral presentations, and visual communications.
+   - Students with previous college credit may start in one of the other courses.
 
 Each course meets for 5.5 hours a week in one, two, or sometimes three sessions. That's a lot of class time but don't worry, most of that time is active learning, group or solo work time, building projects, and getting support from your instructor or TA.
 
@@ -43,11 +39,11 @@ Each course meets for 5.5 hours a week in one, two, or sometimes three sessions.
 ###Wait, I have questions....
 
 - **When do I register?**
-..- Since all students take the same courses, you'll be automatically registered for Term 1 courses and will finalize your schedule during orientation. 
+   - Since all students take the same courses, you'll be automatically registered for Term 1 courses and will finalize your schedule during orientation. 
 - **When do I find out which CS or WEB course I'll be taking?**
-..- We'll be sending a diagnostic email soon.  You'll have the chance to work on some fun projects to help us understand which course is the best fit for you. 
+   - We'll be sending a diagnostic email soon.  You'll have the chance to work on some fun projects to help us understand which course is the best fit for you. 
 - **When do I choose courses in the area (concentration) I want to study?**
-..- In Term 2, which starts in mid-October, you'll choose one of the 4 concentrations (Mobile, Data Science, Front End Web, Back End Web) and take your first concentration class.  You can read more about the concentrations and courses in the [course catalog](https://docs.google.com/document/d/1a1i2jwXqx__URpWvUf8z8E9iwcdJ05QsPnbjs7Z83Us/preview#heading=h.pwf4kehdczyo) and we'll have sessions in Term 1 to help you decide.
+   - In Term 2, which starts in mid-October, you'll choose one of the 4 concentrations (Mobile, Data Science, Front End Web, Back End Web) and take your first concentration class.  You can read more about the concentrations and courses in the [course catalog](https://docs.google.com/document/d/1a1i2jwXqx__URpWvUf8z8E9iwcdJ05QsPnbjs7Z83Us/preview#heading=h.pwf4kehdczyo) and we'll have sessions in Term 1 to help you decide.
 
 **In addition to courses, learning, transformation, and (definitely) fun at Make School takes place through our student-centered community.**
 
