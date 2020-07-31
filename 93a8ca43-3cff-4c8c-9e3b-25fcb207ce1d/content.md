@@ -2,7 +2,7 @@
 title: Welcome from Dr. Anne Spalding, Dean of Make School
 custom_slug: welcome-from-dr-anne-spalding-dean-of-make-school
 category: news
-listed: false
+listed: true
 release_date: !ruby/object:ActiveSupport::TimeWithZone
   utc: &1 2020-07-31 00:00:00.000000000 Z
   zone: !ruby/object:ActiveSupport::TimeZone
@@ -87,7 +87,7 @@ Most importantly, Project-Based Learning allows you to build products on real is
 - <u>*Intensives (INT):*</u> Week-long immersive product development courses offered three times a year, where students build a product from start to finish in either individual, team or industry collaboration
 - <u>*Supervised Work Experience (SWE):*</u> An internship experience taken in the first or second summer.
 
-**Here is a sample 2 year schedule:**
+**Here is a sample two-year schedule:**
 
 ![Sample Two-Year Schedule](https://res.cloudinary.com/makeschool/image/upload/v1596226410/Blog/welcome-message-sample_2-year-schedule.png "Sample Two-Year Schedule")
 
