@@ -79,13 +79,13 @@ Most importantly, Project-Based Learning allows you to build products on real is
 
 [The Bachelor of Science in Applied Computer Science Program](https://docs.google.com/document/d/1a1i2jwXqx__URpWvUf8z8E9iwcdJ05QsPnbjs7Z83Us/preview#heading=h.8jlvxjwqssgs) takes most students 2 to 2.5 years to complete. Courses are offered year-round through terms that are 7 weeks long with 5 terms per year.
 
-**The courses required consists of the following:**
+**The courses required consist of the following:**
 
 - *Foundational Courses:* Master the basics of computer science and full-stack web development and learn the basic skills and tools of the software development process.  These five courses are taken in a student's first terms at Make School and are the foundation of all the technical courses.
 - *Software Product Development (SPD):*  A blend of technical and general skills that all software engineers and employees must master to be successful developers and engineers. There are ten SPD courses that are taken every term.
 - *Concentration Courses and Electives:* Students choose one of the four concentrations (Mobile, Data Science, Back End Web, Front End Web) as well as electives in Computer Science or another concentration.
 - *Intensives (INT):* Week-long immersive product development courses offered three times a year, where students build a product from start to finish in either individual, team or industry collaboration
-- *Supervised Work Experience (SWE):* An internship experience taken in the first or second summer.
+- <u>*Supervised Work Experience (SWE):*</u> An internship experience taken in the first or second summer.
 
 **Here is a sample 2 year schedule:**
 
