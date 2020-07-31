@@ -102,7 +102,9 @@ Most importantly, Project-Based Learning allows you to build products on real is
 Can't wait to meet all of you and support you on this journey!
 
 Best,
- Dr. Anne Spalding
-  Dean, Make School
+
+Dr. Anne Spalding
+
+Dean, Make School
 
 ![Dean Dr. Anne Spalding](https://res.cloudinary.com/makeschool/image/upload/v1566331962/Faculty/Spalding_Anne.jpg "Dean Dr. Anne Spalding")
