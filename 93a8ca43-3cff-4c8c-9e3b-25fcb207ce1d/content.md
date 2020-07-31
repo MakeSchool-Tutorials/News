@@ -17,6 +17,8 @@ In just a few short weeks you will be joining us (online) for a challenging, fun
 
 As you spend your final weeks preparing for your new adventure, I'm sure you have a lot of questions about what you'll be learning in the next few years. I wanted to share a sneak peek of what to expect to build your excitement and confidence as you enter your first term at Make School.
 
+##Your First Term
+
 Let's start at the beginning with your first term, which will begin at **9:30 AM (PT) on Wednesday, August 19th**. During this 7 week period, you'll learn the foundations of software engineering, programming, and web development, as well as expand your writing and critical thinking skills.
 
 All incoming juniors will take four courses:
