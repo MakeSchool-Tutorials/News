@@ -53,14 +53,14 @@ Each course meets for 5.5 hours a week in one, two, or sometimes three sessions.
 
 We know - the pandemic stinks. We really wish we could greet you all in person, but it's ok because we've got a lot of ways to build our community even if we are far apart.
 
-###Community building during Term 1:
+**Community building during Term 1:**
 
 - *Small Group Hangouts:* Deep Connection: A place to hear the life story of 10 other teammates. You'll start and end your week with this group, reflecting on how you can improve. We learn better together than alone.
 - *In-class community:* Energizers: Instructors often start class with a quick "breakout" activity in groups of 4-5. These might be "share a fun fact about where you grew up or" "show your partners your favorite app. These allow you to connect with a wide variety of friends around different topics.
 - *Peer mentors:* Senior students have volunteered to mentor incoming juniors. Keep an eye out - they will be recruiting mentees during orientation!
 - *Coaching:* Each student will connect with a coach for a one-on-one personal relationship outside the classroom. The coach is your go-to person if you feel lost and a confidant as you face challenges. They work for you!
 
-###What's that ... you want MORE community? Alright then...
+**What's that ... you want MORE community? Alright then...**
 
 - *Async community:* The Slack communication platform is a place to connect too! Channels like #random #medium-mafia #help-with-code more surprises coming along. You'll also see lots of staff members posting their profiles and students posting too.
 - *Events:* Every week there are student-led and staff-led events. We have game nights, social justice dialogues, guest speakers. Get pumped!! You can host something too. Student council may have some tricks up their sleeves too.
@@ -79,7 +79,7 @@ Most importantly, Project-Based Learning allows you to build products on real is
 
 [The Bachelor of Science in Applied Computer Science Program](https://docs.google.com/document/d/1a1i2jwXqx__URpWvUf8z8E9iwcdJ05QsPnbjs7Z83Us/preview#heading=h.8jlvxjwqssgs) takes most students 2 to 2.5 years to complete. Courses are offered year-round through terms that are 7 weeks long with 5 terms per year.
 
-###The courses required consists of the following:
+**The courses required consists of the following:**
 
 - *Foundational Courses:* Master the basics of computer science and full-stack web development and learn the basic skills and tools of the software development process.  These five courses are taken in a student's first terms at Make School and are the foundation of all the technical courses.
 - *Software Product Development (SPD):*  A blend of technical and general skills that all software engineers and employees must master to be successful developers and engineers. There are ten SPD courses that are taken every term.
@@ -87,7 +87,7 @@ Most importantly, Project-Based Learning allows you to build products on real is
 - *Intensives (INT):* Week-long immersive product development courses offered three times a year, where students build a product from start to finish in either individual, team or industry collaboration
 - *Supervised Work Experience (SWE):* An internship experience taken in the first or second summer.
 
-###Here is a sample 2 year schedule:
+**Here is a sample 2 year schedule:**
 
 ![Sample Two-Year Schedule](https://res.cloudinary.com/makeschool/image/upload/v1596226410/Blog/welcome-message-sample_2-year-schedule.png "Sample Two-Year Schedule")
 
@@ -102,9 +102,7 @@ Most importantly, Project-Based Learning allows you to build products on real is
 Can't wait to meet all of you and support you on this journey!
 
 Best,
-
-Dr. Anne Spalding
-
-Dean, Make School
+ Dr. Anne Spalding
+  Dean, Make School
 
 ![Dean Dr. Anne Spalding](https://res.cloudinary.com/makeschool/image/upload/v1566331962/Faculty/Spalding_Anne.jpg "Dean Dr. Anne Spalding")
