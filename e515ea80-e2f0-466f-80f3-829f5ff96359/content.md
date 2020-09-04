@@ -2,7 +2,7 @@
 title: Student Experience at Make School & Our Transition to Remote Engagement
 custom_slug: student-experience-at-make-school-our-transition-to-remote-engagement
 category: news
-listed: false
+listed: true
 release_date: !ruby/object:ActiveSupport::TimeWithZone
   utc: &1 2020-09-03 00:00:00.000000000 Z
   zone: !ruby/object:ActiveSupport::TimeZone
