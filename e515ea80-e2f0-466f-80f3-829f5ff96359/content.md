@@ -74,4 +74,5 @@ Besides the organized clubs sponsored by Make School, students often self-organi
 The Student Experience at Make School is ever evolving, especially in today's remote world. We love to continue to experiment, and most importantly learn from our students on ways to improve and what we could do differently. It's always awesome to see our students proactively involving themselves, enhancing their leadership skills, and promoting a sense of community at Make School. To learn more about Make School's Student Experience, contact Megan Dias: <megan.dias@makeschool.com>.
 
 ![Image of Megan Dias, Student Experience Manager at Make School](https://res.cloudinary.com/makeschool/image/upload/v1599232984/Blog/Megan_Picture_-_StuX_Blog_Post.png "Image of Megan Dias, Student Experience Manager at Make School")
+
 _Megan Dias leads our Student Experience team in providing support for students outside of their classes. She holds a BA in Psychology & Business Admin and an MA in Educational Admin & Leadership with an emphasis in Student Affairs._
