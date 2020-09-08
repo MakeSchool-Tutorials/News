@@ -23,7 +23,9 @@ Not only is our curriculum designed to be hands on learning, our co-curricular a
 ####How does that translate to the remote environment?
 Since transitioning to being fully remote, we've been able to modify most of our student programming. We've implemented creative ideas such as introducing new employees via BINGO, having students lead sessions with an energizer, created videos to share with the greater community for a personalized touch, developed at home scavenger hunt competitions, and promoted key themes via a live word cloud. We're constantly experimenting with fun ways to continue to engage our students and enhance our community, all while being on zoom.
 
-We've also found [Kudoboard](https://www.kudoboard.com/) to be an awesome way to celebrate both students and staff when it comes to recognition, birthdays, and graduation. By creating individual boards for each person, it is a great way to personalize the messaging (complete with photos and videos) and a long-term keepsake for the person receiving it.
+
+
+We've also found Kudoboard [group cards](https://www.kudoboard.com/) to be an awesome way to celebrate both students and staff when it comes to recognition, birthdays, and graduation. By creating individual boards for each person, it is a great way to personalize the messaging (complete with photos and videos) and a long-term keepsake for the person receiving it.
 
 ![Word cloud of incoming students' hopes for their time at Make School](https://res.cloudinary.com/makeschool/image/upload/v1599232982/Blog/Word_Cloud_-_StuX_Blog_Post.png "Word cloud of incoming students' hopes for their time at Make School")
 
