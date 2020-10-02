@@ -11,35 +11,32 @@ release_date: !ruby/object:ActiveSupport::TimeWithZone
 cover_photo_path: 
 
 ---
-Last Saturday marked our second virtual graduation for the 2020 class! We were thrilled that over 100 students, staff, and family/friends were able to tune in to support and celebrate our graduates.
+Last Saturday marked our second virtual graduation for the 2020 class! We were thrilled that over 100 students, staff, and family/friends were able to tune in to support and celebrate our graduates. It was wonderful to reminisce about the challenges faced and memories made by this amazing group of students. We can't wait to watch them soar - congrats Class of 2020 Fall Graduates! Read more about graduation below.
 
-![Zoom Graduation!](https://res.cloudinary.com/makeschool/image/upload/v1601592782/Blog/Sept_2020_Grad_Group_1.png "Zoom Graduation!")
+![Image of virtual graduation](https://res.cloudinary.com/makeschool/image/upload/v1601592782/Blog/Sept_2020_Grad_Group_1.png "Zoom Graduation!")
+Some of the attendees during last Saturday's virtual graduation
 
 ![Some of our graduates](https://res.cloudinary.com/makeschool/image/upload/v1601592776/Blog/Sept_2020_Grads_2.png "Some of our graduates")
-
-It was wonderful to reminisce about the challenges faced and memories made by this amazing group of students. We can't wait to watch them soar - congrats Class of 2020 Fall Graduates! Read more about graduation below.
+Some of our graduates last Saturday
 
 ##Graduation Speakers
 
 ![Dean of Make School, Dr. Anne Spalding](https://res.cloudinary.com/makeschool/image/upload/v1601616376/Blog/Screen_Shot_2020-10-01_at_10.25.10_PM.png "Dean of Make School, Dr. Anne Spalding")
-[text summary of speakers]
+
+Our speakers for graduation included our Dean, Dr. Anne Spalding, the Make School founders, and faculty members like Dan Morse - who is our Instructor Manager for Early Learning. They encouraged our new graduates to look back on their achievements, look forward towards a bright future, and above all to be excited about the enormous impact they are poised to have as technology continues to become important to the world.
 
 ##Class of 2020 Recap video
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hzbAdHqG4Gk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-[text about video]
+A recap video created by graduate Ramon Geronimo that highlights all the important moments of the last two years for the Class of 2020
 
 ##Graduation Gift
 
 ![Image of the gift from Make School to each graduate](https://res.cloudinary.com/makeschool/image/upload/v1601616595/Blog/September_Grad_Gift.jpg "Image of the gift from Make School to each graduate")
-[text about swag pack]
 
-##Class of 2020 Yearbook
+We sent all our graduates a little graduation gift filled with Make School swag like a custom alumni sweater and mug, as well as a yearbook to commemorate their time at Make School.
 
 ![The Make School Fall 2020 Yearbook](https://res.cloudinary.com/makeschool/image/upload/v1601618061/Blog/Fall_Grad_Yearbook.jpg "The Make School Fall 2020 Yearbook")
-
-[text about yearbook]
-
-![Inside page of Make School Fall 2020 Yearbook](https://res.cloudinary.com/makeschool/image/upload/v1601618084/Blog/Fall_Grad_Yearbook_-_Inside_Page.png "Inside page of Make School Fall 2020 Yearbook")
+The Fall 2020 Make School yearbook
 
 ##Reflections from Students
 
