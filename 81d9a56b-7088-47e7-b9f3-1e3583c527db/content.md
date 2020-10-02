@@ -2,7 +2,7 @@
 title: September 2020 Fall Graduation Recap
 custom_slug: september-2020-fall-graduation-recap
 category: news
-listed: false
+listed: true
 release_date: !ruby/object:ActiveSupport::TimeWithZone
   utc: &1 2020-10-01 00:00:00.000000000 Z
   zone: !ruby/object:ActiveSupport::TimeZone
@@ -25,12 +25,11 @@ Some of our graduates last Saturday
 
 Our speakers for graduation included our Dean, Dr. Anne Spalding, the Make School founders, and faculty members like Dan Morse - who is our Instructor Manager for Early Learning. They encouraged our new graduates to look back on their achievements, look forward towards a bright future, and above all to be excited about the enormous impact they are poised to have as technology continues to become important to the world.
 
-##Class of 2020 Recap video
+##Class of 2020 Graduation Video
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hzbAdHqG4Gk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-A recap video created by graduate Ramon Geronimo that highlights all the important moments of the last two years for the Class of 2020
+Graduate Ramon Geronimo created this graduation video that highlights all the important moments of the last two years for the Class of 2020.
 
 ##Graduation Gift
-
 ![Image of the gift from Make School to each graduate](https://res.cloudinary.com/makeschool/image/upload/v1601616595/Blog/September_Grad_Gift.jpg "Image of the gift from Make School to each graduate")
 
 We sent all our graduates a little graduation gift filled with Make School swag like a custom alumni sweater and mug, as well as a yearbook to commemorate their time at Make School.
@@ -41,7 +40,7 @@ The Fall 2020 Make School yearbook
 ##Reflections from Students
 
 ###From graduates
-"I can't thank everyone enough for all the support during my journey. I left my family in the Dominican Republic but I gained a new family at Make School. When I think of all of you, the picture that comes to mind is a huge human ladder where Dan, my coach, is the root carrying me on his shoulders. Make School's staff and peers and at the top Adriana, my iOS instructor, pushing me over the huge wall that was blocking me before. You all helped me get to the top and over that wall, and for that I will always be graceful to you all.
+"I can't thank everyone enough for all the support during my journey. I left my family in the Dominican Republic but I gained a new family at Make School. When I think of all of you, the picture that comes to mind is a huge human ladder where Dan, my coach, is the root carrying me on his shoulders, Make School's staff and peers [are the middle rungs], and at the top Adriana, my iOS instructor, pushing me over the huge wall that was blocking me before. You all helped me get to the top and over that wall, and for that I will always be graceful to you all.
 Thanks."
 
 "Thank you all for the well wishes and encouragement. It's great getting a final bit of support as I begin my journey into the workforce. It's been a very eventful two years and I feel well prepared for the job market. Now it's just a matter of landing the job. To LinkedIn and Leetcode I go!"
@@ -53,7 +52,7 @@ Thanks."
 
 ![Image of the virtual after party](https://res.cloudinary.com/makeschool/image/upload/v1601618334/Blog/Graduation_After_Party.png "Image of the virtual after party")
 
-[text about after party]
+After graduation, attendees enjoyed a virtual party with founder Ashu Desai as the DJ. We utilized the awesome platform [SpacialChat] (https://spatial.chat/) that provides an easy way to create virtual events!
 
 ##Graduate Spotlights
 
