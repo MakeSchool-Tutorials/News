@@ -34,7 +34,7 @@ Last Saturday marked our second virtual graduation for the 2020 class! We were t
 
 ##Class of 2020 Recap video
 
-[video embed]
+[!["Class of 2020 Recap"]()](https://www.youtube.com/watch?v=hzbAdHqG4Gk&feature=youtu.be)
 [text about video]
 
 ##Graduation Swag Pack
