@@ -35,7 +35,6 @@ It was wonderful to reminisce about the challenges faced and memories made by th
 
 ##Class of 2020 Yearbook
 
-
 ![The Make School Fall 2020 Yearbook](https://res.cloudinary.com/makeschool/image/upload/v1601618061/Blog/Fall_Grad_Yearbook.jpg "The Make School Fall 2020 Yearbook")
 
 [text about yearbook]
@@ -63,6 +62,7 @@ Thanks."
 
 ###Ryan Nguyen
 ![Image of Ryan](https://res.cloudinary.com/makeschool/image/upload/v1601618464/Blog/Ryan_Nguyen_Pic.jpg "Image of Ryan")
+
 Meet Ryan Nguyen, who'll be graduating during Fall graduation this September! Ryan is from El Monte, CA and most would describe him as offbeat in the most perfectly timed way. Computer Science was always challenging for him - since the beginning of his journey through Make School. But what kept him interested were the results of his work being on the apps in people's pockets.⁠
 
 His favorite Make School memory was learning about binary trees and playing ping pong in the same hour. His advice for future students is to continue to ask pressing questions to the programmers around you because everyone is more than willing to help out. Ryan is currently working as an iOS developer at Bolar Score, which innovates the relationship between landlords and tenants.⁠
