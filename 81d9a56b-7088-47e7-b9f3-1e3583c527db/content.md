@@ -15,7 +15,7 @@ Last Saturday marked our second virtual graduation for the 2020 class! We were t
 
 !["Zoom Graduation!"](https://res.cloudinary.com/makeschool/image/upload/v1601592782/Blog/Sept_2020_Grad_Group_1.png "Zoom Graduation!")
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+!["Some of our graduates"](https://res.cloudinary.com/makeschool/image/upload/v1601592776/Blog/Sept_2020_Grads_2.png "Some of our graduates")
 
 ##Graduation Speakers
 
