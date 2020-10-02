@@ -32,7 +32,7 @@ Graduate Ramon Geronimo created this graduation video that highlights all the im
 ##Graduation Gift
 ![Image of the gift from Make School to each graduate](https://res.cloudinary.com/makeschool/image/upload/v1601616595/Blog/September_Grad_Gift.jpg "Image of the gift from Make School to each graduate")
 
-We sent all our graduates a little graduation gift filled with Make School swag like a custom alumni sweater and mug, as well as a yearbook to commemorate their time at Make School.
+We sent all our graduates a little graduation gift filled with Make School swag like a custom alumni sweater and mug, as well as a yearbook to commemorate their time at Make School. They opened their gifts together during graduation.
 
 ![The Make School Fall 2020 Yearbook](https://res.cloudinary.com/makeschool/image/upload/v1601618061/Blog/Fall_Grad_Yearbook.jpg "The Make School Fall 2020 Yearbook")
 The Fall 2020 Make School yearbook
