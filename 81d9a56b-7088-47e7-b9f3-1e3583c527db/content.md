@@ -11,7 +11,7 @@ release_date: !ruby/object:ActiveSupport::TimeWithZone
 cover_photo_path: 
 
 ---
-Last Saturday marked our second virtual graduation for the 2020 class! We were thrilled that over 100 students, staff, and family/friends were able to tune in to support and celebrate our graduates. It was wonderful to reminisce about the challenges faced and memories made by this amazing group of students. We can't wait to watch them soar - congrats Class of 2020 Fall Graduates! Read more about graduation below.
+Saturday, September 26, marked our second virtual graduation for the 2020 class! We were thrilled that over 100 students, staff, and family/friends were able to tune in to support and celebrate our graduates. It was wonderful to reminisce about the challenges faced and memories made by this amazing group of students. We can't wait to watch them soar - congrats Class of 2020 Fall Graduates! Read more about graduation below.
 
 ![Image of virtual graduation](https://res.cloudinary.com/makeschool/image/upload/v1601592782/Blog/Sept_2020_Grad_Group_1.png "Zoom Graduation!")
 Some of the attendees during last Saturday's virtual graduation
