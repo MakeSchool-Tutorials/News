@@ -56,12 +56,15 @@ After graduation, attendees enjoyed a virtual party with founder Ashu Desai as t
 
 ##Graduate Spotlights
 
-###Ryan Nguyen
-![Image of Ryan](https://res.cloudinary.com/makeschool/image/upload/v1601618464/Blog/Ryan_Nguyen_Pic.jpg "Image of Ryan")
-
-Meet Ryan Nguyen, who'll be graduating during Fall graduation this September! Ryan is from El Monte, CA and most would describe him as offbeat in the most perfectly timed way. Computer Science was always challenging for him - since the beginning of his journey through Make School. But what kept him interested were the results of his work being on the apps in people's pockets.⁠
-
-His favorite Make School memory was learning about binary trees and playing ping pong in the same hour. His advice for future students is to continue to ask pressing questions to the programmers around you because everyone is more than willing to help out. Ryan is currently working as an iOS developer at Bolar Score, which innovates the relationship between landlords and tenants.⁠
+###Sukhrob Golibboev
+![Image of Sukhrob](https://res.cloudinary.com/makeschool/image/upload/v1605474995/Blog/Sukhrob_Image_1.jpg "Image of Sukhrob")
+Meet recent graduate Sukhrob Golibboev, who is originally from Tashkent, Uzbekistan. Sukhrob just recently started as a full-time Software Engineer at Microsoft and wants to grow professionally and personally there so he can eventually give back to the communities that supported him on his journey.⁠⠀
+⁠⠀
+Sukhrob has always been into science and new technology but didn’t know which path to choose. When he first came to San Francisco 5 years ago, he was initially studying math at a community college. A close friend recommended an introductory CS class, and it got Sukhrob interested in how software can improve people’s lives.⁠⠀
+⁠⠀
+Sukhrob’s favorite Make School memories involve playing ping-pong with friends after spending long hours in the Quiet Room grinding away at coding challenges. He’s had so much fun at Make School - he had never previously been in a community as friendly, safe, and welcoming as Make school. He feels the community is like a family.⁠⠀
+⁠⠀
+His advice to future students is to “Be curious always. And if you’re thinking of giving up, DON’T! I had times I thought coding is not for me, or I am not smart enough. But I kept continuing to learn. Lastly, never stop seeking help and also offering your help to others.”
 
 ###Elliot Briant
 ![Image of Elliot](https://res.cloudinary.com/makeschool/image/upload/v1601618459/Blog/Elliot.jpg "Image of Elliot")
@@ -73,15 +76,12 @@ Elliot's advice for future students at Make School is to take ownership of their
 
 What's next for Elliot? He has almost completed his time as a software engineer contractor in collaboration with NASA's Jet Propulsion Laboratory and the Indian Space Research Organization (ISRO) on a Mission called NISAR that helps scientists better understand climate change. After that, he'll be embracing his entrepreneurial mindset and working full-time on his own FinTech startup venture called PaySplit Inc., a platform that enables groups of people to distribute payments frictionlessly.⁠
 
-###Ramon Geronimo
-![Image of Ramon](https://res.cloudinary.com/makeschool/image/upload/v1601618470/Blog/Ramon_Geronimo.jpg "Image of Ramon")
-Meet graduating senior Ramon Geronimo, who originally comes from the Dominican Republic. He first became interested in technology because he wanted to provide solutions for sports and education through his nonprofit Rising to the Top (@rising2dtoporg).⁠
+###Ryan Nguyen
+![Image of Ryan](https://res.cloudinary.com/makeschool/image/upload/v1601618464/Blog/Ryan_Nguyen_Pic.jpg "Image of Ryan")
 
-Ramon's favorite memory at Make School was his last day of class because it was the moment he reached his goal of finishing his education no matter what obstacles and sacrifices he had to make.⁠
+Meet Ryan Nguyen, who'll be graduating during Fall graduation this September! Ryan is from El Monte, CA and most would describe him as offbeat in the most perfectly timed way. Computer Science was always challenging for him - since the beginning of his journey through Make School. But what kept him interested were the results of his work being on the apps in people's pockets.⁠
 
-The advice Ramon would give to prospective students is to "Define your WHY: Knowing your purpose and the reason why it is important to you will help you reflect when facing struggles or failure."⁠
-
-After graduation, Ramon plans on continuing to make a difference to the tech industry and wants to tell his story to inspire others who want to learn how to code and don't know how or where to start.⁠
+His favorite Make School memory was learning about binary trees and playing ping pong in the same hour. His advice for future students is to continue to ask pressing questions to the programmers around you because everyone is more than willing to help out. Ryan is currently working as an iOS developer at Bolar Score, which innovates the relationship between landlords and tenants.⁠
 
 ###Raymond Wu
 ![Image of Raymond](https://res.cloudinary.com/makeschool/image/upload/v1601618493/Blog/Raymond_Wu.png "Image of Raymond")
@@ -94,3 +94,13 @@ Raymond's favorite memory from his time at the program is definitely the 2 Hallo
 What's next for Raymond: "right now I'm at an internship working on an Uber library called Kepler.gl and Deck.gl through Codelabs. I've got a presentation at the end of the month that I hope will turn into a new grad offer but I'm currently applying to various other places in case it doesn't!"⁠
 
 For more words of wisdom from Raymond, see [this article](http://make.sc/student-advice) he wrote with advice for future Make School students!
+
+###Ramon Geronimo
+![Image of Ramon](https://res.cloudinary.com/makeschool/image/upload/v1601618470/Blog/Ramon_Geronimo.jpg "Image of Ramon")
+Meet graduating senior Ramon Geronimo, who originally comes from the Dominican Republic. He first became interested in technology because he wanted to provide solutions for sports and education through his nonprofit Rising to the Top (@rising2dtoporg).⁠
+
+Ramon's favorite memory at Make School was his last day of class because it was the moment he reached his goal of finishing his education no matter what obstacles and sacrifices he had to make.⁠
+
+The advice Ramon would give to prospective students is to "Define your WHY: Knowing your purpose and the reason why it is important to you will help you reflect when facing struggles or failure."⁠
+
+After graduation, Ramon plans on continuing to make a difference to the tech industry and wants to tell his story to inspire others who want to learn how to code and don't know how or where to start.⁠
