@@ -2,7 +2,7 @@
 title: 7 Steps to Checking in On Your Mental Health During College
 custom_slug: 7-steps-to-checking-in-on-your-mental-health-during-college
 category: admissions
-listed: false
+listed: true
 release_date: !ruby/object:ActiveSupport::TimeWithZone
   utc: &1 2020-12-01 00:00:00.000000000 Z
   zone: !ruby/object:ActiveSupport::TimeZone
