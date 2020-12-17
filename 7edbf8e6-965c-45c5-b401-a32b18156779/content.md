@@ -35,11 +35,14 @@ Many of us have fallen into the bad habit of using our electronic devices right 
 
 Not only can partaking in deep breathing exercises help to reduce your overall stress levels, but it can also be a key factor in getting a better night's sleep. When you're ready to go to bed, lay on your back, close your eyes, and place your hand on your stomach. Take slow deep breaths, inhaling through your nose and exhaling through your mouth. You'll find that your heart rate will slow down, your mind and body will relax, and your body will begin to drift off to sleep.
 
-![Person on running outside](https://res.cloudinary.com/makeschool/image/upload/v1608237150/Blog/Sleep_Blog_Image_3.jpg "Person on running outside")
+![Person running outside](https://res.cloudinary.com/makeschool/image/upload/v1608237150/Blog/Sleep_Blog_Image_3.jpg "Person running outside")
 
 ## Incorporate Exercise Into Your Day
 
 As a student, it can be difficult to fit exercise into your busy schedule, but it's extremely important that you find time each day to do so. You've probably heard that exercise plays a crucial role in your overall health, but did you know that it also plays a major part in maximizing your sleep? In fact, [one study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4341978/) found that people who perform 150 minutes of moderate activity or more each week have up to a 65% improvement in their overall sleep quality.
 
-Though there are many different techniques that you can use to improve your sleep hygiene, we hope that these tips will help jumpstart your journey to a better quality of sleep and overall health. It's crucial that you, as a student, make sure that your health and wellness are taken care of before anything else. If you don't put the needs of your mind, body, and soul first, it's going to be difficult to be the best version of yourself in school as well as in your personal life.\
-Don't be afraid to experiment and try out some (or all) of these methods to find out what works best for your lifestyle, and if you're looking for more ways to better your overall well being, take a look at this great article that discusses [10 self-care tips for college students](https://www.makeschool.com/blog/10-selfcare-tips-for-college-students).
+---
+
+Though there are many different techniques that you can use to improve your sleep hygiene, we hope that these tips will help jumpstart your journey to a better quality of sleep and overall health. It's crucial that you, as a student, make sure that your health and wellness are taken care of before anything else. If you don't put the needs of your mind, body, and soul first, it's going to be difficult to be the best version of yourself in school as well as in your personal life.
+
+Don't be afraid to experiment and try out some (or all) of these methods to find out what works best for your lifestyle, and for additional tips on how to fall asleep faster and enjoy your sleep, check out this [report](https://sleep.report/20-tips-better-sleep/). Lastly, if you're looking for more ways to better your overall well being, take a look at this great article that discusses [10 self-care tips for college students](https://www.makeschool.com/blog/10-selfcare-tips-for-college-students).
