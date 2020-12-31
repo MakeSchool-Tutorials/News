@@ -35,7 +35,7 @@ Be sure to wear comfortable clothing whenever you are breathing deeply and medit
 
 One of the most important parts of deep breathing and meditation is that you have to truly want to participate. If you aren't in the right headspace or aren't committed to fully investing in these wellness exercises mentally and emotionally, it's best that you don't force it. If you try to take part when you aren't quite ready, you may just end up stressing yourself out more than anything and that would defeat the purpose. If you try to meditate and just do not "feel it", step away from it for the day and come back to it when you are ready.
 
-![A woman teaching a virtual yoga class](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "A woman teaching a virtual yoga class")
+![A woman teaching a virtual yoga class](https://res.cloudinary.com/makeschool/image/upload/v1609447993/Blog/BasicsMeditationImage2.jpg "A woman teaching a virtual yoga class")
 
 ## Follow a Beginner's Guided Meditation Video
 
