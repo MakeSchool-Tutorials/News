@@ -17,6 +17,8 @@ Deep breathing and meditation are skills that you can use during your time in co
 
 Though there are major benefits to deep breathing and meditation, many students aren't sure where to begin. Thankfully, we have some tips to help you. Let's start with some basics:
 
+![Example of a peaceful location](https://res.cloudinary.com/makeschool/image/upload/v1609447993/Blog/BasicsMeditationImage1.jpg "Example of a peaceful location")
+
 ## Find a Peaceful Location
 
 It will be a lot easier for you to relax if you're somewhere quiet with no distractions around you. We've found that some of the best places to practice deep breathing and meditation are in your bedroom, backyard, or simply in a comfortable chair. Then, you'll want to proceed by closing any blinds or curtains, dimming the lights, and if it's safe to do so, light a scented candle. The key here is to find a place that feels comfortable and calming to you.  
@@ -31,7 +33,9 @@ Be sure to wear comfortable clothing whenever you are breathing deeply and medit
 
 ## Don't Force It
 
-One of the most important parts of deep breathing and meditation is that you have to truly want to participate. If you aren't in the right headspace or aren't committed to fully investing in these wellness exercises mentally and emotionally, it's best that you don't force it. If you try to take part when you aren't quite ready, you may just end up stressing yourself out more than anything and that would defeat the purpose. If you try to meditate and just do not "feel it", step away from it for the day and come back to it when you are ready.  
+One of the most important parts of deep breathing and meditation is that you have to truly want to participate. If you aren't in the right headspace or aren't committed to fully investing in these wellness exercises mentally and emotionally, it's best that you don't force it. If you try to take part when you aren't quite ready, you may just end up stressing yourself out more than anything and that would defeat the purpose. If you try to meditate and just do not "feel it", step away from it for the day and come back to it when you are ready.
+
+![A woman teaching a virtual yoga class](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "A woman teaching a virtual yoga class")
 
 ## Follow a Beginner's Guided Meditation Video
 
