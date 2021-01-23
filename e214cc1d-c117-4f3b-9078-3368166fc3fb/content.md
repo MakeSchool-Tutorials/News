@@ -4,7 +4,7 @@ custom_slug: interview-with-erick-sanchez-from-retail-to-six-figures-at-google-p
 category: student_spotlight
 listed: true
 release_date: !ruby/object:ActiveSupport::TimeWithZone
-  utc: &1 2021-01-19 00:00:00.000000000 Z
+  utc: &1 2021-01-05 00:00:00.000000000 Z
   zone: !ruby/object:ActiveSupport::TimeZone
     name: Etc/UTC
   time: *1
