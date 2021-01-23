@@ -4,7 +4,7 @@ custom_slug: top-tips-for-filling-out-your-fafsa
 category: admissions
 listed: true
 release_date: !ruby/object:ActiveSupport::TimeWithZone
-  utc: &1 2021-01-21 00:00:00.000000000 Z
+  utc: &1 2021-01-14 00:00:00.000000000 Z
   zone: !ruby/object:ActiveSupport::TimeZone
     name: Etc/UTC
   time: *1
