@@ -2,7 +2,7 @@
 title: Make School Announces a Permanent Online Enrollment Option
 custom_slug: make-school-announces-a-permanent-online-enrollment-option
 category: news
-listed: false
+listed: true
 release_date: !ruby/object:ActiveSupport::TimeWithZone
   utc: &1 2021-02-02 00:00:00.000000000 Z
   zone: !ruby/object:ActiveSupport::TimeZone
