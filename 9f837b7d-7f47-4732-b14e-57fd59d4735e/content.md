@@ -3,7 +3,7 @@ title: 'Make School partners with Google for Computer Science Summer Institute: 
   program!'
 custom_slug: make-school-partners-with-google-for-computer-science-summer-institute-extension-program
 category: news
-listed: false
+listed: true
 release_date: !ruby/object:ActiveSupport::TimeWithZone
   utc: &1 2021-04-30 00:00:00.000000000 Z
   zone: !ruby/object:ActiveSupport::TimeZone
@@ -23,13 +23,19 @@ Last summer, Make School became a CSSI: Extension site for the very first time.�
 ##Student Testimonials
 
 ###Yin Chang, Class of 2022
-To sum up my days in Google CSSI ‘20, I'd say: Inspiration, goosebumps and more inspiration! I got to meet all the CS enthusiasts from around the United States and every day I just breathed in and out the code and new exciting project ideas. Google CSSI really prepared me well to kick off the journey of computer science! ![Yin Chang Headshot](https://res.cloudinary.com/makeschool/image/upload/v1619815462/Blog/Google_CSSI_-_Yin_Image.png "Yin Chang Headshot")
+To sum up my days in Google CSSI ‘20, I'd say: Inspiration, goosebumps and more inspiration! I got to meet all the CS enthusiasts from around the United States and every day I just breathed in and out the code and new exciting project ideas. Google CSSI really prepared me well to kick off the journey of computer science!
+
+![Yin Chang Headshot](https://res.cloudinary.com/makeschool/image/upload/v1619815462/Blog/Google_CSSI_-_Yin_Image.png "Yin Chang Headshot")
 
 ### Merissa Bridgeman, Class of 2022
-CSSI is about learning and growing as a community. From hearing the experiences from software engineers in today’s industry, to collaborating on projects with students from around the country. This program made me feel at home in the CS community. ![Merissa Bridgeman Headshot](https://res.cloudinary.com/makeschool/image/upload/v1619815460/Blog/Google_CSSI_-_Merissa_Image.png "Merissa Bridgeman Headshot")
+CSSI is about learning and growing as a community. From hearing the experiences from software engineers in today’s industry, to collaborating on projects with students from around the country. This program made me feel at home in the CS community.
+
+![Merissa Bridgeman Headshot](https://res.cloudinary.com/makeschool/image/upload/v1619815460/Blog/Google_CSSI_-_Merissa_Image.png "Merissa Bridgeman Headshot")
 
 ### Reef Stafford, Class of 2022
-CSSI reaffirmed my interests in Computer Science. CSSI was the push I needed to gain confidence in my first steps coding and ever since I got the codes rolling! ![Reef Stafford Headshot](https://res.cloudinary.com/makeschool/image/upload/v1619815461/Blog/Google_CSSI_-_Reef_Image.png "Reef Stafford Headshot")
+CSSI reaffirmed my interests in Computer Science. CSSI was the push I needed to gain confidence in my first steps coding and ever since I got the codes rolling!
+
+![Reef Stafford Headshot](https://res.cloudinary.com/makeschool/image/upload/v1619815461/Blog/Google_CSSI_-_Reef_Image.png "Reef Stafford Headshot")
 
 ---
 
