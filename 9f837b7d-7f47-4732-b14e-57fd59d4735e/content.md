@@ -16,7 +16,7 @@ Make School is excited to announce that we are partnering with Google again this
 
 Similar to Make School's project-based learning model, CSSI: Extension is an intensive, interactive, hands-on, and fun program that seeks to inspire the tech leaders and innovators of tomorrow.  Participants will spend weeks learning p5 curriculum taught by a Make School instructor and Googler, in preparation for the final project week--a time where students will be working in groups to ideate, build, and present on a project of their choosing.
 
-[LINK TO CSSI RECAP VIDEO: <https://www.youtube.com/watch?v=kc72rWDjdQA>]
+[Check out our CSSI: Extension recap from last year] (https://www.youtube.com/watch?v=kc72rWDjdQA)
 
 Last summer, Make School became a CSSI: Extension site for the very first time.  We welcomed 18 students into the program with the support of Lisa Tran, Cohort Advisor; Adriana Gonzalez, Technical Advisor; and Liya Tilahun, Teaching Assistant.  Students attended daily code-alongs, weekly cohort meetings, and other CSSI events focused on community-building.  Make School students who participated in CSSI: Extension last summer started the school year with a connection to other students, reported feeling more confident in their ability to code as a result of the program, and are now active leaders in our community (e.g., Student Ambassadors, Student Council Members, Event Coordinators, etc.).
 
