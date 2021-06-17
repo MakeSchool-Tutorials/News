@@ -27,6 +27,7 @@ The new partnership between Shopify and Make School builds on Make School's comm
 Dev Degree offers fast-track learning and ties theory to real-life product development practice. The program will welcome 30+ new students in September across its three programs with Make School, Carleton University (Ottawa, Canada), and York University (Toronto, Canada), resulting in a milestone of over 100+ students being accepted into the program since its founding in 2016. Applications for Dev Degree's Fall 2022 intake open mid-September for students considering applying for this innovative work-integrated learning program.
 
 **About Make School**
+
 Make School is a Silicon Valley college that offers a Bachelor of Science in Applied Computer Science through a project-based curriculum. They are reshaping higher education for the modern economy and making it accessible to students of all backgrounds.
 
 Make School partners with US-based [Dominican University of California](https://www.dom.edu/) to provide a fully accredited Bachelor's degree in Applied Computer Science, with notable faculty including ex-Google and NASA engineers.
@@ -34,7 +35,9 @@ Make School partners with US-based [Dominican University of California](https://
 Graduates of Make School have gone on to work at highly sought-after companies including Google, Lyft, Microsoft, Facebook, and LinkedIn; earning an average salary of over $100,000.
 
 **About Shopify Dev Degree Program**
+
 Dev Degree is a work-integrated learning program that combines an accredited Computer Science degree with hands-on developer experience at Shopify. Dev Degree interns receive work experience at Shopify, academic experience with university partners, and $160,000+ in paid tuition, salary, and vacation days covered by Shopify. Dev Degree started in September 2016 partnering with Carleton University in Ottawa. In 2018, Dev Degree expanded the program to partner with York University's Lassonde School of Engineering and Computer Science in Toronto. Dev Degree has graduated two cohorts of students, and 100% of students have successfully demonstrated job placements in engineering roles within six months of graduating. Make School is Dev Degree's first university partner in the United States.
 
-**About Shopify:**
+**About Shopify**
+
 Shopify is a leading global commerce company, providing trusted tools to start, grow, market, and manage a retail business of any size. Shopify makes commerce better for everyone with a platform and services that are engineered for reliability, while delivering a better shopping experience for consumers everywhere. Proudly founded in Ottawa, Shopify powers over 1.7 million businesses in more than 175 countries and is trusted by brands such as Allbirds, Gymshark, Heinz, Staples Canada, and many more. For more information, visit [www.shopify.com](https://www.shopify.com/)
