@@ -1,6 +1,6 @@
 ---
-title: 'Shopify and Make School partner to launch a remote computer science degree
-  program '
+title: 'Shopify and Make School Partner to Launch a Remote Computer Science Degree
+  Program '
 custom_slug: shopify-and-make-school-partner-to-launch-a-remote-computer-science-degree-program-
 category: news
 listed: true
