@@ -3,7 +3,7 @@ title: 'Shopify and Make School partner to launch a remote computer science degr
   program '
 custom_slug: shopify-and-make-school-partner-to-launch-a-remote-computer-science-degree-program-
 category: news
-listed: false
+listed: true
 release_date: !ruby/object:ActiveSupport::TimeWithZone
   utc: &1 2021-06-17 00:00:00.000000000 Z
   zone: !ruby/object:ActiveSupport::TimeZone
